@@ -2,7 +2,7 @@
 
 This section attempts to convert all the supplementary material to the Iron Gods adventure path that still need to be included to actually run it within 2e. Most of it will be entries from the *[Technology Guide](https://paizo.com/products/btpy98i0?Pathfinder-Campaign-Setting-Technology-Guide)* but some may be homebrewed extras to help with the conversion.
 
-Please note that there will be **MAJOR SWEEPING CHANGES** to many items. As a GM you may wish to discuss with your players how these items are presented and what they consider to be the most important thing when converting an item, and develop your own take on things from there.
+Please note that there will be **MAJOR SWEEPING CHANGES** to many items.
 
 ## Looking for Items?
 
@@ -32,7 +32,6 @@ To see an overview of the traits that were added, please click [here](/Traits/RE
   * [Remove Radioactivity](#remove-radioactivity)
   * [Technomancy](#technomancy)
 * [Color Grading](#color-grading)
-* [Timeworn Technology](#timeworn-technology)
 * [Technological Radiation](#technological-radiation)
 * [Numerian Fluids](#numerian-fluids)
 * [Skymetals](#skymetals)
@@ -43,7 +42,7 @@ To see an overview of the traits that were added, please click [here](/Traits/RE
 
 Silverdisks are [batteries^](Gear/README.md#battery) that no longer function. They are often used as a secondary currency in Numeria.
 
-One silverdisk is worth 1gp.
+One silverdisk is worth 1 gp.
 
 ## New Actions
 
@@ -90,10 +89,6 @@ You can use the Craft activity to create cybernetic items, though many have addi
 You also gain access to the [Install Cybertech^](Cybertech/README.md#install-cybertech) and [Remove Cybertech^](Cybertech/README.md#remove-cybertech) activities.
 
 ## New Spells
-
-Spell rarity has been left up to the GM, but it's pretty safe to assume these spells are all Rare, with the only people that have access being Technic League members.
-
-Use the JSON files with [https://template.pf2.tools/]. Be aware these do **NOT** import directly into FoundryVTT.
 
 ### Detect Radiation
 
@@ -156,46 +151,6 @@ Red         | 11
 Blue        | 13
 Orange      | 15
 Prismatic   | 17
-
-## Timeworn Technology
-
-Items with the Timeworn trait are worth 50% of its original value, cannot be recharged and has a 50% chance of glitching under the following circumstances:
-
-* When the item is used for the first time in a month or more of inactivty
-* Any time a single-use consumable is used
-* When using the item would drain its last charge
-* When using an item requires a roll of a d20 and the roll results in a natural 1
-* When a critical hit is confirmed against the wearer of an active defensive item, such as armor or a force field.
-
-When an item glitches, roll a d% on the corresponding table.
-
-### Armor Glitches
-
-as inside cover of the Technology Guide.
-
-### Pharmaceutical Glitches
-
-d%     | Glitch
--------|-------
-01-02  | Spoiled. Treat as poisoning by [violet venom](http://2e.aonprd.com/Equipment.aspx?ID=651).
-03-11  | Spoiled. Treat as exposure to [fly pox](http://2e.aonprd.com/Diseases.aspx?ID=20).
-12-20  | Spoiled. Patient is fascinated by the ceiling for 1d6 rounds.
-21-30  | Spoiled. Patient is sickened 1 for 1d6 x 10 minutes (Fort DC 15)
-31-40  | Spoiled. Pharmaceutical has no effect.
-41-50  | Less potent. Decrease all save DCs by 2. Use minimum values for all dice rolls in effects. Decreasure durations by 50%.
-51-60  | Normal effect, but patient needs to make a DC 15 Fortitude save or be drained 1.
-61-75  | Normal effect, but patient needs to make a DC 15 Will save or be fascinated by the ceiling for 2d4 rounds.
-76-85  | Normal effect.
-86-95  | More potent. Increase any save DCs by 2. Reroll any result of 1 for effects. Increase duration by 100%.
-96-100 | Far more potent. Increase any save DCs by 2. Reroll any result of 1 for effects. Increase duration by 100%. Count as two doses.
-
-### General Glitches
-
-as inside cover of the Technology Guide.
-
-### Weapon Glitches
-
-as inside cover of the Technology Guide.
 
 ## Technological Radiation
 
