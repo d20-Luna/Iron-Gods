@@ -24,7 +24,9 @@ A battery contains 10 charges when full. When recharging a battery at a generato
 
 **Traits** [Rare](https://2e.aonprd.com/Traits.aspx?ID=137), [Tech^](/Traits/README.md#tech)
 
-**Level** 5; **Price** 150 gp; **Usage** held in 1 hand; **Bulk** 1
+**Level** 5; **Price** 150 gp
+
+**Usage** held in 1 hand; **Bulk** 1
 
 A chemalyzer is a handheld unit with an extendable wand tipped with a sampling nozzle. This Numerian item's effects are high-tech in nature, not magical.
 
@@ -69,7 +71,7 @@ An emergency beacon's power is provided by [batteries^](/Technology%20Guide/Gear
 
 **Traits** [Uncommon](https://2e.aonprd.com/Traits.aspx?ID=159), [Tech^](/Traits/README.md#tech)
 
-**Price** 250 gp
+**Level** 6; **Price** 250 gp
 
 **Usage** worn mask; **Bulk** L
 
@@ -79,15 +81,19 @@ A filter mask's power is provided by a [battery^](/Technology%20Guide/Gear#batte
 
 **Activate** [one action] Interact; **Charges** 1; **Effect** The creature wearing the mask becomes immune to all inhaled poisons and diseases. The mask consumes an additional charge every hour that it is activated, and can be deactivated with another Interact action.
 
-## Flashlight [STILL UPDATING]
+## Flashlight
 
 **Traits** [Light](https://2e.aonprd.com/Traits.aspx?ID=100), [Tech^](/Traits/README.md#tech)
 
-**Price** 3 gp; **Hands** 1; **Bulk** L
+**Price** 3 gp
 
-**Capacity** 10; **Usage** 1 charge/8 hours
+**Usage** held in 1 hand; **Bulk** L
 
-A flashlight emits bright light in a 60 foot cone and dim light in the next 60 feet when activated.
+This metal cylinder has a glass pane at the end and a switch on the side. This Numerian item's effects are high-tech in nature, not magical.
+
+A flashlight's power is provided by a [battery^](/Technology%20Guide/Gear#battery). A fully charged battery has 10 charges. A charge is expended whenever the device is activated, as detailed below in its "Charges" entry.
+
+**Activate** [one action] Interact; **Charges** 1; **Effect** The flashlight emits bright light in a 60 foot cone and dim light in the next 60 feet when activated. A flashlight has no effect in areas of magical darkness. The flashlight uses an additional charge every eight hours while activated. It can be deactivated with another Interact action.
 
 ## Goo Tube [STILL UPDATING]
 
