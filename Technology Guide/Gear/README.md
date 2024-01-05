@@ -30,7 +30,7 @@ A battery contains 10 charges when full. When recharging a battery at a generato
 
 A chemalyzer is a handheld unit with an extendable wand tipped with a sampling nozzle. This Numerian item's effects are high-tech in nature, not magical.
 
-A chemalyzer's power is provided by a [battery^](/Technology%20Guide/Gear#battery). A fully charged battery has 10 charges. A charge is expended whenever the device is activated, as detailed below in its "Charges" entry.
+A chemalyzer's power is provided by a [battery^](#battery). A fully charged battery has 10 charges. A charge is expended whenever the device is activated, as detailed below in its "Charges" entry.
 
 **Activate** [one action] Interact; **Charges** 1; **Effect** You dip the sampling nozzle into an alchemical or pharmaceutical item, gaining a +2 item bonus to your [Identify Alchemy](https://2e.aonprd.com/Actions.aspx?ID=44) and [Identify Pharmaceutical^](/Technology%20Guide/README.md#identify-pharmaceutical) checks. It cannot aid in the identification of magical effects or substances (like potions) but it does work on Alchemical Elixirs. A chemalyzer cannot be used in lieu of [Alchemist's tools](https://2e.aonprd.com/Equipment.aspx?ID=2).
 
@@ -42,7 +42,7 @@ A chemalyzer's power is provided by a [battery^](/Technology%20Guide/Gear#batter
 
 An e-pick (short for “electronic lock pick”) is a small device that can be used to unlock and disable electronic locks and devices, much in the same way that a set of thieves’ tools can be used to dismantle mechanical locks and devices.
 
-An e-pick's power is provided by a [battery^](/Technology%20Guide/Gear#battery). A fully charged battery has 10 charges. A charge is expended whenever the device is activated, as detailed below in its "Charges" entry.
+An e-pick's power is provided by a [battery^](#battery). A fully charged battery has 10 charges. A charge is expended whenever the device is activated, as detailed below in its "Charges" entry.
 
 **Activate** [free action] Interact; **Trigger** You attempt to Disable a Device or Pick a Lock on a technological device; **Charges** 1; **Effect** Your e-pick powers up, guiding you through your Disable a Device or Pick a Lock check on a technological device. You gain an item bonus on the check based on the grade of e-pick, as detailed below.
 
@@ -63,7 +63,7 @@ Black     | 3     | +1         | Uncommon | 15 gp
 
 An emergency beacon is a small, pod-shaped device with a bright red dome on its top. This Numerian item's effects are high-tech in nature, not magical.
 
-An emergency beacon's power is provided by [batteries^](/Technology%20Guide/Gear#battery). A fully charged battery has 10 charges, and an emergency beacon can hold three batteries. A charge is expended whenever the device is activated, as detailed below in its "Charges" entry.
+An emergency beacon's power is provided by [batteries^](#battery). A fully charged battery has 10 charges, and an emergency beacon can hold three batteries. A charge is expended whenever the device is activated, as detailed below in its "Charges" entry.
 
 **Activate** [one action] Interact; **Charges** 1; **Effect** You flip a switch on the beacon, transmitting its location, while the red dome on its top begins to illuminate. Any device capable of receiving signals of any sort can pick up a beacon’s signal, which can then be tracked back to the source with a DC 15 Track action. A beacon’s transmissions have a range of 100 miles over flat terrain, but this range is halved in forests or hills, and quartered in mountainous terrain or through water. The emergency beacon uses an additional charge every eight hours while activated. It can be deactivated with another Interact action.
 
@@ -77,7 +77,7 @@ An emergency beacon's power is provided by [batteries^](/Technology%20Guide/Gear
 
 This clear mask grants its wearer a +2 item bonus to all saving throws made to resist inhaled poisons and diseases even when not activated, thanks to its built in air filters. This Numerian item's effects are high-tech in nature, not magical.
 
-A filter mask's power is provided by a [battery^](/Technology%20Guide/Gear#battery). A fully charged battery has 10 charges. A charge is expended whenever the device is activated, as detailed below in its "Charges" entry.
+A filter mask's power is provided by a [battery^](#battery). A fully charged battery has 10 charges. A charge is expended whenever the device is activated, as detailed below in its "Charges" entry.
 
 **Activate** [one action] Interact; **Charges** 1; **Effect** The creature wearing the mask becomes immune to all inhaled poisons and diseases. The mask consumes an additional charge every hour that it is activated, and can be deactivated with another Interact action.
 
@@ -91,7 +91,7 @@ A filter mask's power is provided by a [battery^](/Technology%20Guide/Gear#batte
 
 This metal cylinder has a glass pane at the end and a switch on the side. This Numerian item's effects are high-tech in nature, not magical.
 
-A flashlight's power is provided by a [battery^](/Technology%20Guide/Gear#battery). A fully charged battery has 10 charges. A charge is expended whenever the device is activated, as detailed below in its "Charges" entry.
+A flashlight's power is provided by a [battery^](#battery). A fully charged battery has 10 charges. A charge is expended whenever the device is activated, as detailed below in its "Charges" entry.
 
 **Activate** [one action] Interact; **Charges** 1; **Effect** The flashlight emits bright light in a 60 foot cone and dim light in the next 60 feet when activated. A flashlight has no effect in areas of magical darkness. The flashlight uses an additional charge every eight hours while activated. It can be deactivated with another Interact action.
 
@@ -188,7 +188,7 @@ A nanite canister is used to power technological devices that use nanites—such
 
 This bizarre metal pistol-like object has a needle at the end instead of a barrel. This Numerian item's effects are high-tech in nature, not magical.
 
-A nanite hypogun's power is provided by a [nanite canister^](/Technology%20Guide/Gear#nanite-canister). A full nanite canister has 10 charges. A charge is expended whenever the device is activated, as detailed below in its "Charges" entry.
+A nanite hypogun's power is provided by a [nanite canister^](#nanite-canister). A full nanite canister has 10 charges. A charge is expended whenever the device is activated, as detailed below in its "Charges" entry.
 
 **Activate** [one action] Interact; **Charges** 1; **Effect** You inject the target with the nanite hypogun using its primary setting. The target recovers hit points according to the Primary column of the table below.
 
