@@ -4,23 +4,23 @@ New traits will be indicated with a carat (^) and are linked to their explanatio
 
 # Simple Melee Weapons
 
-## Inferno Knife (Commercial, Tactical, Advanced)
+## Inferno Knife (Timeworn, Commercial, Tactical, Advanced)
 
-**Level** 0 (Commercial), 1 (Tactical), 2 (Advanced); **Price** 12 gp (Commercial), 24 gp (Tactical), 36 gp (Advanced); **Damage** 1d4 P (Commercial, Tactical), 2d4 P (Advanced); **Bulk** L; **Hands** 1;
+**Level** 0 (Timeworn, Commercial), 1 (Tactical), 2 (Advanced); **Price** 6 gp (Timeworn) 12 gp (Commercial), 24 gp (Tactical), 36 gp (Advanced); **Damage** 1d4 P (Timeworn, Commercial, Tactical), 2d4 P (Advanced); **Bulk** L; **Hands** 1;
 
-**Weapon Group** [Knife](https://2e.aonprd.com/WeaponGroups.aspx?ID=9), **Traits** [Agile](https://2e.aonprd.com/Traits.aspx?ID=170), [Finesse](https://2e.aonprd.com/Traits.aspx?ID=179), [Tech^](/Traits/README.md#tech), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced), [Versatile S](https://2e.aonprd.com/Traits.aspx?ID=200)
+**Weapon Group** [Knife](https://2e.aonprd.com/WeaponGroups.aspx?ID=9), **Traits** [Agile](https://2e.aonprd.com/Traits.aspx?ID=170), [Finesse](https://2e.aonprd.com/Traits.aspx?ID=179), [Tech^](/Traits/README.md#tech), [Timeworn^](/Traits/README.md#timeworn) (Timeworn), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced), [Versatile S](https://2e.aonprd.com/Traits.aspx?ID=200)
 
-**Capacity** 10 charges; **Usage** -; **Reload** 1; **Upgrades** 1 (Commercial, Tactical), 2 (Advanced)
+**Capacity** 10 charges; **Usage** -; **Reload** - (Timeworn), 1 (Commercial, Tactical, Advanced); **Upgrades** - (Timeworn), 1 (Commercial, Tactical), 2 (Advanced)
 
 This military-grade blade has a line of material running through the center of the blade that can be briefly ignited. On a critical hit, the inferno knife uses a charge to deal 1d6 persistent fire damage.
 
-## Laser Torch (Commercial, Tactical, Advanced)
+## Laser Torch (Timeworn, Commercial, Tactical, Advanced)
 
-**Level** 0 (Commercial), 2 (Tactical), 4 (Advanced); **Price** 18 gp (Commercial), 36 gp (Tactical), 100 gp (Advanced); **Damage** 1d8 Fire (Commercial, Tactical), 2d8 Fire (Advanced); **Bulk** L; **Hands** 1;
+**Level** 0 (Timeworn, Commercial), 2 (Tactical), 4 (Advanced); **Price** 9 gp (Timeworn), 18 gp (Commercial), 36 gp (Tactical), 100 gp (Advanced); **Damage** 1d8 Fire (Timeworn, Commercial, Tactical), 2d8 Fire (Advanced); **Bulk** L; **Hands** 1;
 
-**Weapon Group** [Flame^](/Traits/README.md#flame), **Traits** Finesse, Razing, [Tech^](/Traits/README.md#tech), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
+**Weapon Group** [Flame^](/Traits/README.md#flame), **Traits** Finesse, Razing, [Tech^](/Traits/README.md#tech), [Timeworn^](/Traits/README.md#timeworn) (Timeworn), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
 
-**Capacity** 10 charges; **Usage** 1; **Reload** 1; **Upgrades** 1 (Commercial, Tactical), 2 (Advanced)
+**Capacity** 10 charges; **Usage** 1; **Reload** - (Timeworn), 1 (Commercial, Tactical, Advanced); **Upgrades** - (Timeworn), 1 (Commercial, Tactical), 2 (Advanced)
 
 This handheld tool looks like a blunt-tipped laser pistol. It is intended to cut through objects with great speed. When used against unattended objects or structures, the laser torch is able to ignore 10 points of Hardness unless the target is particularly fire-resistant. This weapon's damage is not affected by the wielder's Strength.
 
@@ -32,13 +32,13 @@ This handheld tool looks like a blunt-tipped laser pistol. It is intended to cut
 
 This staff has a hollowed-out tip that contains a biolumenescent algae. On a successful Strike, the algae within the lumenstaff illuminates, releasing light as a torch for 1 round. Additionally, Strikes made with a lumenstaff do not take a penalty when made underwater.
 
-## Neural Inhibitor (Commercial, Tactical, Advanced)
+## Neural Inhibitor (Timeworn, Commercial, Tactical, Advanced)
 
-**Level** 0 (Commercial), 2 (Tactical), 4 (Advanced); **Price** 15 gp (Commercial), 30 gp (Tactical), 95 gp (Advanced); **Damage** 1d6 B (Commercial, Tactical), 2d6 B (Advanced); **Bulk** L; **Hands** 1
+**Level** 0 (Timeworn, Commercial), 2 (Tactical), 4 (Advanced); **Price** 7 gp (Timeworn), 15 gp (Commercial), 30 gp (Tactical), 95 gp (Advanced); **Damage** 1d6 B (Timeworn, Commercial, Tactical), 2d6 B (Advanced); **Bulk** L; **Hands** 1
 
-**Weapon Group** Club; **Traits** Agile, Finesse, Shove, [Tech^](/Traits/README.md#tech), [Tracking +1](/Traits/README.md#tracking) (Tactical, Advanced)
+**Weapon Group** Club; **Traits** Agile, Finesse, Shove, [Tech^](/Traits/README.md#tech), [Timeworn^](/Traits/README.md#timeworn) (Timeworn), [Tracking +1](/Traits/README.md#tracking) (Tactical, Advanced)
 
-**Capacity** 10 charges; **Usage** -; **Reload** 1; **Upgrades** 1 (Commercial, Tactical), 2 (Advanced)
+**Capacity** 10 charges; **Usage** -; **Reload** - (Timeworn), 1 (Commercial, Tactical, Advanced); **Upgrades** - (Timeworn), 1 (Commercial, Tactical), 2 (Advanced)
 
 A neural inhibitor is a 2-foot truncheon with multiple bands of metal along the head. A neural inhibitor can be activated with an Interact action by using a single charge, at which point its item bonus to attack rolls increases by 1 and it gains an additional damage die, though these effects are high-tech in nature, not magical. Additionally, while activated, creatures hit with the neural inhibitor must make a Fortitude save against your Class DC against the weapon's disorienting energy. On a failure, the target is stupefied 1 for one round. On a critical failure, the target is stupefied 2 for 1 round, and stupefied 1 for 1 minute. The neural inhibitor automatically Sustains the activation at the start of your turn using an additional charge, and can be deactivated with an additional Interact action.
 
@@ -303,6 +303,8 @@ When activated with an Interact action, a plasma blade’s heavy, ornate handle 
 **Level** 0 (Commercial), 2 (Tactical), 4 (Advanced); **Price** 20 gp (Commercial), 40 gp (Tactical), 110 gp (Advanced); **Damage** 1d6 B (Commercial, Tactical), 2d6 B (Advanced); **Bulk** L; **Hands** 1
 
 **Weapon Group** Club; **Traits** Agile, Incapacitation, Nonlethal, [Tech^](/Traits/README.md#tech), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
+
+*Still need to pull description from Pathbuilder to Import to Repository...*
  
 # Martial Ranged Weapons
 
@@ -317,6 +319,8 @@ When activated with an Interact action, a plasma blade’s heavy, ornate handle 
 This bulky, handheld cannon has a wicked design that can fire any grenade a great distance. A grenade launcher can only fire grenades in the order it was loaded. Grenades fired from a grenade launcher are automatically set to detonate upon impact, dealing their usual effects when detonated, save for their save DCs are equal to your Class DC.
 
 ## Plasmathrower (Tactical, Advanced)
+
+**Level** 6 (Tactical), 8 (Advanced)
 
 A plasmathrower is a devastating weapon that fires blasts of superheated, electrically charged gas. Half the damage dealt by a plasmathrower is fire damage and the other half is electricity damage.
 
