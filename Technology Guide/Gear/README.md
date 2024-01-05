@@ -2,6 +2,16 @@
 
 New traits will be indicated with a carat (^) and are linked to their explanation.
 
+## Access Card
+
+**Traits** [Tech^](/Traits/README.md#tech)
+
+**Price** Varies; **Usage** held in 1 hand; **Bulk** L
+
+An access card is a small strip of stiff plastic with a colorcoded stripe on one side. Some access cards are further decorated with names or titles written in Androffan, or even photographs of long-dead crew members. An access card functions as a key—when swiped through an electronic lock as an Interact action, an access card unlocks any lock of its color code or a color code of a lower rating. Although access cards do not consume energy themselves, they work in only electronic locks that currently have power. Among certain societies in Numeria, access cards are also used as decorations, worn as affectations, and incorporated into ceremonial regalia.
+
+Access cards must be encoded to specific locks before they can function. Often, all of the doors in a complex are keyed to a unique set of cards that don’t work on doors found in other complexes, much like a skeleton key might open all the doors in one castle but none in another. Coding an access card for specific locks requires a lock coder. Some access cards could be worth far more than the prices listed above if they’re specifically encoded to locks that protect more valuable or significant contents.
+
 ## Battery
 
 **Traits** [Uncommon](https://2e.aonprd.com/Traits.aspx?ID=159), [Tech^](/Traits/README.md#tech)
@@ -10,30 +20,36 @@ New traits will be indicated with a carat (^) and are linked to their explanatio
 
 A battery contains 10 charges when full. When recharging a battery at a generator, roll a DC 4 flat check. On a failure, the battery is destroyed and becomes a useless silverdisk.
 
-## Chemalyzer [STILL UPDATING]
+## Chemalyzer
 
 **Traits** [Rare](https://2e.aonprd.com/Traits.aspx?ID=137), [Tech^](/Traits/README.md#tech)
 
-**Level** 5; **Price** 150 gp; **Hands** 1; **Bulk** 1
+**Level** 5; **Price** 150 gp; **Usage** held in 1 hand; **Bulk** 1
 
-**Capacity** 10; **Usage** 1
+A chemalyzer is a handheld unit with an extendable wand tipped with a sampling nozzle. This Numerian item's effects are high-tech in nature, not magical.
 
-When used it grants a +2 item bonus to any [Identify Alchemy](https://2e.aonprd.com/Actions.aspx?ID=44) and [Identify Pharmaceutical^](/Technology%20Guide/README.md#identify-pharmaceutical) checks. It cannot aid in the identification of magical effects or substances (like potions) but it does work on Alchemical Elixirs. This cannot be used in lieu of [Alchemist's tools](https://2e.aonprd.com/Equipment.aspx?ID=2).
+A chemalyzer's power is provided by a [battery^](/Technology%20Guide/Gear#battery). A fully charged battery has 10 charges. A charge is expended whenever the device is activated, as detailed below in its "Charges" entry.
 
-## E-pick [STILL UPDATING]
+**Activate** [one action] Interact; **Charges** 1; **Effect** You dip the sampling nozzle into an alchemical or pharmaceutical item, gaining a +2 item bonus to your [Identify Alchemy](https://2e.aonprd.com/Actions.aspx?ID=44) and [Identify Pharmaceutical^](/Technology%20Guide/README.md#identify-pharmaceutical) checks. It cannot aid in the identification of magical effects or substances (like potions) but it does work on Alchemical Elixirs. A chemalyzer cannot be used in lieu of [Alchemist's tools](https://2e.aonprd.com/Equipment.aspx?ID=2).
+
+## E-pick
 
 **Traits** [Tech^](/Traits/README.md#tech)
 
-**Hands** 2; **Bulk** L
+**Usage** held in 2 hands; **Bulk** L
 
-**Capacity** 10
+An e-pick (short for “electronic lock pick”) is a small device that can be used to unlock and disable electronic locks and devices, much in the same way that a set of thieves’ tools can be used to dismantle mechanical locks and devices.
+
+An e-pick's power is provided by a battery. A fully charged battery has 10 charges. A charge is expended whenever the device is activated, as detailed below in its "Charges" entry.
+
+**Activate** [free action] Interact; **Trigger** You attempt to Disable a Device or Pick a Lock on a technological device; **Charges** 1; **Effect** Your e-pick powers up, guiding you through your Disable a Device or Pick a Lock check on a technological device. You gain an item bonus on the check based on the grade of e-pick, as detailed below.
 
 Without expending a charge on an e-pick, [Pick a Lock](https://2e.aonprd.com/Actions.aspx?ID=70) and [Disable a Device](https://2e.aonprd.com/Actions.aspx?ID=69) checks on technological devices suffer a -5 penalty. Higher grade models of e-picks provide an item bonus to those checks. However, e-picks cannot be used on non-technological devices and they cannot substitute for regular picks in [Thieves' tools](https://2e.aonprd.com/Equipment.aspx?ID=58).
 
-Grade     | Level | Item Bonus | Craft DC | Rarity   | Cost
-----------|-------|------------|----------|----------|-------
-Brown     | 1     | 0          | 21       | Uncommon | 3 gp
-Black     | 3     | +1         | 24       | Uncommon | 15 gp
+Grade     | Level | Item Bonus | Rarity   | Cost
+----------|-------|------------|----------|-------
+Brown     | 1     | 0          | Uncommon | 3 gp
+Black     | 3     | +1         | Uncommon | 15 gp
 
 ## Emergency Beacon [STILL UPDATING]
 
