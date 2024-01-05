@@ -100,73 +100,73 @@ An autograpnel appears as a bulky rifle with an adamantine spike at the tip. It 
 
 Dart guns fire condensed needles of nanites at ranged targets. Dart guns possess small resevoirs above their handles into which a single dose of a pharmaceutical, drug, poison, or even a potion can be poured as an Interact action. The next dart fired from the dart gun delivers that liquid into the target immediately upon a hit.
 
-## EMP Pistol (Commercial, Tactical, Advanced) [STILL UPDATING]
+## EMP Pistol (Timeworn, Commercial, Tactical, Advanced)
 
-**Level** 0 (Commercial), 2 (Tactical), 4 (Advanced); **Price** 18 gp (Commercial), 36 gp (Tactical), 100 gp (Advanced); **Damage** 1d8 E (Commercial, Tactical), 2d8 E (Advanced); **Bulk** 1; **Hands** 1; **Range** 40 feet
+**Level** 0 (Timeworn, Commercial), 2 (Tactical), 4 (Advanced); **Price** 9 gp (Timeworn), 18 gp (Commercial), 36 gp (Tactical), 100 gp (Advanced); **Damage** 1d8 E (Timeworn, Commercial, Tactical), 2d8 E (Advanced); **Bulk** 1; **Hands** 1; **Range** 40 feet
 
-**Weapon Group** [EMP^](/Traits/README.md#emp); **Traits** [Tech^](/Traits/README.md#tech), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
+**Weapon Group** [EMP^](/Traits/README.md#emp); **Traits** [Tech^](/Traits/README.md#tech), [Timeworn^](/Traits/README.md#timeworn) (Timeworn), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
 
-**Capacity** 10 charges; **Usage** 1; **Reload** 1; **Upgrades** 1 (Commercial, Tactical), 2 (Advanced)
+**Capacity** 10 charges; **Usage** 1; **Reload** - (Timeworn), 1 (Commercial, Tactical, Advanced); **Upgrades** - (Timeworn), 1 (Commercial, Tactical), 2 (Advanced)
 
 EMP pistols contain a number of electromagnetically-charged spikes protruding from their barrels. An EMP pistol emits a beam of electromagnetic energy that only deals full damage to creatures with the tech trait. An EMP pistol can harm androids, automatons, and creatures with cybernetic implants, but they take half damage from a hit.
 
-## EMP Rifle (Commercial, Tactical, Advanced) [STILL UPDATING]
+## EMP Rifle (Timeworn, Commercial, Tactical, Advanced)
 
-**Level** 4 (Commercial), 6 (Tactical), 8 (Advanced); **Price** 100 gp (Commercial), 200 gp (Tactical), 440 gp (Advanced); **Damage** 1d12 E (Commercial, Tactical), 2d12 E (Advanced); **Bulk** 2; **Hands** 2; **Range** 100 feet
+**Level** 4 (Timeworn, Commercial), 6 (Tactical), 8 (Advanced); **Price** 50 gp (Timeworn), 100 gp (Commercial), 200 gp (Tactical), 440 gp (Advanced); **Damage** 1d12 E (Timeworn, Commercial, Tactical), 2d12 E (Advanced); **Bulk** 2; **Hands** 2; **Range** 100 feet
 
-**Weapon Group** [EMP^](/Traits/README.md#emp); **Traits** [Automatic^](/Traits/README.md#automatic), [Tech^](/Traits/README.md#tech), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
+**Weapon Group** [EMP^](/Traits/README.md#emp); **Traits** [Automatic^](/Traits/README.md#automatic), [Tech^](/Traits/README.md#tech), [Timeworn^](/Traits/README.md#timeworn) (Timeworn), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
 
-**Capacity** 20 charges; **Usage** 1; **Reload** 1; **Upgrades** 1 (Commercial, Tactical), 2 (Advanced)
+**Capacity** 20 charges; **Usage** 1; **Reload** - (Timeworn), 1 (Commercial, Tactical, Advanced); **Upgrades** - (Timeworn), 1 (Commercial, Tactical), 2 (Advanced)
 
 EMP rifles contain a series of electromagnetically-charges spikes within their barrels. An EMP rifle emits a beam of electromagnetic energy that only deals full damage to creatures with the tech trait, and half damage to androids, automatons, and creatures with cybernetic implants.
 
-## Flare Gun (Commercial, Tactical, Advanced) [STILL UPDATING]
+## Flare Gun (Timeworn, Commercial, Tactical, Advanced)
 
-**Level** 0 (Commercial, Tactical), 2 (Advanced); **Price** 2 gp (Commercial), 4 gp (Tactical), 30 gp (Advanced); **Damage** 1d6 F (Commercial, Tactical), 2d6 F (Advanced); **Bulk** 1; **Hands** 1; **Range** 120 feet
+**Level** 0 (Timeworn, Commercial, Tactical), 2 (Advanced); **Price** 1 gp (Timeworn), 2 gp (Commercial), 4 gp (Tactical), 30 gp (Advanced); **Damage** 1d6 F (Timeworn, Commercial, Tactical), 2d6 F (Advanced); **Bulk** 1; **Hands** 1; **Range** 120 feet
 
-**Weapon Group** [Flame^](/Traits/README.md#flame); **Traits** [Area^](/Traits/README.md#area-burst-cone-line) (burst 5 ft.), [Analog^](/Traits/README.md#analog), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
+**Weapon Group** [Flame^](/Traits/README.md#flame); **Traits** [Area^](/Traits/README.md#area-burst-cone-line) (burst 5 ft.), [Analog^](/Traits/README.md#analog), [Timeworn^](/Traits/README.md#timeworn) (Timeworn), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
 
 **Capacity** -; **Usage** 1; **Reload** -; **Upgrades** -
 
 A flare gun looks like a wide-barreled pistol, and although it can be used in combat, the item’s primary use is to send signals. A flare gun and its ammunition (a small, rocket-propelled magnesium charge) are completely self-contained and disposable—once fired, a flare gun is useless. The flare detonates once it hits a target or reaches its maximum range of 600 feet, bursting into a sphere of fire that illuminates a 120-foot-radius area for 1 minute as it drifts slowly back to the ground. Any creatures within 20 feet of the flare must succeed at a DC 15 Fortitude saving throw each round or be dazzled by the intense light for as long as they remain in the area. Creatures adjacent to a lit flare are also blinded for 1d4 rounds on a failed save.
 
-## Gravity Pistol (Commercial, Tactical, Advanced) [STILL UPDATING]
+## Gravity Pistol (Timeworn, Commercial, Tactical, Advanced)
 
-**Level** 0 (Commercial), 2 (Tactical), 4 (Advanced); **Price** 25 gp (Commercial), 50 gp (Tactical), 115 gp (Advanced); **Damage** 1d6 Fo (Commercial, Tactical), 2d6 Fo (Advanced); **Bulk** 1; **Hands** 1; **Range** 40 feet
+**Level** 0 (Timeworn, Commercial), 2 (Tactical), 4 (Advanced); **Price** 12 gp (Timeworn), 25 gp (Commercial), 50 gp (Tactical), 115 gp (Advanced); **Damage** 1d6 Fo (Timeworn, Commercial, Tactical), 2d6 Fo (Advanced); **Bulk** 1; **Hands** 1; **Range** 40 feet
 
-**Weapon Group** [Gravity^](/Traits/README.md#gravity); **Traits** [Graviton^](/Traits/README.md#graviton), [Tech^](/Traits/README.md#tech), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
+**Weapon Group** [Gravity^](/Traits/README.md#gravity); **Traits** [Graviton^](/Traits/README.md#graviton), [Tech^](/Traits/README.md#tech), [Timeworn^](/Traits/README.md#timeworn) (Timeworn), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
 
-**Capacity** 10 charges; **Usage** 1; **Reload** 1; **Upgrades** 1 (Commercial, Tactical), 2 (Advanced)
+**Capacity** 10 charges; **Usage** 1; **Reload** - (Timeworn), 1 (Commercial, Tactical, Advanced); **Upgrades** - (Timeworn), 1 (Commercial, Tactical), 2 (Advanced)
 
 Gravity pistols use forked prongs protruding from their barrels to fire specialized beams of gravitons to batter and reposition foes.
 
-## Gravity Rifle(Commercial, Tactical, Advanced) [STILL UPDATING]
+## Gravity Rifle (Timeworn, Commercial, Tactical, Advanced)
 
-**Level** 4 (Commercial), 6 (Tactical), 8 (Advanced); **Price** 130 gp (Commercial), 260 gp (Tactical), 500 gp (Advanced); **Damage** 1d10 Fo (Commercial, Tactical), 2d10 Fo (Advanced); **Bulk** 2; **Hands** 2; **Range** 100 feet
+**Level** 4 (Timeworn, Commercial), 6 (Tactical), 8 (Advanced); **Price** 65 gp (Timeworn), 130 gp (Commercial), 260 gp (Tactical), 500 gp (Advanced); **Damage** 1d10 Fo (Timeworn, Commercial, Tactical), 2d10 Fo (Advanced); **Bulk** 2; **Hands** 2; **Range** 100 feet
 
-**Weapon Group** [Gravity^](/Traits/README.md#gravity); **Traits** [Automatic^](/Traits/README.md#automatic), [Graviton^](/Traits/README.md#graviton), [Tech^](/Traits/README.md#tech), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
+**Weapon Group** [Gravity^](/Traits/README.md#gravity); **Traits** [Automatic^](/Traits/README.md#automatic), [Graviton^](/Traits/README.md#graviton), [Tech^](/Traits/README.md#tech), [Timeworn^](/Traits/README.md#timeworn) (Timeworn), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
 
-**Capacity** 20 charges; **Usage** 1; **Reload** 1; **Upgrades** 1 (Commercial, Tactical), 2 (Advanced)
+**Capacity** 20 charges; **Usage** 1; **Reload** - (Timeworn), 1 (Commercial, Tactical, Advanced); **Upgrades** - (Timeworn), 1 (Commercial, Tactical), 2 (Advanced)
 
 Gravity rifles use multiple forked prongs protruding from their barrels to fire powerful, specialized beams of gravitons to batter and reposition foes.
 
-## Id Rifle (Commercial, Tactical, Advanced) [STILL UPDATING]
+## Id Rifle (Timeworn, Tactical, Advanced)
 
-**Level** 4 (Commercial), 6 (Tactical), 8 (Advanced); **Price** 130 gp (Commercial), 260 gp (Tactical), 510 gp (Advanced); **Damage** 1d4 P (Commercial, Tactical), 2d4 P (Advanced); **Bulk** 2; **Hands** 2; **Range** 70 feet
+**Level** 4 (Timeworn), 6 (Tactical), 8 (Advanced); **Price** 65 gp (Timeworn), 260 gp (Tactical), 510 gp (Advanced); **Damage** 1d4 P (Timeworn, Tactical), 2d4 P (Advanced); **Bulk** 2; **Hands** 2; **Range** 70 feet
 
-**Weapon Group** [Projectile^](/Traits/README.md#projectile); **Traits** Incapacitation, [Tech^](/Traits/README.md#tech), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
+**Weapon Group** [Projectile^](/Traits/README.md#projectile); **Traits** Incapacitation, [Tech^](/Traits/README.md#tech), [Timeworn^](/Traits/README.md#timeworn) (Timeworn), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
 
-**Capacity** 10 nanites; **Usage** 1; **Reload** 1; **Upgrades** 1 (Commercial, Tactical), 2 (Advanced)
+**Capacity** 10 nanites; **Usage** 1; **Reload** - (Timeworn), 1 (Tactical, Advanced); **Upgrades** 1 (Tactical), 2 (Advanced)
 
 This sleek, low-caliber rifle is made of a burnished skymetal. An id rifle fires tiny barbs of nanites that target the nervous system and possesses a microphone in its stock. A creature damaged by an id rifle must make a Will save against your Class DC. On a failure, the target is stupefied 1. On a critical failure, the target is stupefied 3. If the target is already stupefied, their stupefied value increases by the same amount. Additionally, as a command action that has a usage of 1, you can attempt to affect all creatures within 50 feet that have been damaged by your id rifle within the past 24 hours with a non-magical suggestion effect, using your Class DC.
 
-## Inferno Pistol (Commercial, Tactical, Advanced) [STILL UPDATING]
+## Inferno Pistol (Timeworn, Commercial, Tactical, Advanced)
 
-**Level** 0 (Commercial), 2 (Tactical), 4 (Advanced); **Price** 17 gp (Commercial), 35 gp (Tactical), 100 gp (Advanced); **Damage** 1d6 F (Commercial, Tactical), 2d6 F (Advanced); **Bulk** L; **Hands** 1; **Range** 30 feet
+**Level** 0 (Timeworn, Commercial), 2 (Tactical), 4 (Advanced); **Price** 8 gp (Timeworn), 17 gp (Commercial), 35 gp (Tactical), 100 gp (Advanced); **Damage** 1d6 F (Timeworn, Commercial, Tactical), 2d6 F (Advanced); **Bulk** L; **Hands** 1; **Range** 30 feet
 
-**Weapon Group** [Flame^](/Traits/README.md#flame); **Traits** [Tech^](/Traits/README.md#tech), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
+**Weapon Group** [Flame^](/Traits/README.md#flame); **Traits** [Tech^](/Traits/README.md#tech), [Timeworn^](/Traits/README.md#timeworn) (Timeworn), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
 
-**Capacity** 10 nanites; **Usage** 1; **Reload** 1; **Upgrades** 1 (Commercial, Tactical), 2 (Advanced)
+**Capacity** 10 nanites; **Usage** 1; **Reload** - (Timeworn), 1 (Commercial, Tactical, Advanced); **Upgrades** - (Timeworn), 1 (Commercial, Tactical), 2 (Advanced)
 
 An inferno pistol is a less refined variant of the longer-range laser pistol, which generates a blob of molten nanites to burn its targets.
 
