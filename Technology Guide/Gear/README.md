@@ -10,7 +10,7 @@ New traits will be indicated with a carat (^) and are linked to their explanatio
 
 A battery contains 10 charges when full. When recharging a battery at a generator, roll a DC 4 flat check. On a failure, the battery is destroyed and becomes a useless silverdisk.
 
-## Chemalyzer
+## Chemalyzer [STILL UPDATING]
 
 **Traits** [Rare](https://2e.aonprd.com/Traits.aspx?ID=137), [Tech^](/Traits/README.md#tech)
 
@@ -20,7 +20,7 @@ A battery contains 10 charges when full. When recharging a battery at a generato
 
 When used it grants a +2 item bonus to any [Identify Alchemy](https://2e.aonprd.com/Actions.aspx?ID=44) and [Identify Pharmaceutical^](/Technology%20Guide/README.md#identify-pharmaceutical) checks. It cannot aid in the identification of magical effects or substances (like potions) but it does work on Alchemical Elixirs. This cannot be used in lieu of [Alchemist's tools](https://2e.aonprd.com/Equipment.aspx?ID=2).
 
-## E-pick
+## E-pick [STILL UPDATING]
 
 **Traits** [Tech^](/Traits/README.md#tech)
 
@@ -34,13 +34,8 @@ Grade     | Level | Item Bonus | Craft DC | Rarity   | Cost
 ----------|-------|------------|----------|----------|-------
 Brown     | 1     | 0          | 21       | Uncommon | 3 gp
 Black     | 3     | +1         | 24       | Uncommon | 15 gp
-Gray      | 9     | +2         | 26       | Rare     | 110 gp
-Blue      | 12    | +3         | 29       | Rare     | 350 gp
-Prismatic | 19    | +4         | 31       | Rare     | 800 gp
 
-*Note: There's less grades here than given in the actual Technology Guide. This is because gaining an item bonus higher than 3 is almost impossible in 2e while the Technology Guide wanted to give you a +5 by Level 4.*
-
-## Emergency Beacon
+## Emergency Beacon [STILL UPDATING]
 
 **Traits** [Uncommon](https://2e.aonprd.com/Traits.aspx?ID=159), [Signal^](/Traits/README.md#signal), [Tech^](/Traits/README.md#tech)
 
@@ -50,7 +45,7 @@ Prismatic | 19    | +4         | 31       | Rare     | 800 gp
 
 A DC 15 Track action can follow the beacon's signal.
 
-## Filter Mask
+## Filter Mask [STILL UPDATING]
 
 **Traits** [Uncommon](https://2e.aonprd.com/Traits.aspx?ID=159), [Tech^](/Traits/README.md#tech)
 
@@ -62,7 +57,7 @@ Wearing the mask gives a +2 item bonus to all saving throws made to resist inhal
 
 **Activate** [one action] Interact; **Usage** 1 charge/hour; **Effect** The creature wearing the mask becomes immune to all inhaled poisons and diseases.
 
-## Flashlight
+## Flashlight [STILL UPDATING]
 
 **Traits** [Light](https://2e.aonprd.com/Traits.aspx?ID=100), [Tech^](/Traits/README.md#tech)
 
@@ -72,13 +67,13 @@ Wearing the mask gives a +2 item bonus to all saving throws made to resist inhal
 
 A flashlight emits bright light in a 60 foot cone and dim light in the next 60 feet when activated.
 
-## Goo Tube
+## Goo Tube [STILL UPDATING]
 
 **Traits** [Consumable](https://2e.aonprd.com/Traits.aspx?ID=36)
 
 **Price** 3 sp; **Hands** 1; **Bulk** -
 
-## Grenade
+## Grenade [STILL UPDATING]
 
 **Traits** [Uncommon](https://2e.aonprd.com/Traits.aspx?ID=159), [Bomb](https://2e.aonprd.com/Traits.aspx?ID=21), [Consumable](https://2e.aonprd.com/Traits.aspx?ID=36), [Grenade^](/Traits/README.md#grenade), [Tech^](/Traits/README.md#tech)
 
@@ -97,22 +92,17 @@ Here is a list of the various kinds of grenades and their effects.
 Grenade               | Level | Price  | Save DC       | Extra Traits      | Effect
 ----------------------|-------|--------|---------------|-------------------|---------------------
 Arc Grenade           | 5     | 25 gp  | basic Ref 20  | Electricity       | 5d6 electricity damage
-Atom Grenade          | 11    | 360 gp | N/A           | Radiation         | Creates a 20 foot area of [medium radiation](../README.md#radiation)
 Bang Grenade          | 3     | 15 gp  | Fort 23       | Auditory          | On a failure, creatures are deafened until the end of their next turn. On a critical failure, creature is deafened for 1 minute and stunned 1
-Bio Grenade           | 10    | 200 gp | Fort 15       | Disease           | Infects targets with [Bubonic Plague](http://2e.aonprd.com/Diseases.aspx?ID=6) with no onset
 Concussion Grenade    | 5     | 25 gp  | basic Ref 20  |                   | 5d6 bludgeoning damage
 EMP Grenade           | 4     | 20 gp  | basic Ref 20  | Electricity       | 5d6 electricity damage to robots and tech with charges. Half to androids and cyborgs. No damage to other creatures
 Flash Grenade         | 1     | 5 gp   | Fort 20       | Light, Visual     | Creatures are blinded for 1 round and dazzled for 1 minute. Creatures blinded this way can spend 1 interact action rubbing their eyes to end the blinded condition
 Flechette Grenade     | 5     | 25 gp  | basic Ref 20  |                   | 5d6 piercing damage
 Fragmentation Grenade | 5     | 25 gp  | basic Ref 20  |                   | 5d6 slashing damage
-Gravity Grenade       | 9     | 135 gp | basic Ref 27  | Force, Trip       | 5d6 force damage and creatures are also knocked prone
 Inferno Grenade       | 5     | 25 gp  | basic Ref 20  | Fire              | 5d6 fire damage
-Plasma Grenade        | 8     | 95 gp  | basic Ref 25  | Fire, Electricity | 4d6 fire damage and 4d6 electricity damage
 Soft Grenade          | 5     | 25 gp  | basic Ref 22  | Nonlethal         | 5d6 bludgeoning damage. This effect has the nonlethal trait
-Sonic Grenade         | 6     | 35 gp  | basic Fort 22 | Sonic, Auditory   | 5d6 sonic damage and creatures are also deafened until the end of their turn
 Zero Grenade          | 5     | 25 gp  | basic Ref 20  | Cold              | 5d6 cold damage
 
-## Grippers
+## Grippers [STILL UPDATING]
 
 **Level** 1; **Price** 15 gp; **Hands** 2; **Bulk** L
 
@@ -122,7 +112,7 @@ Grippers can also be used in combat.
 
 **Activate** [two actions] Interact; **Effect** Make a Strike, treating the grippers as an improvised weapon. On a successful hit, the grippers deal 1d4+7 points of bludgeoning damage.
 
-## Ion Tape
+## Ion Tape [STILL UPDATING]
 
 **Traits** Consumable, [Tech^](/Traits/README.md#tech)
 
@@ -130,7 +120,7 @@ Grippers can also be used in combat.
 
 When used to bind a creature, a few strips of activated ion tape require a successful DC 28 Escape check to break.
 
-## Medlance
+## Medlance [STILL UPDATING]
 
 **Traits** Uncommon, Injection, [Tech^](/Traits/README.md#tech)
 
@@ -140,13 +130,13 @@ A medlance doesn't use electrical charges, but after 10 uses its internal steril
 
 **Activate** (1 action) Interact or Strike; **Effect** You inject the liquid in the medlance into the target. If the target is unwilling, make a Strike against their AC (treat the medlance as a simple one-handed melee weapon). On a hit you do no damage, but the liquid is injected. This changes the ingested trait on poisons to the injury trait.
 
-## Nanite Canister
+## Nanite Canister [STILL UPDATING]
 
 **Traits** Rare, Consumable, [Tech^](/Traits/README.md#tech)
 
 **Price** 30 gp; **Bulk** L
 
-## Nanite Hypogun
+## Nanite Hypogun [STILL UPDATING]
 
 **Traits** Rare, Healing, [Tech^](/Traits/README.md#tech)
 
@@ -170,7 +160,7 @@ Blue        | 15    | 4,200 gp  | 33       | 7d8+13  | Casts *[regenerate](http:
 Orange      | 17    | 6,250 gp  | 34       | 8d8+15  | Casts *[moment of renewal](http://2e.aonprd.com/Spells.aspx?ID=201)*
 Prismatic   | 20    | 13,500 gp | 35       | 9d8+17  | Casts *[revival](http://2e.aonprd.com/Spells.aspx?ID=262)*
 
-## Radiation Detector
+## Radiation Detector [STILL UPDATING]
 
 **Traits** Rare, [Tech^](/Traits/README.md#tech)
 
@@ -178,7 +168,7 @@ Prismatic   | 20    | 13,500 gp | 35       | 9d8+17  | Casts *[revival](http://2
 
 **Capacity** 10; **Usage** 1 charge/hour
 
-## Skillchip
+## Skillchip [STILL UPDATING]
 
 **Traits** [Module^](/Traits/README.md#module), [Tech^](/Traits/README.md#tech)
 
@@ -192,7 +182,7 @@ Mark III | 6     | 215 gp | +3    | Rare     | 28
 Mark IV  | 8     | 450 gp | +4    | Rare     | 30
 Mark V   | 10    | 850 gp | +5    | Rare     | 32
 
-## Trauma Pack
+## Trauma Pack [STILL UPDATING]
 
 **Traits** Uncommon, Healing, [Pharmaceutical^](/Traits/README.md#pharmaceutical)
 
@@ -202,7 +192,7 @@ A trauma pack can be used as [Healer's Tools](https://2e.aonprd.com/Equipment.as
 
 You cannot use a trauma pack in this fashion for [Treat Wounds](https://2e.aonprd.com/Actions.aspx?ID=57) DCs set above 20.
 
-## Trauma Pack Plus
+## Trauma Pack Plus [STILL UPDATING]
 
 **Traits** Rare, Healing, [Pharmaceutical^](/Traits/README.md#pharmaceutical)
 
@@ -212,7 +202,7 @@ As the trauma pack, but a charge can be also expended to bring a creature that d
 
 Trauma pack plus uses can be expended like a trauma pack use for [Treat Wounds](https://2e.aonprd.com/Actions.aspx?ID=57) DCs set up to 30.
 
-## Veemod
+## Veemod [STILL UPDATING]
 
 **Traits** Rare, [Module^](/Traits/README.md#module), [Tech^](/Traits/README.md#tech)
 
@@ -223,14 +213,8 @@ Color Grade | Level | Cost      | Craft DC | Power Use | Benefit
 Brown       | 1     | 12 gp     | 27       | 1/day     | Grants low-light vision.
 Black       | 2     | 25 gp     | 28       | 1/day     | Wearer gains a +2 status bonus on saving throws against being dazzled or blinded by bright light. Creatures with light blindness or light sensitivity can see in bright light.
 White       | 5     | 150 gp    | 29       | 1/day     | Gain a +1 status bonus to Perception checks with visual senses.
-Gray        | 7     | 360 gp    | 30       | 1/day     | Gain a +2 status bonus to Perception checks with visual senses.
-Green       | 8     | 450 gp    | 31       | 1/day     | Grants darkvision.
-Red         | 10    | 800 gp    | 32       | 1/day     | Gain a +3 status bonus to Perception checks with visual senses.
-Blue        | 11    | 1,250 gp  | 33       | 1/hour    | Grants [all-around vision](http://2e.aonprd.com/MonsterAbilities.aspx?ID=1).
-Orange      | 13    | 2,400 gp  | 34       | 1/hour    | Grants [greater darkvision](http://2e.aonprd.com/Rules.aspx?ID=415).
-Prismatic   | 15    | 5,000 gp  | 35       | 1/round   | Wearer is able to see through solid objects within 20 feet, with it looking like something in normal light, even if there is no illumination. It penetrates 20 feet of cloth, wood or similar organic material. It can see through 10 feet of stone and some metals. It can see through up to 10 inches of iron, steel, copper, brass or similar materials. It cannot see through lead, gold, platinum and other skymetals.
 
-## Veemod Goggles
+## Veemod Goggles [STILL UPDATING]
 
 **Traits** Uncommon, [Tech^](/Traits/README.md#tech)
 
@@ -238,7 +222,7 @@ Prismatic   | 15    | 5,000 gp  | 35       | 1/round   | Wearer is able to see t
 
 **Capacity** 10
 
-## Zipstick
+## Zipstick [STILL UPDATING]
 
 **Traits** [Tech^](/Traits/README.md#tech)
 
