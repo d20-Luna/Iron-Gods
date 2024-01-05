@@ -100,7 +100,7 @@ An autograpnel appears as a bulky rifle with an adamantine spike at the tip. It 
 
 Dart guns fire condensed needles of nanites at ranged targets. Dart guns possess small resevoirs above their handles into which a single dose of a pharmaceutical, drug, poison, or even a potion can be poured as an Interact action. The next dart fired from the dart gun delivers that liquid into the target immediately upon a hit.
 
-## EMP Pistol (Commercial, Tactical, Advanced)
+## EMP Pistol (Commercial, Tactical, Advanced) [STILL UPDATING]
 
 **Level** 0 (Commercial), 2 (Tactical), 4 (Advanced); **Price** 18 gp (Commercial), 36 gp (Tactical), 100 gp (Advanced); **Damage** 1d8 E (Commercial, Tactical), 2d8 E (Advanced); **Bulk** 1; **Hands** 1; **Range** 40 feet
 
@@ -110,7 +110,7 @@ Dart guns fire condensed needles of nanites at ranged targets. Dart guns possess
 
 EMP pistols contain a number of electromagnetically-charged spikes protruding from their barrels. An EMP pistol emits a beam of electromagnetic energy that only deals full damage to creatures with the tech trait. An EMP pistol can harm androids, automatons, and creatures with cybernetic implants, but they take half damage from a hit.
 
-## EMP Rifle (Commercial, Tactical, Advanced)
+## EMP Rifle (Commercial, Tactical, Advanced) [STILL UPDATING]
 
 **Level** 4 (Commercial), 6 (Tactical), 8 (Advanced); **Price** 100 gp (Commercial), 200 gp (Tactical), 440 gp (Advanced); **Damage** 1d12 E (Commercial, Tactical), 2d12 E (Advanced); **Bulk** 2; **Hands** 2; **Range** 100 feet
 
@@ -120,7 +120,7 @@ EMP pistols contain a number of electromagnetically-charged spikes protruding fr
 
 EMP rifles contain a series of electromagnetically-charges spikes within their barrels. An EMP rifle emits a beam of electromagnetic energy that only deals full damage to creatures with the tech trait, and half damage to androids, automatons, and creatures with cybernetic implants.
 
-## Flare Gun (Commercial, Tactical, Advanced)
+## Flare Gun (Commercial, Tactical, Advanced) [STILL UPDATING]
 
 **Level** 0 (Commercial, Tactical), 2 (Advanced); **Price** 2 gp (Commercial), 4 gp (Tactical), 30 gp (Advanced); **Damage** 1d6 F (Commercial, Tactical), 2d6 F (Advanced); **Bulk** 1; **Hands** 1; **Range** 120 feet
 
@@ -130,7 +130,7 @@ EMP rifles contain a series of electromagnetically-charges spikes within their b
 
 A flare gun looks like a wide-barreled pistol, and although it can be used in combat, the item’s primary use is to send signals. A flare gun and its ammunition (a small, rocket-propelled magnesium charge) are completely self-contained and disposable—once fired, a flare gun is useless. The flare detonates once it hits a target or reaches its maximum range of 600 feet, bursting into a sphere of fire that illuminates a 120-foot-radius area for 1 minute as it drifts slowly back to the ground. Any creatures within 20 feet of the flare must succeed at a DC 15 Fortitude saving throw each round or be dazzled by the intense light for as long as they remain in the area. Creatures adjacent to a lit flare are also blinded for 1d4 rounds on a failed save.
 
-## Gravity Pistol (Commercial, Tactical, Advanced)
+## Gravity Pistol (Commercial, Tactical, Advanced) [STILL UPDATING]
 
 **Level** 0 (Commercial), 2 (Tactical), 4 (Advanced); **Price** 25 gp (Commercial), 50 gp (Tactical), 115 gp (Advanced); **Damage** 1d6 Fo (Commercial, Tactical), 2d6 Fo (Advanced); **Bulk** 1; **Hands** 1; **Range** 40 feet
 
@@ -140,7 +140,7 @@ A flare gun looks like a wide-barreled pistol, and although it can be used in co
 
 Gravity pistols use forked prongs protruding from their barrels to fire specialized beams of gravitons to batter and reposition foes.
 
-## Gravity Rifle(Commercial, Tactical, Advanced)
+## Gravity Rifle(Commercial, Tactical, Advanced) [STILL UPDATING]
 
 **Level** 4 (Commercial), 6 (Tactical), 8 (Advanced); **Price** 130 gp (Commercial), 260 gp (Tactical), 500 gp (Advanced); **Damage** 1d10 Fo (Commercial, Tactical), 2d10 Fo (Advanced); **Bulk** 2; **Hands** 2; **Range** 100 feet
 
@@ -150,7 +150,7 @@ Gravity pistols use forked prongs protruding from their barrels to fire speciali
 
 Gravity rifles use multiple forked prongs protruding from their barrels to fire powerful, specialized beams of gravitons to batter and reposition foes.
 
-## Id Rifle (Commercial, Tactical, Advanced)
+## Id Rifle (Commercial, Tactical, Advanced) [STILL UPDATING]
 
 **Level** 4 (Commercial), 6 (Tactical), 8 (Advanced); **Price** 130 gp (Commercial), 260 gp (Tactical), 510 gp (Advanced); **Damage** 1d4 P (Commercial, Tactical), 2d4 P (Advanced); **Bulk** 2; **Hands** 2; **Range** 70 feet
 
@@ -160,7 +160,7 @@ Gravity rifles use multiple forked prongs protruding from their barrels to fire 
 
 This sleek, low-caliber rifle is made of a burnished skymetal. An id rifle fires tiny barbs of nanites that target the nervous system and possesses a microphone in its stock. A creature damaged by an id rifle must make a Will save against your Class DC. On a failure, the target is stupefied 1. On a critical failure, the target is stupefied 3. If the target is already stupefied, their stupefied value increases by the same amount. Additionally, as a command action that has a usage of 1, you can attempt to affect all creatures within 50 feet that have been damaged by your id rifle within the past 24 hours with a non-magical suggestion effect, using your Class DC.
 
-## Inferno Pistol (Commercial, Tactical, Advanced)
+## Inferno Pistol (Commercial, Tactical, Advanced) [STILL UPDATING]
 
 **Level** 0 (Commercial), 2 (Tactical), 4 (Advanced); **Price** 17 gp (Commercial), 35 gp (Tactical), 100 gp (Advanced); **Damage** 1d6 F (Commercial, Tactical), 2d6 F (Advanced); **Bulk** L; **Hands** 1; **Range** 30 feet
 
@@ -170,7 +170,7 @@ This sleek, low-caliber rifle is made of a burnished skymetal. An id rifle fires
 
 An inferno pistol is a less refined variant of the longer-range laser pistol, which generates a blob of molten nanites to burn its targets.
 
-## Laser Pistol (Commercial, Tactical, Advanced)
+## Laser Pistol (Commercial, Tactical, Advanced) [STILL UPDATING]
 
 **Level** 0 (Commercial), 2 (Tactical), 4 (Advanced); **Price** 19 gp (Commercial), 38 gp (Tactical), 103 gp (Advanced); **Damage** 1d6 F (Commercial, Tactical), 2d6 F (Advanced); **Bulk** 1; **Hands** 1; **Range** 40 feet
 
@@ -180,7 +180,7 @@ An inferno pistol is a less refined variant of the longer-range laser pistol, wh
 
 Laser pistols fire pinpoint shots of directed energy at their targets. These beams can pass through glass and other transparent physical barriers, dealing damage to such barriers as they pass through. Barriers of energy or magical force block lasers. Invisible creatures don’t take damage from lasers, as the beams pass through them harmlessly. Fog, smoke, and other clouds provide both cover and concealment from laser attacks. Lasers can penetrate darkness, but they don’t provide any illumination.
 
-## Laser Rifle (Commercial, Tactical, Advanced)
+## Laser Rifle (Commercial, Tactical, Advanced) [STILL UPDATING]
 
 **Level** 4 (Commercial), 6 (Tactical), 8 (Advanced); **Price** 110 gp (Commercial), 220 gp (Tactical), 460 gp (Advanced); **Damage** 1d10 F (Commercial, Tactical), 2d10 F (Advanced); **Bulk** 2; **Hands** 2; **Range** 100 feet
 
@@ -190,7 +190,7 @@ Laser pistols fire pinpoint shots of directed energy at their targets. These bea
 
 Laser rifles fire high-power, pinpoint shots of directed energy at their targets. These beams can pass through glass and other transparent physical barriers, dealing damage to such barriers as they pass through. Barriers of energy or magical force block lasers. Invisible creatures don't take damage from lasers, as the beams pass through them harmlessly. Fog, smoke, and other clouds provide both cover and concealment from laser attacks. Lasers can penetrate darkness, but they don't provide any illumination.
 
-## Mindburner (Commercial, Tactical, Advanced)
+## Mindburner (Commercial, Tactical, Advanced) [STILL UPDATING]
 
 **Level** 0 (Commercial), 2 (Tactical), 4 (Advanced); **Price** 50 gp (Commercial), 100 gp (Tactical), 200 gp (Advanced); **Damage** 1d4 M (Commercial, Tactical), 2d4 M (Advanced); **Bulk** 1; **Hands** 1; **Range** 30 feet
 
@@ -200,7 +200,7 @@ Laser rifles fire high-power, pinpoint shots of directed energy at their targets
 
 Mindburners have dishlike devices at the end of their barrels, where a small wisp of smoke pools before releasing a beam of white light. On a successful hit, the target must make a Will save against your Class DC. On a failure, the target is stupefied 1 for 1 round. On a critical failure, the target is stupefied 2 for 1 round, and stupefied 1 for 1 minute.
 
-## Mindrender (Commercial, Tactical, Advanced)
+## Mindrender (Commercial, Tactical, Advanced) [STILL UPDATING]
 
 **Level** 2 (Commercial), 4 (Tactical), 6 (Advanced); **Price** 75 gp (Commercial), 150 gp (Tactical), 320 gp (Advanced); **Damage** 1d8 M (Commercial, Tactical), 2d8 M (Advanced); **Bulk** 1; **Hands** 1; **Range** 40 feet
 
@@ -218,7 +218,7 @@ Mindrenders emit a carrier waves of light which transmit masses of nanites into 
 
 **Critical Failure** The target takes double damage and is stunned 2, slowed 1, and sickened 3.
 
-## Sonic Pistol (Commercial, Tactical, Advanced)
+## Sonic Pistol (Commercial, Tactical, Advanced) [STILL UPDATING]
 
 **Level** 0 (Commercial), 2 (Tactical), 4 (Advanced); **Price** 20 gp (Commercial), 40 gp (Tactical), 110 gp (Advanced); **Damage** 1d6 So (Commercial, Tactical), 2d6 So (Advanced); **Bulk** 1; **Hands** 1; **Range** 40 feet
 
@@ -228,7 +228,7 @@ Mindrenders emit a carrier waves of light which transmit masses of nanites into 
 
 Sonic pistols have amplifiers in the tip of their barrels that project focused beams of sound at their targets. If the target has the construct trait, ignore any hardness they possess unless they also have a resistance or immunity to sonic damage.
 
-## Sonic Rifle (Commercial, Tactical, Advanced)
+## Sonic Rifle (Commercial, Tactical, Advanced) [STILL UPDATING]
 
 **Level** 4 (Commercial), 6 (Tactical), 8 (Advanced); **Price** 120 gp (Commercial), 240 gp (Tactical), 480 gp (Advanced); **Damage** 1d10 So (Commercial, Tactical), 2d10 So (Advanced); **Bulk** 2; **Hands** 2; **Range** 100 feet
 
@@ -238,7 +238,7 @@ Sonic pistols have amplifiers in the tip of their barrels that project focused b
 
 Sonic rifles possess powerful amplifiers in the tip of their barrels that project high-power, focused beams of sound at their targets. If the target has the construct trait, ignore any hardness they possess unless they also have a resistance or immunity to sonic damage.
 
-## Stun Gun (Commercial, Tactical, Advanced)
+## Stun Gun (Commercial, Tactical, Advanced) [STILL UPDATING]
 
 **Level** 0 (Commercial), 2 (Tactical), 4 (Advanced); **Price** 18 gp (Commercial), 36 gp (Tactical), 100 gp (Advanced); **Damage** 1d6 So (Commercial, Tactical), 2d6 So (Advanced); **Bulk** 1; **Hands** 1; **Range** 40 feet
 
@@ -248,7 +248,7 @@ Sonic rifles possess powerful amplifiers in the tip of their barrels that projec
 
 Stun guns fire low-frequency blasts of energy when fires. On a critical hit, the target must make a Fortitude against your Class DC as its muscles are assaulted. On a failure, the target is stunned 1. On a critical failure, the target is stunned 3.
 
-## Zero Pistol (Commercial, Tactical, Advanced)
+## Zero Pistol (Commercial, Tactical, Advanced) [STILL UPDATING]
 
 **Level** 0 (Commercial), 2 (Tactical), 4 (Advanced); **Price** 19 gp (Commercial), 38 gp (Tactical), 103 gp (Advanced); **Damage** 1d6 C (Commercial, Tactical), 2d6 C (Advanced); **Bulk** 1; **Hands** 1; **Range** 40 feet
 
@@ -258,7 +258,7 @@ Stun guns fire low-frequency blasts of energy when fires. On a critical hit, the
 
 Zero pistols project super-cooled beams of energy at their targets. If the target has the water trait, you gain a +1 circumstance bonus to your damage roll, and the target also takes 1d4 persistent cold damage on a hit. On a critical hit, double the initial damage (including the circumstance bonus), but not the persistent damage.
 
-## Zero Rifle (Commercial, Tactical, Advanced)
+## Zero Rifle (Commercial, Tactical, Advanced) [STILL UPDATING]
 
 **Level** 4 (Commercial), 6 (Tactical), 8 (Advanced); **Price** 110 gp (Commercial), 220 gp (Tactical), 460 gp (Advanced); **Damage** 1d10 C (Commercial, Tactical), 2d10 C (Advanced); **Bulk** 2; **Hands** 2; **Range** 100 feet
 
@@ -270,7 +270,7 @@ Zero pistols sleak designs possess ultra-specialized cooling coils that project 
  
 # Martial Melee Weapons
 
-## Chainsaw (Tactical, Advanced)
+## Chainsaw (Tactical, Advanced) [STILL UPDATING]
 
 **Level** 4 (Tactical), 6 (Advanced); **Price** 150 gp (Tactical), 260 gp (Advanced); **Damage** 1d8 S (Tactical), 2d8 S (Advanced); **Bulk** 2; **Hands** 2
 
@@ -288,7 +288,7 @@ Originally developed for use as tools, chainsaws work remarkably well as weapons
 
 This polearm is a two-sided weapon. One side is fitted with a broad, shovel-like sharpened blade, while the opposite side is fitted with a crescent blade that juts out like a pair of bull’s horns. The type of damage it deals depends on how it is wielded, with the spade side able to bludgeon and slash and the crescent side able to slash and pierce.
 
-## Plasma Blade (Tactical, Advanced)
+## Plasma Blade (Tactical, Advanced) [STILL UPDATING]
 
 **Level** 6 (Tactical), 8 (Advanced); **Price** 300 gp (Tactical), 500 gp (Advanced); **Damage** 1d10 E and F (Tactical), 2d10 E and F (Advanced); **Bulk** L; **Hands** 1
 
@@ -298,7 +298,7 @@ This polearm is a two-sided weapon. One side is fitted with a broad, shovel-like
 
 When activated with an Interact action, a plasma blade’s heavy, ornate handle projects a quantum field that contains energized plasma in a 2- to 3-foot-long “blade.” Activating a plasma blade has a usage of 1, and the plasma blade automatically uses an additional charge every minute while activated (an activated plasma blade can be deactivated with an additional Interact action). Half the damage a plasma blade deals is electricity and the other half is fire. Thanks to its quantum containment, a plasma blade is treated as dealing force damage when used against an incorporeal target.
 
-## Stun Baton (Commercial, Tactical, Advanced)
+## Stun Baton (Commercial, Tactical, Advanced) [STILL UPDATING]
 
 **Level** 0 (Commercial), 2 (Tactical), 4 (Advanced); **Price** 20 gp (Commercial), 40 gp (Tactical), 110 gp (Advanced); **Damage** 1d6 B (Commercial, Tactical), 2d6 B (Advanced); **Bulk** L; **Hands** 1
 
@@ -308,7 +308,7 @@ When activated with an Interact action, a plasma blade’s heavy, ornate handle 
  
 # Martial Ranged Weapons
 
-## Grenade Launcher (Tactical, Advanced)
+## Grenade Launcher (Tactical, Advanced) [STILL UPDATING]
 
 **Level** 2 (Tactical), 4 (Advanced); **Price** 100 gp (Tactical), 200 gp (Advanced); **Damage** Special; **Bulk** 2; **Hands** 2; **Range** 100 feet
 
@@ -318,33 +318,33 @@ When activated with an Interact action, a plasma blade’s heavy, ornate handle 
 
 This bulky, handheld cannon has a wicked design that can fire any grenade a great distance. A grenade launcher can only fire grenades in the order it was loaded. Grenades fired from a grenade launcher are automatically set to detonate upon impact, dealing their usual effects when detonated, save for their save DCs are equal to your Class DC.
 
-## Plasmathrower (Tactical, Advanced)
+## Plasmathrower (Tactical, Advanced) [STILL UPDATING]
 
 **Level** 6 (Tactical), 8 (Advanced)
 
 A plasmathrower is a devastating weapon that fires blasts of superheated, electrically charged gas. Half the damage dealt by a plasmathrower is fire damage and the other half is electricity damage.
 
-## Rotoarc (Tactical, Advanced)
+## Rotoarc (Tactical, Advanced) [STILL UPDATING]
 
 Rotoarcs employ a moving array of pronged emitters protruding from a rotating set of barrels to fire a series of short electrical blasts in an area. Rotoarcs can unleash a blistering hail of fire or be calibrated to fire single shots in short succession without worrying about depleting ammunition. They straddle the line between being a full area suppression weapon and a tactical rifle, though paying for that price in weight. If the target is wearing metal armor or has the metal trait, you gain a +2 circumstance bonus to your attack roll, the target takes a -2 circumstance penalty on saving throws against Automatic Fire, and the target also takes 1d6 persistent electricity damage on a hit. On a critical hit, double the initial damage, but not the persistent damage.
 
-## Rotoboom (Tactical, Advanced)
+## Rotoboom (Tactical, Advanced) [STILL UPDATING]
 
 Rotobooms employ a rotating set of barrels, each with a powerful amplifier at their tip, that allow for a series of rapid sonic bursts in an area. Rotobooms can unleash a blistering hail of fire or be calibrated to fire single shots in short succession without worrying about depleting ammunition. They straddle the line between being a full area suppression weapon and a tactical rifle, though paying for that price in weight. If the target has the construct trait, ignore any hardness they possess unless they also have a resistance or immunity to sonic damage.
 
-## Rotocryo (Tactical, Advanced)
+## Rotocryo (Tactical, Advanced) [STILL UPDATING]
 
 Employing a rotating set of barrels that allow a series of short super-cooled energy blasts in an area, rotocryos can unleash a blistering hail of fire or be calibrated to fire single shots in short succession without worrying about depleting ammunition. They straddle the line between being a full area suppression weapon and a tactical rifle, though paying for that price in weight. If the target has the water trait, you gain a +2 circumstance bonus to your damage roll, and the target also takes 1d6 persistent cold damage on a hit. On a critical hit, double the initial damage (including the circumstance bonus), but not the persistent damage.
 
-## Rotograv (Tactical, Advanced)
+## Rotograv (Tactical, Advanced) [STILL UPDATING]
 
 Rotogravs employ a moving array of forked prongs affixed to a rotating set of barrels that allow for a series of short graviton beams in an area. Rotogravs can unleash a blistering hail of fire or be calibrated to fire single shots in short succession without worrying about depleting ammunition. They straddle the line between being a full area suppression weapon and a tactical rifle, though paying for that price in weight.
 
-## Rotolaser (Tactical, Advanced)
+## Rotolaser (Tactical, Advanced) [STILL UPDATING]
 
 Employing a moving array of lenses, this weapon also uses a rotating set of barrels that allow for a series of short laser blasts in an area. Rotolasers can unleash a blistering hail of fire or be calibrated to fire single shots in short succession without worrying about depleting ammunition. They straddle the line between being a full area suppression weapon and a tactical rifle, though paying for that price in weight. A rotolaser's beams can pass through glass and other transparent physical barriers, dealing damage to such barriers as they pass through. Barriers of energy or magical force block lasers. Invisible creatures don’t take damage from lasers, as the beams pass through them harmlessly. Fog, smoke, and other clouds provide both cover and concealment from laser attacks. Lasers can penetrate darkness, but they don’t provide any illumination.
 
-## Rotopulse (Tactical, Advanced)
+## Rotopulse (Tactical, Advanced) [STILL UPDATING]
 
 Rotopulses employ a moving array of electromagnetically-charged spikes protruding from a rotating set of barrels that allow for a series of short energy blasts in an area. Rotopulses can unleash a blistering hail of fire or be calibrated to fire single shots in short succession without worrying about depleting ammunition. They only deal full damage to creatures with the tech trait, and half damage to androids, automatons, and creatures with cybernetic implants. Rotopulses straddle the line between being a full area suppression weapon and a tactical rifle, though paying for that price in weight.
 
@@ -352,35 +352,35 @@ Rotopulses employ a moving array of electromagnetically-charged spikes protrudin
 
 Weapon upgrades function as high-tech runes. The runic effects they grant to their upgraded weapons are high-tech in nature, not magical. Their effects do not apply to Automatic Fire actions taken, but do apply to Area Fire actions taken. Weapon upgrades expend a single charge with each Strike or Area Fire of the upgraded weapon, whether the Strike or Area Fire results in a success or not.
 
-## Arc Coil (Standard, Advanced)
+## Arc Coil (Standard, Advanced) [STILL UPDATING]
 
 Arc coils are weapon upgrades that empower their weapons with electrical abilities. Arc coils grant the upgraded weapon the effects of a shock rune. Advanced arc coils instead grant the upgraded weapon the effects of a greater shock rune.
 
-## Blaze Burner (Standard, Advanced)
+## Blaze Burner (Standard, Advanced) [STILL UPDATING]
 
 Blaze burners are weapon upgrades that empower their weapons with fiery abilities. Blaze burners grant the upgraded weapon the effects of a flaming rune. Advanced blaze burners instead grant the upgraded weapon the effects of a greater flaming rune.
 
-## Corrosivial (Standard, Advanced)
+## Corrosivial (Standard, Advanced) [STILL UPDATING]
 
 Corrosivials are weapon upgrades that empower their weapons with acidic abilities. Corrosivials grant the upgraded weapon the effects of a corrosive rune. Advanced corrosivials instead grant the effects of a greater corrosive rune.
 
-## Cryo Coolant (Standard, Advanced)
+## Cryo Coolant (Standard, Advanced) [STILL UPDATING]
 
 Cryo coolants are weapon upgrades that empower their weapons with icy abilities. Cryo coolants grant the upgraded weapon the effects of a frost rune. Advanced cryo coolants instead grant the upgraded weapon the effects of a greater frost rune.
 
-## Ectopulsar
+## Ectopulsar [STILL UPDATING]
 
 Ectopulsars are weapon upgrades that envelop their weapons in quantum fields. Ectopulsars grant the upgraded weapon the effects of a ghost touch rune.
 
-## Gravity Clip (Standard, Advanced)
+## Gravity Clip (Standard, Advanced) [STILL UPDATING]
 
 Gravity clips are weapon upgrades that momentarily increase the mass of their weapons. Gravity clips increase the upgraded weapon's number of damage dice by 1. Advanced gravity clips instead increase the upgraded weapon's number of damage dice by 2.
 
-## Homing Beacon
+## Homing Beacon [STILL UPDATING]
 
 Homing beacons are weapon upgrades that lock onto their weapons' targets. Homing beacons increase the likelihood of a successful Strike with the upgraded weapon, by allowing the user to roll their Strike twice and take the higher roll.
 
-## Stabilizer (Standard, Advanced)
+## Stabilizer (Standard, Advanced) [STILL UPDATING]
 
 Stabilizers are weapon upgrades that balance their weapons. Stabilizers increase the upgraded weapon's tracking value by 1. Advanced stabilizers instead increase the upgraded weapon's tracking value by 2.
 
