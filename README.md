@@ -13,5 +13,5 @@ Book Name                                                          | Levels  | C
 
 ## Supplementary Material
 
-* [Technology Guide](/Technology%20Guide/README.md)
-* [Player Options (including Backgrounds)](/Player%20Options/README.md)
+* [Technology Guide](/Technology%20Guide/README.md) (Complete, posting in progress)
+* [Player Options (including Backgrounds)](/Player%20Options/README.md) (Complete, not posted)
