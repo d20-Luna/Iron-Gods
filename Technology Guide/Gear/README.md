@@ -40,7 +40,7 @@ A chemalyzer's power is provided by a [battery^](/Technology%20Guide/Gear#batter
 
 An e-pick (short for “electronic lock pick”) is a small device that can be used to unlock and disable electronic locks and devices, much in the same way that a set of thieves’ tools can be used to dismantle mechanical locks and devices.
 
-An e-pick's power is provided by a battery. A fully charged battery has 10 charges. A charge is expended whenever the device is activated, as detailed below in its "Charges" entry.
+An e-pick's power is provided by a [battery^](/Technology%20Guide/Gear#battery). A fully charged battery has 10 charges. A charge is expended whenever the device is activated, as detailed below in its "Charges" entry.
 
 **Activate** [free action] Interact; **Trigger** You attempt to Disable a Device or Pick a Lock on a technological device; **Charges** 1; **Effect** Your e-pick powers up, guiding you through your Disable a Device or Pick a Lock check on a technological device. You gain an item bonus on the check based on the grade of e-pick, as detailed below.
 
@@ -51,27 +51,33 @@ Grade     | Level | Item Bonus | Rarity   | Cost
 Brown     | 1     | 0          | Uncommon | 3 gp
 Black     | 3     | +1         | Uncommon | 15 gp
 
-## Emergency Beacon [STILL UPDATING]
+## Emergency Beacon
 
 **Traits** [Uncommon](https://2e.aonprd.com/Traits.aspx?ID=159), [Signal^](/Traits/README.md#signal), [Tech^](/Traits/README.md#tech)
 
-**Price** 55 gp; **Usage** structure; **Bulk** 2
+**Price** 55 gp
 
-**Capacity** 30; **Usage** 1 charge/8 hours
+**Usage** structure; **Bulk** 2
 
-A DC 15 Track action can follow the beacon's signal.
+An emergency beacon is a small, pod-shaped device with a bright red dome on its top. This Numerian item's effects are high-tech in nature, not magical.
 
-## Filter Mask [STILL UPDATING]
+An emergency beacon's power is provided by [batteries^](/Technology%20Guide/Gear#battery). A fully charged battery has 10 charges, and an emergency beacon can hold three batteries. A charge is expended whenever the device is activated, as detailed below in its "Charges" entry.
+
+**Activate** [one action] Interact; **Charges** 1; **Effect** You flip a switch on the beacon, transmitting its location, while the red dome on its top begins to illuminate. Any device capable of receiving signals of any sort can pick up a beacon’s signal, which can then be tracked back to the source with a DC 15 Track action. A beacon’s transmissions have a range of 100 miles over flat terrain, but this range is halved in forests or hills, and quartered in mountainous terrain or through water. The emergency beacon uses an additional charge every eight hours while activated. It can be deactivated with another Interact action.
+
+## Filter Mask
 
 **Traits** [Uncommon](https://2e.aonprd.com/Traits.aspx?ID=159), [Tech^](/Traits/README.md#tech)
 
-**Price** 250 gp; **Usage** worn mask; **Bulk** L
+**Price** 250 gp
 
-**Capacity** 10; **Usage** 1 charge/hour
+**Usage** worn mask; **Bulk** L
 
-Wearing the mask gives a +2 item bonus to all saving throws made to resist inhaled poisons and diseases even when not activated.
+This clear mask grants its wearer a +2 item bonus to all saving throws made to resist inhaled poisons and diseases even when not activated, thanks to its built in air filters. This Numerian item's effects are high-tech in nature, not magical.
 
-**Activate** [one action] Interact; **Usage** 1 charge/hour; **Effect** The creature wearing the mask becomes immune to all inhaled poisons and diseases.
+A filter mask's power is provided by a [battery^](/Technology%20Guide/Gear#battery). A fully charged battery has 10 charges. A charge is expended whenever the device is activated, as detailed below in its "Charges" entry.
+
+**Activate** [one action] Interact; **Charges** 1; **Effect** The creature wearing the mask becomes immune to all inhaled poisons and diseases. The mask consumes an additional charge every hour that it is activated, and can be deactivated with another Interact action.
 
 ## Flashlight [STILL UPDATING]
 
