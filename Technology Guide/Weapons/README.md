@@ -18,7 +18,7 @@ This military-grade blade has a line of material running through the center of t
 
 **Level** 0 (Timeworn, Commercial), 2 (Tactical), 4 (Advanced); **Price** 9 gp (Timeworn), 18 gp (Commercial), 36 gp (Tactical), 100 gp (Advanced); **Damage** 1d8 Fire (Timeworn, Commercial, Tactical), 2d8 Fire (Advanced); **Bulk** L; **Hands** 1;
 
-**Weapon Group** [Flame^](/Traits/README.md#flame), **Traits** Finesse, Razing, [Tech^](/Traits/README.md#tech), [Timeworn^](/Traits/README.md#timeworn) (Timeworn), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
+**Weapon Group** [Flame^](/Traits/README.md#flame), **Traits** [Finesse](https://2e.aonprd.com/Traits.aspx?ID=179), [Razing](https://2e.aonprd.com/Traits.aspx?ID=488), [Tech^](/Traits/README.md#tech), [Timeworn^](/Traits/README.md#timeworn) (Timeworn), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
 
 **Capacity** 10 charges; **Usage** 1; **Reload** - (Timeworn), 1 (Commercial, Tactical, Advanced); **Upgrades** - (Timeworn), 1 (Commercial, Tactical), 2 (Advanced)
 
@@ -28,7 +28,7 @@ This handheld tool looks like a blunt-tipped laser pistol. It is intended to cut
 
 **Level** 2; **Price** 32 gp; **Damage** 1d6 B; **Bulk** 1; **Hands** 1
 
-**Weapon Group** Club; **Traits** [Archaic^](/Traits/README.md#archaic), Light, Two-Hand 1d10
+**Weapon Group** [Club](https://2e.aonprd.com/WeaponGroups.aspx?ID=5); **Traits** [Archaic^](/Traits/README.md#archaic), [Light](https://2e.aonprd.com/Traits.aspx?ID=100), [Two-Hand 1d10] (https://2e.aonprd.com/Traits.aspx?ID=198)
 
 This staff has a hollowed-out tip that contains a biolumenescent algae. On a successful Strike, the algae within the lumenstaff illuminates, releasing light as a torch for 1 round. Additionally, Strikes made with a lumenstaff do not take a penalty when made underwater.
 
@@ -36,7 +36,7 @@ This staff has a hollowed-out tip that contains a biolumenescent algae. On a suc
 
 **Level** 0 (Timeworn, Commercial), 2 (Tactical), 4 (Advanced); **Price** 7 gp (Timeworn), 15 gp (Commercial), 30 gp (Tactical), 95 gp (Advanced); **Damage** 1d6 B (Timeworn, Commercial, Tactical), 2d6 B (Advanced); **Bulk** L; **Hands** 1
 
-**Weapon Group** Club; **Traits** Agile, Finesse, Shove, [Tech^](/Traits/README.md#tech), [Timeworn^](/Traits/README.md#timeworn) (Timeworn), [Tracking +1](/Traits/README.md#tracking) (Tactical, Advanced)
+**Weapon Group** [Club](https://2e.aonprd.com/WeaponGroups.aspx?ID=5); **Traits** [Agile](https://2e.aonprd.com/Traits.aspx?ID=170), [Finesse](https://2e.aonprd.com/Traits.aspx?ID=179), [Shove](https://2e.aonprd.com/Traits.aspx?ID=193), [Tech^](/Traits/README.md#tech), [Timeworn^](/Traits/README.md#timeworn) (Timeworn), [Tracking +1](/Traits/README.md#tracking) (Tactical, Advanced)
 
 **Capacity** 10 charges; **Usage** -; **Reload** - (Timeworn), 1 (Commercial, Tactical, Advanced); **Upgrades** - (Timeworn), 1 (Commercial, Tactical), 2 (Advanced)
 
@@ -46,29 +46,29 @@ A neural inhibitor is a 2-foot truncheon with multiple bands of metal along the 
 
 **Level** 0; **Price** 10 gp; **Damage** 1d6 P; **Bulk** L; **Hands** 1
 
-**Weapon Group** Sword; **Traits** [Archaic^](/Traits/README.md#archaic), Backstabber, Deadly d10, Finesse
+**Weapon Group** [Sword](https://2e.aonprd.com/WeaponGroups.aspx?ID=15); **Traits** [Archaic^](/Traits/README.md#archaic), [Backstabber](https://2e.aonprd.com/Traits.aspx?ID=172), [Deadly d10](https://2e.aonprd.com/Traits.aspx?ID=174), [Finesse](https://2e.aonprd.com/Traits.aspx?ID=179)
 
 These hardened bone blades are the favored weapons of those who call the alien planet Kasath their home. When poison is applied to a spined blade, the DC of the poison is increased by 2.
 
 # Simple Ranged Weapons
 
-## Arc Pistol (Commercial, Tactical, Advanced)
+## Arc Pistol (Timeworn, Commercial, Tactical, Advanced)
 
-**Level** 0 (Commercial), 2 (Tactical), 4 (Advanced); **Price** 19 gp (Commercial), 38 gp (Tactical), 103 gp (Advanced); **Damage** 1d6 E (Commercial, Tactical), 2d6 E (Advanced); **Bulk** 1; **Hands** 1; **Range** 40 feet
+**Level** 0 (Timeworn, Commercial), 2 (Tactical), 4 (Advanced); **Price** 9 gp (Timeworn), 19 gp (Commercial), 38 gp (Tactical), 103 gp (Advanced); **Damage** 1d6 E (Timeworn, Commercial, Tactical), 2d6 E (Advanced); **Bulk** 1; **Hands** 1; **Range** 40 feet
 
-**Weapon Group** [Shock^](/Traits/README.md#shock); **Traits** [Tech^](/Traits/README.md#tech), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
+**Weapon Group** [Shock^](/Traits/README.md#shock); **Traits** [Tech^](/Traits/README.md#tech), [Timeworn^](/Traits/README.md#timeworn) (Timeworn), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
 
-**Capacity** 10 charges; **Usage** 1; **Reload** 1; **Upgrades** 1 (Commercial, Tactical), 2 (Advanced)
+**Capacity** 10 charges; **Usage** 1; **Reload** - (Timeworn), 1 (Commercial, Tactical, Advanced); **Upgrades** - (Timeworn), 1 (Commercial, Tactical), 2 (Advanced)
 
 Arc pistols fire deadly, stunning blasts of electricity at ranged targets. They have a two-pronged emitter that directs the electrical blast and a bulky chamber that holds the capacitor. If the target is wearing metal armor or has the metal trait, you gain a +1 circumstance bonus to your attack roll, and the target also takes 1d4 persistent electricity damage on a hit. On a critical hit, double the initial damage, but not the persistent damage.
 
-## Arc Rifle (Commercial, Tactical, Advanced)
+## Arc Rifle (Timeworn, Commercial, Tactical, Advanced)
 
-**Level** 4 (Commercial), 6 (Tactical), 8 (Advanced); **Price** 110 gp (Commercial), 220 gp (Tactical), 460 gp (Advanced); **Damage** 1d10 E (Commercial, Tactical), 2d10 E (Advanced); **Bulk** 2; **Hands** 2; **Range** 100 feet
+**Level** 4 (Timeworn, Commercial), 6 (Tactical), 8 (Advanced); **Price** 55 gp (Timeworn), 110 gp (Commercial), 220 gp (Tactical), 460 gp (Advanced); **Damage** 1d10 E (Timeworn, Commercial, Tactical), 2d10 E (Advanced); **Bulk** 2; **Hands** 2; **Range** 100 feet
 
-**Weapon Group** [Shock^](/Traits/README.md#shock); **Traits** [Automatic^](/Traits/README.md#automatic), [Tech^](/Traits/README.md#tech), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
+**Weapon Group** [Shock^](/Traits/README.md#shock); **Traits** [Automatic^](/Traits/README.md#automatic), [Tech^](/Traits/README.md#tech), [Timeworn^](/Traits/README.md#timeworn) (Timeworn), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
 
-**Capacity** 20 charges; **Usage** 1; **Reload** 1; **Upgrades** 1 (Commercial, Tactical), 2 (Advanced)
+**Capacity** 20 charges; **Usage** 1; **Reload** - (Timeworn), 1 (Commercial, Tactical, Advanced); **Upgrades** - (Timeworn), 1 (Commercial, Tactical), 2 (Advanced)
 
 Arc rifles fire deadly, stunning blasts of electricity at a higher range than their pistol counterparts. They have a multi-pronged emitter that directs the electrical blast and a sleak chamber that holds the capacitor. If the target is wearing metal armor or has the metal trait, you gain a +2 circumstance bonus to your attack roll, and the target also takes 1d6 persistent electricity damage on a hit. On a critical hit, double the initial damage, but not the persistent damage.
 
