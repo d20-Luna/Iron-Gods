@@ -170,43 +170,43 @@ This sleek, low-caliber rifle is made of a burnished skymetal. An id rifle fires
 
 An inferno pistol is a less refined variant of the longer-range laser pistol, which generates a blob of molten nanites to burn its targets.
 
-## Laser Pistol (Commercial, Tactical, Advanced) [STILL UPDATING]
+## Laser Pistol (Timeworn, Commercial, Tactical, Advanced)
 
-**Level** 0 (Commercial), 2 (Tactical), 4 (Advanced); **Price** 19 gp (Commercial), 38 gp (Tactical), 103 gp (Advanced); **Damage** 1d6 F (Commercial, Tactical), 2d6 F (Advanced); **Bulk** 1; **Hands** 1; **Range** 40 feet
+**Level** 0 (Timeworn, Commercial), 2 (Tactical), 4 (Advanced); **Price** 9 gp (Timeworn), 19 gp (Commercial), 38 gp (Tactical), 103 gp (Advanced); **Damage** 1d6 F (Timeworn, Commercial, Tactical), 2d6 F (Advanced); **Bulk** 1; **Hands** 1; **Range** 40 feet
 
-**Weapon Group** [Laser^](/Traits/README.md#laser); **Traits** [Tech^](/Traits/README.md#tech), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
+**Weapon Group** [Laser^](/Traits/README.md#laser); **Traits** [Tech^](/Traits/README.md#tech), [Timeworn^](/Traits/README.md#timeworn) (Timeworn), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
 
-**Capacity** 10 charges; **Usage** 1; **Reload** 1; **Upgrades** 1 (Commercial, Tactical), 2 (Advanced)
+**Capacity** 10 charges; **Usage** 1; **Reload** - (Timeworn), 1 (Commercial, Tactical, Advanced); **Upgrades** - (Timeworn), 1 (Commercial, Tactical), 2 (Advanced)
 
 Laser pistols fire pinpoint shots of directed energy at their targets. These beams can pass through glass and other transparent physical barriers, dealing damage to such barriers as they pass through. Barriers of energy or magical force block lasers. Invisible creatures don’t take damage from lasers, as the beams pass through them harmlessly. Fog, smoke, and other clouds provide both cover and concealment from laser attacks. Lasers can penetrate darkness, but they don’t provide any illumination.
 
-## Laser Rifle (Commercial, Tactical, Advanced) [STILL UPDATING]
+## Laser Rifle (Timeworn, Commercial, Tactical, Advanced)
 
-**Level** 4 (Commercial), 6 (Tactical), 8 (Advanced); **Price** 110 gp (Commercial), 220 gp (Tactical), 460 gp (Advanced); **Damage** 1d10 F (Commercial, Tactical), 2d10 F (Advanced); **Bulk** 2; **Hands** 2; **Range** 100 feet
+**Level** 4 (Timeworn, Commercial), 6 (Tactical), 8 (Advanced); **Price** 55 gp (Timeworn), 110 gp (Commercial), 220 gp (Tactical), 460 gp (Advanced); **Damage** 1d10 F (Timeworn, Commercial, Tactical), 2d10 F (Advanced); **Bulk** 2; **Hands** 2; **Range** 100 feet
 
-**Weapon Group** [Laser^](/Traits/README.md#laser); **Traits** [Automatic^](/Traits/README.md#automatic), [Tech^](/Traits/README.md#tech), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
+**Weapon Group** [Laser^](/Traits/README.md#laser); **Traits** [Automatic^](/Traits/README.md#automatic), [Tech^](/Traits/README.md#tech), [Timeworn^](/Traits/README.md#timeworn) (Timeworn), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
 
-**Capacity** 20 charges; **Usage** 1; **Reload** 1; **Upgrades** 1 (Commercial, Tactical), 2 (Advanced)
+**Capacity** 20 charges; **Usage** 1; **Reload** - (Timeworn), 1 (Commercial, Tactical, Advanced); **Upgrades** - (Timeworn), 1 (Commercial, Tactical), 2 (Advanced)
 
 Laser rifles fire high-power, pinpoint shots of directed energy at their targets. These beams can pass through glass and other transparent physical barriers, dealing damage to such barriers as they pass through. Barriers of energy or magical force block lasers. Invisible creatures don't take damage from lasers, as the beams pass through them harmlessly. Fog, smoke, and other clouds provide both cover and concealment from laser attacks. Lasers can penetrate darkness, but they don't provide any illumination.
 
-## Mindburner (Commercial, Tactical, Advanced) [STILL UPDATING]
+## Mindburner (Timeworn, Tactical, Advanced)
 
-**Level** 0 (Commercial), 2 (Tactical), 4 (Advanced); **Price** 50 gp (Commercial), 100 gp (Tactical), 200 gp (Advanced); **Damage** 1d4 M (Commercial, Tactical), 2d4 M (Advanced); **Bulk** 1; **Hands** 1; **Range** 30 feet
+**Level** 0 (Timeworn), 2 (Tactical), 4 (Advanced); **Price** 25 gp (Timeworn), 100 gp (Tactical), 200 gp (Advanced); **Damage** 1d4 M (Timeworn, Tactical), 2d4 M (Advanced); **Bulk** 1; **Hands** 1; **Range** 30 feet
 
-**Weapon Group** [Mental^](/Traits/README.md#mental); **Traits** Incapacitation, Nonlethal, [Tech^](/Traits/README.md#tech), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
+**Weapon Group** [Mental^](/Traits/README.md#mental); **Traits** Incapacitation, Nonlethal, [Tech^](/Traits/README.md#tech), [Timeworn^](/Traits/README.md#timeworn) (Timeworn), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
 
-**Capacity** 10 charges; **Usage** 1; **Reload** 1; **Upgrades** 1 (Commercial, Tactical), 2 (Advanced)
+**Capacity** 10 charges; **Usage** 1; **Reload** - (Timeworn), 1 (Tactical, Advanced); **Upgrades** - (Timeworn), 1 (Tactical), 2 (Advanced)
 
 Mindburners have dishlike devices at the end of their barrels, where a small wisp of smoke pools before releasing a beam of white light. On a successful hit, the target must make a Will save against your Class DC. On a failure, the target is stupefied 1 for 1 round. On a critical failure, the target is stupefied 2 for 1 round, and stupefied 1 for 1 minute.
 
-## Mindrender (Commercial, Tactical, Advanced) [STILL UPDATING]
+## Mindrender (Timeworn, Tactical, Advanced)
 
-**Level** 2 (Commercial), 4 (Tactical), 6 (Advanced); **Price** 75 gp (Commercial), 150 gp (Tactical), 320 gp (Advanced); **Damage** 1d8 M (Commercial, Tactical), 2d8 M (Advanced); **Bulk** 1; **Hands** 1; **Range** 40 feet
+**Level** 2 (Timeworn), 4 (Tactical), 6 (Advanced); **Price** 37 gp (Timeworn), 150 gp (Tactical), 320 gp (Advanced); **Damage** 1d8 M (Timeworn, Tactical), 2d8 M (Advanced); **Bulk** 1; **Hands** 1; **Range** 40 feet
 
-**Weapon Group** [Mental^](/Traits/README.md#mental); **Traits** Incapacitation, [Tech^](/Traits/README.md#tech), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
+**Weapon Group** [Mental^](/Traits/README.md#mental); **Traits** Incapacitation, [Tech^](/Traits/README.md#tech), [Timeworn^](/Traits/README.md#timeworn) (Timeworn), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
 
-**Capacity** 10 nanites; **Usage** 1; **Reload** 1; **Upgrades** 1 (Commercial, Tactical), 2 (Advanced)
+**Capacity** 10 nanites; **Usage** 1; **Reload** - (Timeworn), 1 (Tactical, Advanced); **Upgrades** - (Timeworn), 1 (Tactical), 2 (Advanced)
 
 Mindrenders emit a carrier waves of light which transmit masses of nanites into the body of their targets. On a successful Strike, the target must make a Fortitude save against your Class DC as its mind and body are wracked by the nanites. On a critical hit, the target takes a -2 penalty on its save against the nanites.
 
@@ -218,65 +218,65 @@ Mindrenders emit a carrier waves of light which transmit masses of nanites into 
 
 **Critical Failure** The target takes double damage and is stunned 2, slowed 1, and sickened 3.
 
-## Sonic Pistol (Commercial, Tactical, Advanced) [STILL UPDATING]
+## Sonic Pistol (Timeworn, Commercial, Tactical, Advanced)
 
-**Level** 0 (Commercial), 2 (Tactical), 4 (Advanced); **Price** 20 gp (Commercial), 40 gp (Tactical), 110 gp (Advanced); **Damage** 1d6 So (Commercial, Tactical), 2d6 So (Advanced); **Bulk** 1; **Hands** 1; **Range** 40 feet
+**Level** 0 (Timeworn, Commercial), 2 (Tactical), 4 (Advanced); **Price** 10 gp (Timeworn), 20 gp (Commercial), 40 gp (Tactical), 110 gp (Advanced); **Damage** 1d6 So (Timeworn, Commercial, Tactical), 2d6 So (Advanced); **Bulk** 1; **Hands** 1; **Range** 40 feet
 
-**Weapon Group** [Sonic^](/Traits/README.md#sonic); **Traits** [Tech^](/Traits/README.md#tech), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
+**Weapon Group** [Sonic^](/Traits/README.md#sonic); **Traits** [Tech^](/Traits/README.md#tech), [Timeworn^](/Traits/README.md#timeworn) (Timeworn), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
 
-**Capacity** 10 charges; **Usage** 1; **Reload** 1; **Upgrades** 1 (Commercial, Tactical), 2 (Advanced)
+**Capacity** 10 charges; **Usage** 1; **Reload** - (Timeworn), 1 (Commercial, Tactical, Advanced); **Upgrades** - (Timeworn), 1 (Commercial, Tactical), 2 (Advanced)
 
 Sonic pistols have amplifiers in the tip of their barrels that project focused beams of sound at their targets. If the target has the construct trait, ignore any hardness they possess unless they also have a resistance or immunity to sonic damage.
 
-## Sonic Rifle (Commercial, Tactical, Advanced) [STILL UPDATING]
+## Sonic Rifle (Timeworn, Commercial, Tactical, Advanced)
 
-**Level** 4 (Commercial), 6 (Tactical), 8 (Advanced); **Price** 120 gp (Commercial), 240 gp (Tactical), 480 gp (Advanced); **Damage** 1d10 So (Commercial, Tactical), 2d10 So (Advanced); **Bulk** 2; **Hands** 2; **Range** 100 feet
+**Level** 4 (Timeworn, Commercial), 6 (Tactical), 8 (Advanced); **Price** 60 gp (Timeworn), 120 gp (Commercial), 240 gp (Tactical), 480 gp (Advanced); **Damage** 1d10 So (Timeworn, Commercial, Tactical), 2d10 So (Advanced); **Bulk** 2; **Hands** 2; **Range** 100 feet
 
-**Weapon Group** [Sonic^](/Traits/README.md#sonic); **Traits** [Automatic^](/Traits/README.md#automatic), [Tech^](/Traits/README.md#tech), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
+**Weapon Group** [Sonic^](/Traits/README.md#sonic); **Traits** [Automatic^](/Traits/README.md#automatic), [Tech^](/Traits/README.md#tech), [Timeworn^](/Traits/README.md#timeworn) (Timeworn), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
 
-**Capacity** 20 charges; **Usage** 1; **Reload** 1; **Upgrades** 1 (Commercial, Tactical), 2 (Advanced)
+**Capacity** 20 charges; **Usage** 1; **Reload** `- (Timeworn), 1 (Commercial, Tactical, Advanced); **Upgrades** - (Timeworn), 1 (Commercial, Tactical), 2 (Advanced)
 
 Sonic rifles possess powerful amplifiers in the tip of their barrels that project high-power, focused beams of sound at their targets. If the target has the construct trait, ignore any hardness they possess unless they also have a resistance or immunity to sonic damage.
 
-## Stun Gun (Commercial, Tactical, Advanced) [STILL UPDATING]
+## Stun Gun (Timeworn, Commercial, Tactical, Advanced)
 
-**Level** 0 (Commercial), 2 (Tactical), 4 (Advanced); **Price** 18 gp (Commercial), 36 gp (Tactical), 100 gp (Advanced); **Damage** 1d6 So (Commercial, Tactical), 2d6 So (Advanced); **Bulk** 1; **Hands** 1; **Range** 40 feet
+**Level** 0 (Timeworn, Commercial), 2 (Tactical), 4 (Advanced); **Price** 9 gp (Timeworn), 18 gp (Commercial), 36 gp (Tactical), 100 gp (Advanced); **Damage** 1d6 So (Timeworn, Commercial, Tactical), 2d6 So (Advanced); **Bulk** 1; **Hands** 1; **Range** 40 feet
 
-**Weapon Group** [Sonic^](/Traits/README.md#sonic); **Traits** Incapacitation, Nonlethal, [Tech^](/Traits/README.md#tech), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
+**Weapon Group** [Sonic^](/Traits/README.md#sonic); **Traits** Incapacitation, Nonlethal, [Tech^](/Traits/README.md#tech), [Timeworn^](/Traits/README.md#timeworn) (Timeworn), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
 
-**Capacity** 10 charges; **Usage** 1; **Reload** 1; **Upgrades** 1 (Commercial, Tactical), 2 (Advanced)
+**Capacity** 10 charges; **Usage** 1; **Reload** - (Timeworn), 1 (Commercial, Tactical, Advanced); **Upgrades** - (Timeworn), 1 (Commercial, Tactical), 2 (Advanced)
 
 Stun guns fire low-frequency blasts of energy when fires. On a critical hit, the target must make a Fortitude against your Class DC as its muscles are assaulted. On a failure, the target is stunned 1. On a critical failure, the target is stunned 3.
 
-## Zero Pistol (Commercial, Tactical, Advanced) [STILL UPDATING]
+## Zero Pistol (Timeworn, Commercial, Tactical, Advanced)
 
-**Level** 0 (Commercial), 2 (Tactical), 4 (Advanced); **Price** 19 gp (Commercial), 38 gp (Tactical), 103 gp (Advanced); **Damage** 1d6 C (Commercial, Tactical), 2d6 C (Advanced); **Bulk** 1; **Hands** 1; **Range** 40 feet
+**Level** 0 (Timeworn, Commercial), 2 (Tactical), 4 (Advanced); **Price** 9 gp (Timeworn), 19 gp (Commercial), 38 gp (Tactical), 103 gp (Advanced); **Damage** 1d6 C (Timeworn, Commercial, Tactical), 2d6 C (Advanced); **Bulk** 1; **Hands** 1; **Range** 40 feet
 
-**Weapon Group** [Cryo^](/Traits/README.md#cryo); **Traits** [Tech^](/Traits/README.md#tech), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
+**Weapon Group** [Cryo^](/Traits/README.md#cryo); **Traits** [Tech^](/Traits/README.md#tech), [Timeworn^](/Traits/README.md#timeworn) (Timeworn), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
 
-**Capacity** 10 charges; **Usage** 1; **Reload** 1; **Upgrades** 1 (Commercial, Tactical), 2 (Advanced)
+**Capacity** 10 charges; **Usage** 1; **Reload** - (Timeworn), 1 (Commercial, Tactical, Advanced); **Upgrades** - (Timeworn), 1 (Commercial, Tactical), 2 (Advanced)
 
 Zero pistols project super-cooled beams of energy at their targets. If the target has the water trait, you gain a +1 circumstance bonus to your damage roll, and the target also takes 1d4 persistent cold damage on a hit. On a critical hit, double the initial damage (including the circumstance bonus), but not the persistent damage.
 
-## Zero Rifle (Commercial, Tactical, Advanced) [STILL UPDATING]
+## Zero Rifle (Timeworn, Commercial, Tactical, Advanced)
 
-**Level** 4 (Commercial), 6 (Tactical), 8 (Advanced); **Price** 110 gp (Commercial), 220 gp (Tactical), 460 gp (Advanced); **Damage** 1d10 C (Commercial, Tactical), 2d10 C (Advanced); **Bulk** 2; **Hands** 2; **Range** 100 feet
+**Level** 4 (Timeworn, Commercial), 6 (Tactical), 8 (Advanced); **Price** 55 gp (Timeworn), 110 gp (Commercial), 220 gp (Tactical), 460 gp (Advanced); **Damage** 1d10 C (Timeworn, Commercial, Tactical), 2d10 C (Advanced); **Bulk** 2; **Hands** 2; **Range** 100 feet
 
-**Weapon Group** [Cryo^](/Traits/README.md#cryo); **Traits** [Automatic^](/Traits/README.md#automatic), [Tech^](/Traits/README.md#tech), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
+**Weapon Group** [Cryo^](/Traits/README.md#cryo); **Traits** [Automatic^](/Traits/README.md#automatic), [Tech^](/Traits/README.md#tech), [Timeworn^](/Traits/README.md#timeworn) (Timeworn), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
 
-**Capacity** 20 charges; **Usage** 1; **Reload** 1; **Upgrades** 1 (Commercial, Tactical), 2 (Advanced)
+**Capacity** 20 charges; **Usage** 1; **Reload** - (Timeworn), 1 (Commercial, Tactical, Advanced); **Upgrades** - (Timeworn), 1 (Commercial, Tactical), 2 (Advanced)
 
 Zero pistols sleak designs possess ultra-specialized cooling coils that project super-cooled beams of energy at their targets. If the target has the water trait, you gain a +2 circumstance bonus to your damage roll, and the target also takes 1d6 persistent cold damage on a hit. On a critical hit, double the initial damage (including the circumstance bonus), but not the persistent damage.
  
 # Martial Melee Weapons
 
-## Chainsaw (Tactical, Advanced) [STILL UPDATING]
+## Chainsaw (Timeworn, Commercial, Tactical, Advanced)
 
-**Level** 4 (Tactical), 6 (Advanced); **Price** 150 gp (Tactical), 260 gp (Advanced); **Damage** 1d8 S (Tactical), 2d8 S (Advanced); **Bulk** 2; **Hands** 2
+**Level** 2 (Timeworn, Commercial), 4 (Tactical), 6 (Advanced); **Price** 37 gp (Timeworn), 75 gp (Commercial), 150 gp (Tactical), 260 gp (Advanced); **Damage** 1d8 S (Timeworn, Commercial, Tactical), 2d8 S (Advanced); **Bulk** 2; **Hands** 2
 
-**Weapon Group** Axe; **Traits** Forceful, Sweep, [Tech^](/Traits/README.md#tech), [Tracking +1^](/Traits/README.md#tracking)
+**Weapon Group** Axe; **Traits** Forceful, Sweep, [Tech^](/Traits/README.md#tech), [Timeworn^](/Traits/README.md#timeworn) (Timeworn), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
 
-**Capacity** 20 charges; **Usage** -; **Reload** 1; **Upgrades** 1 (Tactical), 2 (Advanced)
+**Capacity** 20 charges; **Usage** -; **Reload** - (Timeworn), 1 (Commercial, Tactical, Advanced); **Upgrades** - (Timeworn), 1 (Commercial, Tactical), 2 (Advanced)
 
 Originally developed for use as tools, chainsaws work remarkably well as weapons and are often used by lunatics or those who want to intimidate their enemies. A Numerian chainsaw consists of a weighty housing for the engine and power source that is fitted with two handles, and a 2- to 3-foot-long blade extending from the front, around which a whirling, buzzing chain of razorsharp cutting links spins at blinding speed when the weapon is activated. A chainsaw can be activated with an Interact action by using a single charge, at which point its item bonus to attack rolls increases by 1, it gains an additional damage die, and it is treated as having the [Wounding](https://2e.aonprd.com/Equipment.aspx?ID=309) rune, though these effects are high-tech in nature, not magical. You also take a -4 penalty on auditory Perception checks and on Stealth checks while the chainsaw is activated. An activated chainsaw uses 1 charge of power every hour, and continues to do so until either deactivated with an Interact action, it runs out of charges, or it is dropped (at which point it automatically deactivates).
 
@@ -288,7 +288,7 @@ Originally developed for use as tools, chainsaws work remarkably well as weapons
 
 This polearm is a two-sided weapon. One side is fitted with a broad, shovel-like sharpened blade, while the opposite side is fitted with a crescent blade that juts out like a pair of bull’s horns. The type of damage it deals depends on how it is wielded, with the spade side able to bludgeon and slash and the crescent side able to slash and pierce.
 
-## Plasma Blade (Tactical, Advanced) [STILL UPDATING]
+## Plasma Blade (Tactical, Advanced)
 
 **Level** 6 (Tactical), 8 (Advanced); **Price** 300 gp (Tactical), 500 gp (Advanced); **Damage** 1d10 E and F (Tactical), 2d10 E and F (Advanced); **Bulk** L; **Hands** 1
 
@@ -298,9 +298,9 @@ This polearm is a two-sided weapon. One side is fitted with a broad, shovel-like
 
 When activated with an Interact action, a plasma blade’s heavy, ornate handle projects a quantum field that contains energized plasma in a 2- to 3-foot-long “blade.” Activating a plasma blade has a usage of 1, and the plasma blade automatically uses an additional charge every minute while activated (an activated plasma blade can be deactivated with an additional Interact action). Half the damage a plasma blade deals is electricity and the other half is fire. Thanks to its quantum containment, a plasma blade is treated as dealing force damage when used against an incorporeal target.
 
-## Stun Baton (Commercial, Tactical, Advanced) [STILL UPDATING]
+## Stun Baton (Timeworn, Commercial, Tactical, Advanced) [STILL UPDATING]
 
-**Level** 0 (Commercial), 2 (Tactical), 4 (Advanced); **Price** 20 gp (Commercial), 40 gp (Tactical), 110 gp (Advanced); **Damage** 1d6 B (Commercial, Tactical), 2d6 B (Advanced); **Bulk** L; **Hands** 1
+**Level** 0 (Timeworn, Commercial), 2 (Tactical), 4 (Advanced); **Price** 10 gp (Timeworn), 20 gp (Commercial), 40 gp (Tactical), 110 gp (Advanced); **Damage** 1d6 B (Timeworn, Commercial, Tactical), 2d6 B (Advanced); **Bulk** L; **Hands** 1
 
 **Weapon Group** Club; **Traits** Agile, Incapacitation, Nonlethal, [Tech^](/Traits/README.md#tech), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
 
@@ -308,13 +308,13 @@ When activated with an Interact action, a plasma blade’s heavy, ornate handle 
  
 # Martial Ranged Weapons
 
-## Grenade Launcher (Tactical, Advanced) [STILL UPDATING]
+## Grenade Launcher (Timeworn, Tactical, Advanced)
 
-**Level** 2 (Tactical), 4 (Advanced); **Price** 100 gp (Tactical), 200 gp (Advanced); **Damage** Special; **Bulk** 2; **Hands** 2; **Range** 100 feet
+**Level** 0 (Timeworn), 2 (Tactical), 4 (Advanced); **Price** 25 gp (Timeworn), 100 gp (Tactical), 200 gp (Advanced); **Damage** Special; **Bulk** 2; **Hands** 2; **Range** 100 feet
 
-**Weapon Group** [Projectile^](/Traits/README.md#projectile); **Traits** [Area^](/Traits/README.md#area-burst-cone-line) (burst 20 ft.), [Tech^](/Traits/README.md#tech), [Tracking +1^](/Traits/README.md#tracking), [Unwieldy^](/Traits/README.md#unwieldy)
+**Weapon Group** [Projectile^](/Traits/README.md#projectile); **Traits** [Area^](/Traits/README.md#area-burst-cone-line) (burst 20 ft.), [Tech^](/Traits/README.md#tech), [Timeworn^](/Traits/README.md#timeworn) (Timeworn), [Tracking +1^](/Traits/README.md#tracking), [Unwieldy^](/Traits/README.md#unwieldy)
 
-**Capacity** 20 charges/5 grenades; **Usage** 1; **Reload** 1/1; **Upgrades** 1 (Tactical), 2 (Advanced)
+**Capacity** 20 charges/5 grenades; **Usage** 1; **Reload** - battery / 1 grenade (Timeworn), 1 battery / 1 grenade (Tactical, Advanced); **Upgrades** - (Timeworn), 1 (Tactical), 2 (Advanced)
 
 This bulky, handheld cannon has a wicked design that can fire any grenade a great distance. A grenade launcher can only fire grenades in the order it was loaded. Grenades fired from a grenade launcher are automatically set to detonate upon impact, dealing their usual effects when detonated, save for their save DCs are equal to your Class DC.
 
