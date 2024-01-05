@@ -95,17 +95,21 @@ A flashlight's power is provided by a [battery^](/Technology%20Guide/Gear#batter
 
 **Activate** [one action] Interact; **Charges** 1; **Effect** The flashlight emits bright light in a 60 foot cone and dim light in the next 60 feet when activated. A flashlight has no effect in areas of magical darkness. The flashlight uses an additional charge every eight hours while activated. It can be deactivated with another Interact action.
 
-## Goo Tube [STILL UPDATING]
+## Goo Tube
 
 **Traits** [Consumable](https://2e.aonprd.com/Traits.aspx?ID=36)
 
-**Price** 3 sp; **Hands** 1; **Bulk** -
+**Price** 3 sp
 
-## Grenade [STILL UPDATING]
+**Usage** held in 1 hand; **Bulk** -
+
+The contents of a single goo tube can provide nourishment for a day for one Medium-size creature.
+
+## Grenade
 
 **Traits** [Uncommon](https://2e.aonprd.com/Traits.aspx?ID=159), [Bomb](https://2e.aonprd.com/Traits.aspx?ID=21), [Consumable](https://2e.aonprd.com/Traits.aspx?ID=36), [Grenade^](/Traits/README.md#grenade), [Tech^](/Traits/README.md#tech)
 
-**Hands** 1; **Bulk** L
+**Usage** held in 1 hand; **Bulk** L
 
 Grenades are explosives that can be thrown anywhere within 60 feet, with an area of effect as a 20-foot burst. However it is similar to beads on a *[necklace of fireballs](http://2e.aonprd.com/Equipment.aspx?ID=449)* where if it is a particularly difficult situation the GM may ask you to make an attack roll (treat as a bomb: martial proficiency with a 20 foot range increment).
 
@@ -130,132 +134,158 @@ Inferno Grenade       | 5     | 25 gp  | basic Ref 20  | Fire              | 5d6
 Soft Grenade          | 5     | 25 gp  | basic Ref 22  | Nonlethal         | 5d6 bludgeoning damage. This effect has the nonlethal trait
 Zero Grenade          | 5     | 25 gp  | basic Ref 20  | Cold              | 5d6 cold damage
 
-## Grippers [STILL UPDATING]
+## Grippers
 
-**Level** 1; **Price** 15 gp; **Hands** 2; **Bulk** L
+**Level** 1; **Price** 15 gp
+
+**Usage** held in 2 hands; **Bulk** L
 
 Grippers can be used like a crowbar, negating the -2 item penalty to pry something open without one. To pull apart two items attached together with Grippers requires a DC 22 Athletics check.
 
-Grippers can also be used in combat.
+Grippers can also be wielded in combat as an improvised weapon, dealing 1d6 bludgeoning damage.
 
-**Activate** [two actions] Interact; **Effect** Make a Strike, treating the grippers as an improvised weapon. On a successful hit, the grippers deal 1d4+7 points of bludgeoning damage.
-
-## Ion Tape [STILL UPDATING]
+## Ion Tape
 
 **Traits** Consumable, [Tech^](/Traits/README.md#tech)
 
-**Level** 3; **Price** 15 gp; **Hands** 2; **Bulk** L
+**Level** 3; **Price** 15 gp
 
-When used to bind a creature, a few strips of activated ion tape require a successful DC 28 Escape check to break.
+**Usage** held in 2 hands; **Bulk** L
 
-## Medlance [STILL UPDATING]
+A roll of ion tape fits in the palm of a hand and comes in a wide range of colors. A single roll contains 50 feet of tape. A single strip of tape is easy to cut through or tear. When wrapped around an object, it has a weak adhesive that keeps it in place. When ion tape is exposed to an electrical charge of any power (including a jolt from a [zipstick](/Technology%20Guide/Gear#zipstick)), the tape bonds together into a single mass of plastic-like material. When used to bind a creature, a few strips of activated ion tape require a successful DC 28 Escape check to break. A second jolt from an electrical source causes the tape to revert to its weaker ribbon condition, at which point it can be torn free easily. A strip of ion tape can hold about 5 pounds of weight normally, but when activated via a jolt, a single hardened strip can support up to 300 pounds of weight. The uses for ion tape are many; it can be used to construct basic objects (such as a ladder), patch holes, bind prisoners, and so on.
+
+## Medlance
 
 **Traits** Uncommon, Injection, [Tech^](/Traits/README.md#tech)
 
-**Level** 5; **Price** 30 gp; **Hands** 1; **Bulk** -
+**Level** 5; **Price** 30 gp
+
+**Usage** held in 1 hand; **Bulk** -
+
+This wand-like device contains a reservoir at one end and a small pad at the other.
 
 A medlance doesn't use electrical charges, but after 10 uses its internal sterilization mechanisms are depleted and it becomes useless.
 
-**Activate** (1 action) Interact or Strike; **Effect** You inject the liquid in the medlance into the target. If the target is unwilling, make a Strike against their AC (treat the medlance as a simple one-handed melee weapon). On a hit you do no damage, but the liquid is injected. This changes the ingested trait on poisons to the injury trait.
+**Activate** [one action] Interact; **Effect** You fill the medlance with a single dose of liquid, such as a pharmaceutical, a potion, or a poison.
 
-## Nanite Canister [STILL UPDATING]
+**Activate** [one action] Interact or Strike; **Effect** You inject the liquid in the medlance into the target. If the target is unwilling, make a Strike against their AC (treat the medlance as a simple one-handed melee weapon). On a hit you do no damage, but the liquid is injected. This changes the ingested trait on poisons to the injury trait.
+
+## Nanite Canister
 
 **Traits** Rare, Consumable, [Tech^](/Traits/README.md#tech)
 
-**Price** 30 gp; **Bulk** L
+**Price** 30 gp
 
-## Nanite Hypogun [STILL UPDATING]
+**Bulk** L
+
+A nanite canister is used to power technological devices that use nanites—such items generally don’t require other sources of power, as the nanites themselves do the bulk of the work when the object is activated. The canister contains a small, independent power source and a supply of nanites. A single canister contains enough nanites to provide 10 charges for a nanotech item or weapon.
+
+## Nanite Hypogun
 
 **Traits** Rare, Healing, [Tech^](/Traits/README.md#tech)
 
-**Hands** 1; **Bulk** L; **Ammunition** [Nanite Canisters](#nanite-canister);
+**Usage** held in 1 hand; **Bulk** L
 
-All nanite hypoguns have two settings.
+This bizarre metal pistol-like object has a needle at the end instead of a barrel. This Numerian item's effects are high-tech in nature, not magical.
 
-**Activate** (1 action) Interact; **Nanite Use** 1 charge; **Effect** You inject the target with the nanite hypogun using its primary setting. The target recovers hit points according to the Primary column of the table below.
+A nanite hypogun's power is provided by a [nanite canister^](/Technology%20Guide/Gear#nanite-canister). A full nanite canister has 10 charges. A charge is expended whenever the device is activated, as detailed below in its "Charges" entry.
 
-**Activate** varies, usually 10 minutes; **Nanite Use** 5 charges; **Effect** You inject the target with the nanite hypogun using its secondary setting. This has the effect listed in the Secondary column of the table below.
+**Activate** [one action] Interact; **Charges** 1; **Effect** You inject the target with the nanite hypogun using its primary setting. The target recovers hit points according to the Primary column of the table below.
 
-Color Grade | Level | Cost      | Craft DC | Primary | Secondary
-------------|-------|-----------|----------|---------|-----------
-Brown       | 2     | 30 gp     | 27       | 1d8+1   | +2 to saving throws against poison & disease for the next 8 hours
-Black       | 5     | 180 gp    | 28       | 2d8+3   | Casts *[restoration](http://2e.aonprd.com/Spells.aspx?ID=258)*
-White       | 7     | 450 gp    | 29       | 3d8+5   | Casts *[remove disease](http://2e.aonprd.com/Spells.aspx?ID=251)* with a counteract level of 4 and a +15 modifier
-Gray        | 9     | 850 gp    | 30       | 4d8+7   | Casts *[neutralize poison](http://2e.aonprd.com/Spells.aspx?ID=207)* with a counteract level of 5 and a +19 modifier
-Green       | 11    | 1,400 gp  | 31       | 5d8+9   | Same effect as using a [Cardioamp](../Pharmaceuticals/README.md#cardioamp)
-Red         | 13    | 2,650 gp  | 32       | 6d8+11  | Casts *[raise dead](http://2e.aonprd.com/Spells.aspx?ID=243)*
-Blue        | 15    | 4,200 gp  | 33       | 7d8+13  | Casts *[regenerate](http://2e.aonprd.com/Spells.aspx?ID=248)*
-Orange      | 17    | 6,250 gp  | 34       | 8d8+15  | Casts *[moment of renewal](http://2e.aonprd.com/Spells.aspx?ID=201)*
-Prismatic   | 20    | 13,500 gp | 35       | 9d8+17  | Casts *[revival](http://2e.aonprd.com/Spells.aspx?ID=262)*
+**Activate** [one action] Interact; **Charges** 5; **Effect** You inject the target with the nanite hypogun using its secondary setting. This has the effect listed in the Secondary column of the table below.
 
-## Radiation Detector [STILL UPDATING]
+Color Grade | Level | Cost      | Primary | Secondary
+------------|-------|-----------|---------|-----------
+Brown       | 2     | 30 gp     | 1d8+1   | +2 to saving throws against poison & disease for the next 8 hours
+Black       | 5     | 180 gp    | 2d8+3   | Casts *[restoration](http://2e.aonprd.com/Spells.aspx?ID=258)*
+
+## Radiation Detector
 
 **Traits** Rare, [Tech^](/Traits/README.md#tech)
 
-**Level** 5; **Price** 120 gp; **Hands** 1; **Bulk** L
+**Level** 5; **Price** 120 gp
 
-**Capacity** 10; **Usage** 1 charge/hour
+**Usage** held in 1 hand; **Bulk** L
 
-## Skillchip [STILL UPDATING]
+This device looks like a fancy magnifying glass. It's glass portion glows in various colors once powered on. This Numerian item's effects are high-tech in nature, not magical.
+
+A radiation detector's power is provided by a [battery^](#battery). A fully powered battery has 10 charges. A charge is expended whenever the device is activated, as detailed below in its "Charges" entry.
+
+**Activate** [one action] Interact; **Charges** 1; **Effect** The device begins to measure and display radiation levels in a 120-foot-radius circle around the user, as the *[detect radiation^]* spell. The device makes a soft clicking sound that changes in volume and frequency according to the radiation level encountered, and the small screen at the top indicates the approximate source and strength of radiation in these areas, with red areas indicating severe radiation, yellow high radiation, green medium radiation, and blue low radiation. Areas with less radiation don't register on the device's screen. The device uses 1 charge of power every hour, and continues to do so until deactivated with an Interact action or it runs out of charges.
+
+## Skillchip
 
 **Traits** [Module^](/Traits/README.md#module), [Tech^](/Traits/README.md#tech)
 
-A skillchip contains a wealth of knowledge concerning a single Lore skill, granting an item bonus to checks made using that skill. It must be slotted into a [skillslot](../Cybertech/README.md#skillslot) before it can provide the benefits. All skillchips have negligible bulk.
+**Usage** installed in skillslot
 
-Model    | Level | Cost   | Bonus | Rarity   | Craft DC
----------|-------|--------|-------|----------|---------
-Mark I   | 2     | 25 gp  | +1    | Uncommon | 24
-Mark II  | 4     | 95 gp  | +2    | Rare     | 26
-Mark III | 6     | 215 gp | +3    | Rare     | 28
-Mark IV  | 8     | 450 gp | +4    | Rare     | 30
-Mark V   | 10    | 850 gp | +5    | Rare     | 32
+A skillchip contains a wealth of knowledge concerning a single Lore skill, granting an item bonus to checks made using that skill. It must be slotted into a skillslot before it can provide the benefits. All skillchips have negligible bulk.
 
-## Trauma Pack [STILL UPDATING]
+Model    | Level | Cost   | Bonus | Rarity
+---------|-------|--------|-------|----------
+Mark I   | 2     | 25 gp  | +1    | Uncommon
+Mark II  | 4     | 95 gp  | +2    | Rare
 
-**Traits** Uncommon, Healing, [Pharmaceutical^](/Traits/README.md#pharmaceutical)
+## Trauma Pack
 
-**Level** 4; **Price** 30 gp; **Hands** 2; **Bulk** 1; **Uses** 5
+**Traits** Uncommon, Healing
 
-A trauma pack can be used as [Healer's Tools](https://2e.aonprd.com/Equipment.aspx?ID=25) for the sake of making [Treat Wounds](https://2e.aonprd.com/Actions.aspx?ID=57) checks, but if a use is expended the patient is not temporarily immune to further [Treat Wounds](https://2e.aonprd.com/Actions.aspx?ID=57) actions made using trauma pack charges.
+**Level** 4; **Price** 30 gp
+
+**Usage** held in 2 hands; **Bulk** 1
+
+This small box of emergency medical equipment is essential in Numerian medical facilities. A trauma pack can be used as [Healer's Tools](https://2e.aonprd.com/Equipment.aspx?ID=25) for the sake of making [Treat Wounds](https://2e.aonprd.com/Actions.aspx?ID=57) checks, but if a use is expended the patient is not temporarily immune to further [Treat Wounds](https://2e.aonprd.com/Actions.aspx?ID=57) actions made using trauma pack uses. A trauma pack can be used in this manner five times before it becomes a standard set of healer's tools.
 
 You cannot use a trauma pack in this fashion for [Treat Wounds](https://2e.aonprd.com/Actions.aspx?ID=57) DCs set above 20.
 
-## Trauma Pack Plus [STILL UPDATING]
+## Trauma Pack Plus
 
-**Traits** Rare, Healing, [Pharmaceutical^](/Traits/README.md#pharmaceutical)
+**Traits** Rare, Healing
 
-**Level** 9; **Price** 800 gp; **Hands** 2; **Bulk** 1; **Uses** 5
+**Level** 9; **Price** 800 gp
+
+**Usage** held in 2 hands; **Bulk** 1
 
 As the trauma pack, but a charge can be also expended to bring a creature that died in the last minute back to life. A creature brought back this way has no spells prepared or spell slots available, no points in any pools or any other daily resources, and still with any long-term debilitations of the old body, but persistent damage is removed.
 
 Trauma pack plus uses can be expended like a trauma pack use for [Treat Wounds](https://2e.aonprd.com/Actions.aspx?ID=57) DCs set up to 30.
 
-## Veemod [STILL UPDATING]
+## Veemod
 
 **Traits** Rare, [Module^](/Traits/README.md#module), [Tech^](/Traits/README.md#tech)
 
-Veemods slot into [Veemod Goggles](#veenmod-goggles) and are useless without them. All veemods have negligible bulk.
+Veemods slot into [Veemod Goggles](#veemod-goggles) and are useless without them. All veemods have negligible bulk.
 
-Color Grade | Level | Cost      | Craft DC | Power Use | Benefit
-------------|-------|-----------|----------|-----------|-----------
-Brown       | 1     | 12 gp     | 27       | 1/day     | Grants low-light vision.
-Black       | 2     | 25 gp     | 28       | 1/day     | Wearer gains a +2 status bonus on saving throws against being dazzled or blinded by bright light. Creatures with light blindness or light sensitivity can see in bright light.
-White       | 5     | 150 gp    | 29       | 1/day     | Gain a +1 status bonus to Perception checks with visual senses.
+Color Grade | Level | Cost      | Charges | Benefit
+------------|-------|-----------|-----------|-----------
+Brown       | 1     | 12 gp     | 1/day     | Grants low-light vision.
+Black       | 2     | 25 gp     | 1/day     | Wearer gains a +2 status bonus on saving throws against being dazzled or blinded by bright light. Creatures with light blindness or light sensitivity can see in bright light.
+White       | 5     | 150 gp    | 1/day     | Gain a +1 status bonus to Perception checks with visual senses.
 
-## Veemod Goggles [STILL UPDATING]
+## Veemod Goggles
 
 **Traits** Uncommon, [Tech^](/Traits/README.md#tech)
 
-**Price** 60 gp; **Usage** worn eyepiece; **Bulk** -
+**Price** 60 gp
 
-**Capacity** 10
+**Usage** worn eyepiece; **Bulk** -
 
-## Zipstick [STILL UPDATING]
+These goggles come in a variety of colors and shapes, but most are sleek and streamlined in appearance. The primary use for these goggles is to enhance vision via the application of a “vision enhancement module,” or “[veemod^](#veemod).” A pair of veemod goggles can be fitted with only one veemod at a time; attaching a veemod is an Interact action. This Numerian item's effects are high-tech in nature, not magical.
+
+A pair of veemod goggles's power is provided by a [battery^](#battery). A fully charged battery has 10 charges. A charge is expended whenever the device is activated, as detailed below in its "Charges" entry.
+
+**Activate** [one action] Interact; **Charges** 1; **Effect** You flip a switch on the goggles, activating it based on its installed veemod. If a veemod is not installed, it fails to activate. The veemod goggles use an additional charge at an interval based on the grade of veemod installed, and can be deactivated with an Interact action.
+
+## Zipstick
 
 **Traits** [Tech^](/Traits/README.md#tech)
 
-**Price** 3 gp; **Hands** 1; **Bulk** L
+**Price** 3 gp
 
-**Capacity** 10
+**Usage** held in 1 hand; **Bulk** L
 
-**Activate** (1 action) Interact; **Charges** 1; **Effect** You administer a small jolt of electricity to the target and potentially activate it. If the target is a creature, make a Strike using the zipstick as an improvised weapon, on a hit it deals 1 electricity damage.
+A zipstick is a small pen-like device used to administer a small jolt of electricity. This NUmerian item's effects are high-tech in nature, not magical.
+
+A zipstick's power is provided by a [battery^](#battery). A fully charged battery has 10 charges. A charge is expended whenever the device is activated, as detailed below in its "Charges" entry.
+
+**Activate** [one action] Interact; **Charges** 1; **Effect** You administer a small jolt of electricity to the target and potentially activate it. If the target is a creature, make a Strike using the zipstick as an improvised weapon, on a hit it deals 1 electricity damage.
