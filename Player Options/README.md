@@ -98,7 +98,7 @@ While [*Pathfinder Lost Omens: Gods and Magic*](https://paizo.com/products/btq02
 
 ### Cyber-Soldier (Archetype)
 
-#### Cyber-Soldier Dedication
+### Cyber-Soldier Dedication
 
 **Level:** 4
 
@@ -112,7 +112,7 @@ You or an ally installs a piece of cybertech (normally cyberart or a skillslot) 
 
 Due to your dedication to cybertech, you become trained in Engineering Lore and Medicine. If you are already trained in one of these skills, you gain training in an additional skill of your choice.
 
-#### Cybernetic Combat
+### Cybernetic Combat
 
 **Level:** 6
 
@@ -124,7 +124,7 @@ Due to your dedication to cybertech, you become trained in Engineering Lore and 
 
 You treat your proficiency as one rank higher when using implanted weaponry or when used with a cybernetic arm and deal an additional 2 damage when meeting these conditions, or 4 additional damage if wielded with two cybernetic arms. This damage increases to 3 (or 6 with two cybernetic arms) if you're a master, and to 4 (or 8 with two cybernetic arms) if you're legendary.
 
-#### Improved Implantation
+### Improved Implantation
 
 **Level:** 8
 
@@ -136,7 +136,7 @@ You treat your proficiency as one rank higher when using implanted weaponry or w
 
 Your brain and body slots can accept one more piece of cybertech than normal. Additionally, your limit on implantation points increased by half your level.
 
-#### Perfect Implantation
+### Perfect Implantation
 
 **Level:** 16
  
@@ -148,7 +148,7 @@ Your brain and body slots can accept one more piece of cybertech than normal. Ad
 
 Your body slot can accept two more pieces of cybertech than normal.
 
-#### Resilience
+### Resilience
 
 **Level:** 18
 
@@ -184,7 +184,7 @@ If you successfully identify a Construct using Recall Knowledge, that creature i
 
 You're trained in Crafting and Engineering Lore. You can choose Intelligence as your key ability score.
 
-#### Lucky Glitch
+### Lucky Glitch
 
 **Level:** 2
 
@@ -194,7 +194,7 @@ You're trained in Crafting and Engineering Lore. You can choose Intelligence as 
 
 Your skill with ancient technological artifacts shows through in times of need. Once per hour, you can activate a Timeworn technological item as if it did not possess the Timeworn trait.
 
-#### Robot Slayer
+### Robot Slayer
 
 **Level:** 10
 
@@ -216,7 +216,7 @@ Savage technologists exhort Kellids to rise up against the depredations of the T
 
 **Raging Resistance** The resistance from your raging resistance class feature applies against all damage you take from creatures with the construct trait, regardless of the type of damage dealt by the creature.
 
-#### Raging Shooter
+### Raging Shooter
 
 **Level:** 6
 
@@ -226,7 +226,7 @@ Savage technologists exhort Kellids to rise up against the depredations of the T
 
 While raging, you gain access to the critical specialization effects for ranged weapons. Additionally, while raging, your multiple attack penalty for attacks with a firearm is –3 (–2 with an agile firearm) on your second attack of the turn instead of –5, and –6 (–4 with an agile firearm) on your third or subsequent attack of the turn, instead of –10.
 
-#### Shattering Shot
+### Shattering Shot
 
 **Level:** 12
 
@@ -248,7 +248,7 @@ Techslingers spurn unreliable gunpowder weapons in favor of high-tech armaments.
 
 **Way Skill** Crafting
 
-#### Coveted Charge
+### Coveted Charge
 **Slinger's Reload**
 
 **Traits:** Gunslinger
@@ -257,7 +257,7 @@ Techslingers spurn unreliable gunpowder weapons in favor of high-tech armaments.
 
 Your first shot with high-tech firearms preserves power. Interact to reload. Your first Strike with your high-tech firearm does not expend a charge.
 
-#### Reliable
+### Reliable
 **Initial Deed**
 
 **Traits:** Fortune, Gunslinger
@@ -266,7 +266,7 @@ Your first shot with high-tech firearms preserves power. Interact to reload. You
 
 You have such faith in your handling of timeworn technology that you can make the best of a bad situation. When rolling your flat check for using an item with the timeworn trait, roll twice and take the higher result.
 
-#### Overcharge
+### Overcharge
 **Advanced Deed**
 
 **Traits:** Flourish, Gunslinger
@@ -275,7 +275,7 @@ You have such faith in your handling of timeworn technology that you can make th
 
 You have learned how to expend more power into a single shot. Make two ranged Strikes against a single creature. If both hit, combine their damage for the purpose of resistances and weaknesses. Apply your multiple attack penalty to each Strike normally.
 
-#### Charge Recycling
+### Charge Recycling
 **Greater Deed**
 
 **Traits:** Gunslinger
@@ -286,7 +286,7 @@ You have learned how to expend more power into a single shot. Make two ranged St
 
 You draw from whatever residual energy may be remaining in your high-tech firearm, even if it cannot be recharged. Your high-tech firearm gains a single charge, which must be used within the next hour.
 
-#### Technic Training
+### Technic Training
 
 **Level:** 6
 
@@ -296,7 +296,7 @@ You draw from whatever residual energy may be remaining in your high-tech firear
 
 You've studied the high-tech firearms of Numeria and have a definitive favorite. Choose one specific firearm with the Tech trait (such as an arc pistol or a laser rifle) that you're trained with. You deal an additional 2 points of damage with the chosen firearm. This additional damage increases to 3 if you're a master, and to 4 if you're legendary.
 
-#### True Techslinger
+### True Techslinger
 **Level:** 14
 
 **Traits:** Gunslinger
