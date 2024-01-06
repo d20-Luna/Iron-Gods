@@ -204,7 +204,7 @@ Your skill with ancient technological artifacts shows through in times of need. 
 
 You know just where to strike robots to incapacitate and disable them. When you deal the additional damage from your sneak attack against a creature with the Robot trait, you ignore the creature's hardness (if any).
 
-### Savage Technologist (Barbarian Instinct
+### Savage Technologist (Barbarian Instinct)
 
 Savage technologists exhort Kellids to rise up against the depredations of the Technic League. But rather than rejecting technology, they wield the League’s own weapons against it.
 
