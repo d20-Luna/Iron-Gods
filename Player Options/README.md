@@ -162,10 +162,147 @@ At the start of each day, you gain 5 temporary hit points for each piece of cybe
 
 ### Iron Priest (Cleric Doctrine)
 
+You preach messages from beyond the stars and have sway over technological creatures.
+
+**First Doctrine (1st)** You're trained in light armor, and you have expert proficiency in Fortitude saves. Your Harm and Heal spells affect constructs as if they were living creatures, but do not affect undead. Constructs with the Clockwork, Robot, or Tech traits take full damage from Harm spells you cast and restore full hit points from Heal spells you cast, while constructs without these traits take and restore half the amount.
+
+**Second Doctrine (3rd)** You're trained in martial and advanced weapons.
+
+**Third Doctrine (7th)** You gain expert proficiency with simple weapons, martial weapons, advanced weapons, and unarmed attacks. When you critically succeed at an attack roll using an advanced weapon, you apply the weapon's critical specialization effect; you can use your spell DC in place of your class DC.
+
+**Fourth Doctrine (11th)** Your proficiency ranks for the spell attack modifier and spell DC statistics increase to expert.
+
+**Fifth Doctrine (15th)** Your proficiency rank for Fortitude saves increases to master. When you roll a success at a Fortitude save, you get a critical success instead.
+
+**Sixth Doctrine (19th)** Your proficiency ranks for the spell attack modifier and spell DC statistics increase to master.
+
 ### Numerian Scavenger (Rogue Racket)
 
-### Savage Technologist (Barbarian Instinct)
+You live for the discovery of new technological wonders scraped from the depths of the strange ruins, metal caverns, and outlandish junkyards of Numeria. You are well-versed in all the ways that technology can be used to protect sites, as well as the ways in which it can malfunction.
+
+If you successfully identify a Construct using Recall Knowledge, that creature is flat-footed against and takes 2 additional precision damage from your attacks until the start of your next turn; if you critically succeed, it's flat-footed against and takes 2 additional precision damage from your attacks for 1 minute.
+
+You're trained in Crafting and Engineering Lore. You can choose Intelligence as your key ability score.
+
+#### Lucky Glitch
+
+**Level:** 2
+
+**Traits:** Rogue
+
+**Prerequisites:** Numerian Scavenger Racket
+
+Your skill with ancient technological artifacts shows through in times of need. Once per hour, you can activate a Timeworn technological item as if it did not possess the Timeworn trait.
+
+#### Robot Slayer
+
+**Level:** 10
+
+**Traits:** Rogue
+
+**Prerequisites:** Numerian Scavenger Racket
+
+You know just where to strike robots to incapacitate and disable them. When you deal the additional damage from your sneak attack against a creature with the Robot trait, you ignore the creature's hardness (if any).
+
+### Savage Technologist (Barbarian Instinct
+
+Savage technologists exhort Kellids to rise up against the depredations of the Technic League. But rather than rejecting technology, they wield the League’s own weapons against it.
+
+**Anathema** Destroying technological artifacts is anathema to your instinct; defending yourself against construct creatures is not.
+
+**Ranged Rage (Instinct Ability)** While raging, you deal additional the damage when wielding a firearm. Additionally, you do not trigger Attack of Opportunity reactions when making a ranged attack.
+
+**Specialization Ability** Increase the additional damage from Rage from 2 to 6 if wielding a firearm. If you have greater weapon specialization, instead increase the additional damage from Rage to 12 if wielding a firearm.
+
+**Raging Resistance** The resistance from your raging resistance class feature applies against all damage you take from creatures with the construct trait, regardless of the type of damage dealt by the creature.
+
+#### Raging Shooter
+
+**Level:** 6
+
+**Traits:** Barbarian
+
+**Prerequisites:** Savage Technologist Instinct
+
+While raging, you gain access to the critical specialization effects for ranged weapons. Additionally, while raging, your multiple attack penalty for attacks with a firearm is –3 (–2 with an agile firearm) on your second attack of the turn instead of –5, and –6 (–4 with an agile firearm) on your third or subsequent attack of the turn, instead of –10.
+
+#### Shattering Shot
+
+**Level:** 12
+
+**Traits:** Barbarian
+
+**Prerequisites:** Savage Technologist Instinct
+
+**Requirements:** You're wielding a loaded firearm and are wearing or holding an alchemical bomb or a grenade.
+
+You fling a bomb or grenade into the air and then shoot it with your gun before it falls, raining destruction down over a wide area. If necessary, you Interact to draw the explosive and regrip your weapon. You throw your explosive to the corner of a square within your firearm's first range increment and shoot it with your firearm. All creatures in a 15-foot burst of the bomb take the bomb's normal damage with a basic Reflex save against your class DC. They don't take any splash or persistent damage the bomb would deal normally.
 
 ### Way of the Techslinger (Gunslinger Way)
+
+Techslingers spurn unreliable gunpowder weapons in favor of high-tech armaments. They learn to master the quirks of timeworn technology and methods of keeping weapons charged in a primitive world.
+
+**Slinger's Reload** Coveted Charge
+
+**Deeds** *Initial* Reliable; *Advanced* Overcharge; *Greater* Charge Recycling
+
+**Way Skill** Crafting
+
+#### Coveted Charge
+**Slinger's Reload**
+
+**Traits:** Gunslinger
+
+**Requirements:** You're wielding a firearm with the Tech trait.
+
+Your first shot with high-tech firearms preserves power. Interact to reload. Your first Strike with your high-tech firearm does not expend a charge.
+
+#### Reliable
+**Initial Deed**
+
+**Traits:** Fortune, Gunslinger
+
+**Trigger:** A firearm you're wielding with the Timeworn trait glitches.
+
+You have such faith in your handling of timeworn technology that you can make the best of a bad situation. When rolling your flat check for using an item with the timeworn trait, roll twice and take the higher result.
+
+#### Overcharge
+**Advanced Deed**
+
+**Traits:** Flourish, Gunslinger
+
+**Requirements:** You're wielding a firearm with the Tech trait that has more than one charge remaining.
+
+You have learned how to expend more power into a single shot. Make two ranged Strikes against a single creature. If both hit, combine their damage for the purpose of resistances and weaknesses. Apply your multiple attack penalty to each Strike normally.
+
+#### Charge Recycling
+**Greater Deed**
+
+**Traits:** Gunslinger
+
+**Requirements:** You're wielding a firearm with the Tech trait that has 0 charges remaining.
+
+**Frequency:** Once per round.
+
+You draw from whatever residual energy may be remaining in your high-tech firearm, even if it cannot be recharged. Your high-tech firearm gains a single charge, which must be used within the next hour.
+
+#### Technic Training
+
+**Level:** 6
+
+**Traits:** Gunslinger
+
+**Prerequisites:** Way of the Techslinger
+
+You've studied the high-tech firearms of Numeria and have a definitive favorite. Choose one specific firearm with the Tech trait (such as an arc pistol or a laser rifle) that you're trained with. You deal an additional 2 points of damage with the chosen firearm. This additional damage increases to 3 if you're a master, and to 4 if you're legendary.
+
+#### True Techslinger
+**Level:** 14
+
+**Traits:** Gunslinger
+
+**Prerequisite:** Technic Training
+
+You're so confident in your favored firearm that it rarely malfunctions for you. When wielding your favored firearm with the Timeworn trait, you treat the firearm as if it does not have the timeworn trait, allowing you to ignore the Glitching condition and reload or recharge the firearm.
 
 ### Technomancer (Archetype)
