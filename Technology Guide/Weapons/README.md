@@ -318,71 +318,159 @@ When activated with an Interact action, a plasma blade’s heavy, ornate handle 
 
 This bulky, handheld cannon has a wicked design that can fire any grenade a great distance. A grenade launcher can only fire grenades in the order it was loaded. Grenades fired from a grenade launcher are automatically set to detonate upon impact, dealing their usual effects when detonated, save for their save DCs are equal to your Class DC.
 
-## Plasmathrower (Tactical, Advanced) [STILL UPDATING]
+## Plasmathrower (Timeworn, Tactical, Advanced)
 
-**Level** 6 (Tactical), 8 (Advanced)
+**Level** 4 (Timeworn), 6 (Tactical), 8 (Advanced); **Price** 100 gp (Timeworn), 350 gp (Tactical), 600 gp (Advanced); **Damage** 1d10 E and F (Timeworn, Tactical), 1d10 E and F (Advanced); **Bulk** 2; **Hands** 2; **Range** 60 feet
+
+**Weapon Group** [Plasma^](/Traits/README.md#plasma); **Traits** Modular ([Area^](/Traits/README.md#area-burst-cone-line) (cone 60 ft.) or [Area^](/Traits/README.md#area-burst-cone-line) (line 60 ft.)), [Tech^](/Traits/README.md#tech), [Timeworn^](/Traits/README.md#timeworn) (Timeworn), [Tracking +1^](/Traits/README.md#tracking), [Unwieldy^](/Traits/README.md#unwieldy)
+
+**Capacity** 20 charges; **Usage** 2; **Reload** - (Timeworn), 1 (Tactical, Advanced); **Upgrades** - (Timeworn), 1 (Tactical), 2 (Advanced)
 
 A plasmathrower is a devastating weapon that fires blasts of superheated, electrically charged gas. Half the damage dealt by a plasmathrower is fire damage and the other half is electricity damage.
 
-## Rotoarc (Tactical, Advanced) [STILL UPDATING]
+## Rotoarc (Timeworn, Tactical, Advanced)
+
+**Level** 0 (Timeworn), 2 (Tactical), 4 (Advanced); **Price** 12 gp (Timeworn), 50 gp (Tactical), 106 gp (Advanced); **Damage** 1d8 E (Timeworn, Tactical), 2d8 E (Advanced); **Bulk** 3; **Hands** 2; **Range** 40 feet
+
+**Weapon Group** [Shock^](/Traits/README.md#shock); **Traits** [Automatic^](/Traits/README.md#automatic), [Tech^](/Traits/README.md#tech), [Timeworn^](/Traits/README.md#timeworn) (Timeworn), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
+
+**Capacity** 20 charges; **Usage** 1; **Reload** - (Timeworn), 1 (Tactical, Advanced); **Upgrades** - (Timeworn), 1 (Tactical), 2 (Advanced)
 
 Rotoarcs employ a moving array of pronged emitters protruding from a rotating set of barrels to fire a series of short electrical blasts in an area. Rotoarcs can unleash a blistering hail of fire or be calibrated to fire single shots in short succession without worrying about depleting ammunition. They straddle the line between being a full area suppression weapon and a tactical rifle, though paying for that price in weight. If the target is wearing metal armor or has the metal trait, you gain a +2 circumstance bonus to your attack roll, the target takes a -2 circumstance penalty on saving throws against Automatic Fire, and the target also takes 1d6 persistent electricity damage on a hit. On a critical hit, double the initial damage, but not the persistent damage.
 
-## Rotoboom (Tactical, Advanced) [STILL UPDATING]
+## Rotoboom (Timeworn, Tactical, Advanced)
+
+**Level** 0 (Timeworn), 2 (Tactical), 4 (Advanced); **Price** 16 gp (Timeworn), 65 gp (Tactical), 120 gp (Advanced); **Damage** 1d8 So (Timeworn, Tactical), 2d8 So (Advanced); **Bulk** 3; **Hands** 2; **Range** 40 feet
+
+**Weapon Group** [Sonic^](/Traits/README.md#sonic); **Traits** [Automatic^](/Traits/README.md#automatic), [Tech^](/Traits/README.md#tech), [Timeworn^](/Traits/README.md#timeworn) (Timeworn), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
+
+**Capacity** 20 charges; **Usage** 1; **Reload** - (Timeworn), 1 (Tactical, Advanced); **Upgrades** - (Timeworn), 1 (Tactical), 2 (Advanced)
 
 Rotobooms employ a rotating set of barrels, each with a powerful amplifier at their tip, that allow for a series of rapid sonic bursts in an area. Rotobooms can unleash a blistering hail of fire or be calibrated to fire single shots in short succession without worrying about depleting ammunition. They straddle the line between being a full area suppression weapon and a tactical rifle, though paying for that price in weight. If the target has the construct trait, ignore any hardness they possess unless they also have a resistance or immunity to sonic damage.
 
-## Rotocryo (Tactical, Advanced) [STILL UPDATING]
+## Rotocryo (Timeworn, Tactical, Advanced)
+
+**Level** 0 (Timeworn), 2 (Tactical), 4 (Advanced); **Price** 12 gp (Timeworn), 50 gp (Tactical), 106 gp (Advanced); **Damage** 1d8 C (Timeworn, Tactical), 2d8 C (Advanced); **Bulk** 3; **Hands** 2; **Range** 40 feet
+
+**Weapon Group** [Cryo^](/Traits/README.md#cryo); **Traits** [Automatic^](/Traits/README.md#automatic), [Tech^](/Traits/README.md#tech), [Timeworn^](/Traits/README.md#timeworn) (Timeworn), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
+
+**Capacity** 20 charges; **Usage** 1; **Reload** - (Timeworn), 1 (Tactical, Advanced); **Upgrades** - (Timeworn), 1 (Tactical), 2 (Advanced)
 
 Employing a rotating set of barrels that allow a series of short super-cooled energy blasts in an area, rotocryos can unleash a blistering hail of fire or be calibrated to fire single shots in short succession without worrying about depleting ammunition. They straddle the line between being a full area suppression weapon and a tactical rifle, though paying for that price in weight. If the target has the water trait, you gain a +2 circumstance bonus to your damage roll, and the target also takes 1d6 persistent cold damage on a hit. On a critical hit, double the initial damage (including the circumstance bonus), but not the persistent damage.
 
-## Rotograv (Tactical, Advanced) [STILL UPDATING]
+## Rotograv (Timeworn, Tactical, Advanced)
+
+**Level** 0 (Timeworn), 2 (Tactical), 4 (Advanced); **Price** 20 gp (Timeworn), 80 gp (Tactical), 140 gp (Advanced); **Damage** 1d8 Fo (Timeworn, Tactical), 2d8 Fo (Advanced); **Bulk** 3; **Hands** 2; **Range** 40 feet
+
+**Weapon Group** [Gravity^](/Traits/README.md#gravity); **Traits** [Automatic^](/Traits/README.md#automatic), [Graviton^](/Traits/READNE.md#graviton), [Tech^](/Traits/README.md#tech), [Timeworn^](/Traits/README.md#timeworn) (Timeworn), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
+
+**Capacity** 20 charges; **Usage** 1; **Reload** - (Timeworn), 1 (Tactical, Advanced); **Upgrades** - (Timeworn), 1 (Tactical), 2 (Advanced)
 
 Rotogravs employ a moving array of forked prongs affixed to a rotating set of barrels that allow for a series of short graviton beams in an area. Rotogravs can unleash a blistering hail of fire or be calibrated to fire single shots in short succession without worrying about depleting ammunition. They straddle the line between being a full area suppression weapon and a tactical rifle, though paying for that price in weight.
 
-## Rotolaser (Tactical, Advanced) [STILL UPDATING]
+## Rotolaser (Timeworn, Tactical, Advanced)
+
+**Level** 0 (Timeworn), 2 (Tactical), 4 (Advanced); **Price** 12 gp (Timeworn), 50 gp (Tactical), 106 gp (Advanced); **Damage** 1d8 F (Timeworn, Tactical), 2d8 F (Advanced); **Bulk** 3; **Hands** 2; **Range** 40 feet
+
+**Weapon Group** [Laser^](/Traits/README.md#laser); **Traits** [Automatic^](/Traits/README.md#automatic), [Tech^](/Traits/README.md#tech), [Timeworn^](/Traits/README.md#timeworn) (Timeworn), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
+
+**Capacity** 20 charges; **Usage** 1; **Reload** - (Timeworn), 1 (Tactical, Advanced); **Upgrades** - (Timeworn), 1 (Tactical), 2 (Advanced)
 
 Employing a moving array of lenses, this weapon also uses a rotating set of barrels that allow for a series of short laser blasts in an area. Rotolasers can unleash a blistering hail of fire or be calibrated to fire single shots in short succession without worrying about depleting ammunition. They straddle the line between being a full area suppression weapon and a tactical rifle, though paying for that price in weight. A rotolaser's beams can pass through glass and other transparent physical barriers, dealing damage to such barriers as they pass through. Barriers of energy or magical force block lasers. Invisible creatures don’t take damage from lasers, as the beams pass through them harmlessly. Fog, smoke, and other clouds provide both cover and concealment from laser attacks. Lasers can penetrate darkness, but they don’t provide any illumination.
 
-## Rotopulse (Tactical, Advanced) [STILL UPDATING]
+## Rotopulse (Timeworn, Tactical, Advanced)
+
+**Level** 0 (Timeworn), 2 (Tactical), 4 (Advanced); **Price** 11 gp (Timeworn), 46 gp (Tactical), 100 gp (Advanced); **Damage** 1d10 E (Timeworn, Tactical), 2d10 E (Advanced); **Bulk** 3; **Hands** 2; **Range** 40 feet
+
+**Weapon Group** [EMP^](/Traits/README.md#emp); **Traits** [Automatic^](/Traits/README.md#automatic), [Tech^](/Traits/README.md#tech), [Timeworn^](/Traits/README.md#timeworn) (Timeworn), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
+
+**Capacity** 20 charges; **Usage** 1; **Reload** - (Timeworn), 1 (Tactical, Advanced); **Upgrades** - (Timeworn), 1 (Tactical), 2 (Advanced)
 
 Rotopulses employ a moving array of electromagnetically-charged spikes protruding from a rotating set of barrels that allow for a series of short energy blasts in an area. Rotopulses can unleash a blistering hail of fire or be calibrated to fire single shots in short succession without worrying about depleting ammunition. They only deal full damage to creatures with the tech trait, and half damage to androids, automatons, and creatures with cybernetic implants. Rotopulses straddle the line between being a full area suppression weapon and a tactical rifle, though paying for that price in weight.
 
 # Weapon Upgrades
 
-Weapon upgrades function as high-tech runes. The runic effects they grant to their upgraded weapons are high-tech in nature, not magical. Their effects do not apply to Automatic Fire actions taken, but do apply to Area Fire actions taken. Weapon upgrades expend a single charge with each Strike or Area Fire of the upgraded weapon, whether the Strike or Area Fire results in a success or not.
+Weapon upgrades function as high-tech runes. The runic effects they grant to their upgraded weapons are high-tech in nature, not magical. Their effects do not apply to Automatic Fire actions taken, but do apply to Area Fire actions taken. Weapon upgrades expend a single charge from its personal batteries with each Strike or Area Fire of the upgraded weapon, whether the Strike or Area Fire results in a success or not.
 
-## Arc Coil (Standard, Advanced) [STILL UPDATING]
+## Arc Coil (Standard, Advanced)
 
-Arc coils are weapon upgrades that empower their weapons with electrical abilities. Arc coils grant the upgraded weapon the effects of a shock rune. Advanced arc coils instead grant the upgraded weapon the effects of a greater shock rune.
+**Level** 8 (Standard), 15 (Advanced); **Price** 600 gp (Standard), 7,000 gp (Advanced); **Bulk** -
 
-## Blaze Burner (Standard, Advanced) [STILL UPDATING]
+**Weapon Type** Melee, Ranged; **Traits** Electric, [Tech^](/Traits/README.md#tech)
 
-Blaze burners are weapon upgrades that empower their weapons with fiery abilities. Blaze burners grant the upgraded weapon the effects of a flaming rune. Advanced blaze burners instead grant the upgraded weapon the effects of a greater flaming rune.
+**Capacity** 10 charges (Standard), 20 charges (Advanced); **Usage** 1; **Reload** 1
 
-## Corrosivial (Standard, Advanced) [STILL UPDATING]
+Arc coils are weapon upgrades that empower their weapons with electrical abilities. Arc coils grant the upgraded weapon the effects of a [shock](https://2e.aonprd.com/Equipment.aspx?ID=303) rune. Advanced arc coils instead grant the upgraded weapon the effects of a [greater shock](https://2e.aonprd.com/Equipment.aspx?ID=303) rune.
 
-Corrosivials are weapon upgrades that empower their weapons with acidic abilities. Corrosivials grant the upgraded weapon the effects of a corrosive rune. Advanced corrosivials instead grant the effects of a greater corrosive rune.
+## Blaze Burner (Standard, Advanced)
 
-## Cryo Coolant (Standard, Advanced) [STILL UPDATING]
+**Level** 8 (Standard), 15 (Advanced); **Price** 600 gp (Standard), 7,000 gp (Advanced); **Bulk** -
 
-Cryo coolants are weapon upgrades that empower their weapons with icy abilities. Cryo coolants grant the upgraded weapon the effects of a frost rune. Advanced cryo coolants instead grant the upgraded weapon the effects of a greater frost rune.
+**Weapon Type** Melee, Ranged; **Traits** Fire, [Tech^](/Traits/README.md#tech)
 
-## Ectopulsar [STILL UPDATING]
+**Capacity** 10 charges (Standard), 20 charges (Advanced); **Usage** 1; **Reload** 1
 
-Ectopulsars are weapon upgrades that envelop their weapons in quantum fields. Ectopulsars grant the upgraded weapon the effects of a ghost touch rune.
+Blaze burners are weapon upgrades that empower their weapons with fiery abilities. Blaze burners grant the upgraded weapon the effects of a [flaming](https://2e.aonprd.com/Equipment.aspx?ID=295) rune. Advanced blaze burners instead grant the upgraded weapon the effects of a [greater flaming](https://2e.aonprd.com/Equipment.aspx?ID=295) rune.
 
-## Gravity Clip (Standard, Advanced) [STILL UPDATING]
+## Corrosivial (Standard, Advanced)
 
-Gravity clips are weapon upgrades that momentarily increase the mass of their weapons. Gravity clips increase the upgraded weapon's number of damage dice by 1. Advanced gravity clips instead increase the upgraded weapon's number of damage dice by 2.
+**Level** 8 (Standard), 15 (Advanced); **Price** 600 gp (Standard), 7,000 gp (Advanced); **Bulk** -
 
-## Homing Beacon [STILL UPDATING]
+**Weapon Type** Melee, Ranged; **Traits** Acid, [Tech^](/Traits/README.md#tech)
+
+**Capacity** 10 charges (Standard), 20 charges (Advanced); **Usage** 1; **Reload** 1
+
+Corrosivials are weapon upgrades that empower their weapons with acidic abilities. Corrosivials grant the upgraded weapon the effects of a [corrosive](https://2e.aonprd.com/Equipment.aspx?ID=292) rune. Advanced corrosivials instead grant the effects of a [greater corrosive](https://2e.aonprd.com/Equipment.aspx?ID=292) rune.
+
+## Cryo Coolant (Standard, Advanced)
+
+**Level** 8 (Standard), 15 (Advanced); **Price** 600 gp (Standard), 7,000 gp (Advanced); **Bulk** -
+
+**Weapon Type** Melee, Ranged; **Traits** Cold, [Tech^](/Traits/README.md#tech)
+
+**Capacity** 10 charges (Standard), 20 charges (Advanced); **Usage** 1; **Reload** 1
+
+Cryo coolants are weapon upgrades that empower their weapons with icy abilities. Cryo coolants grant the upgraded weapon the effects of a [frost](https://2e.aonprd.com/Equipment.aspx?ID=296) rune. Advanced cryo coolants instead grant the upgraded weapon the effects of a [greater frost](https://2e.aonprd.com/Equipment.aspx?ID=296) rune.
+
+## Ectopulsar
+
+**Level** 6; **Price** 225 gp; **Bulk** -
+
+**Weapon Type** Melee; **Traits** Force, [Tech^](/Traits/README.md#tech)
+
+**Capacity** 10 charges; **Usage** 1; **Reload** 1
+
+Ectopulsars are weapon upgrades that envelop their weapons in quantum fields. Ectopulsars grant the upgraded weapon the effects of a [ghost touch](https://2e.aonprd.com/Equipment.aspx?ID=297) rune.
+
+## Gravity Clip (Standard, Advanced)
+
+**Level** 4 (Standard), 12 (Advanced); **Price** 75 gp (Standard), 1,265 gp (Advanced); **Bulk** -
+
+**Weapon Type** Melee, Ranged; **Traits** [Tech^](/Traits/README.md#tech)
+
+**Capacity** 10 charges (Standard), 20 charges (Advanced); **Usage** 1; **Reload** 1
+
+Gravity clips are weapon upgrades that momentarily increase the mass of their weapons. Gravity clips increase the upgraded weapon's number of damage dice by 1, as a [striking](https://2e.aonprd.com/Equipment.aspx?ID=280) rune. Advanced gravity clips instead increase the upgraded weapon's number of damage dice by 2, as a [greater striking](https://2e.aonprd.com/Equipment.aspx?ID=280) rune.
+
+## Homing Beacon
+
+**Level** 12; **Price** 1,265 gp; **Bulk** -
+
+**Weapon Type** Ranged; **Traits** Fortune, [Tech^](/Traits/README.md#tech)
+
+**Capacity** 10 charges; **Usage** 2; **Reload** 1
 
 Homing beacons are weapon upgrades that lock onto their weapons' targets. Homing beacons increase the likelihood of a successful Strike with the upgraded weapon, by allowing the user to roll their Strike twice and take the higher roll.
 
-## Stabilizer (Standard, Advanced) [STILL UPDATING]
+## Stabilizer (Standard, Advanced)
 
-Stabilizers are weapon upgrades that balance their weapons. Stabilizers increase the upgraded weapon's tracking value by 1. Advanced stabilizers instead increase the upgraded weapon's tracking value by 2.
+**Level** 2 (Standard), 10 (Advanced); **Price** 40 gp (Standard), 1,000 gp (Advanced); **Bulk** -
+
+**Weapon Type** Melee, Ranged; **Traits** [Tech^](/Traits/README.md#tech)
+
+**Capacity** 10 charges (Standard), 20 charges (Advanced); **Usage** 1; **Reload** 1
+
+Stabilizers are weapon upgrades that balance their weapons. Stabilizers increase the upgraded weapon's tracking value by 1, as a [+1 potency](https://2e.aonprd.com/Equipment.aspx?ID=281) rune. Advanced stabilizers instead increase the upgraded weapon's tracking value by 2, as a [+2 potency](https://2e.aonprd.com/Equipment.aspx?ID=281) rune.
 
 # Special Technological Weaponry
 
@@ -486,7 +574,7 @@ A newly created rocket launcher contains its entire load of rockets and energy c
 
 **Traits** [Rare](https://2e.aonprd.com/Traits.aspx?ID=137), [Magical](https://2e.aonprd.com/Traits.aspx?ID=103), [Tech^](/Traits/README.md#tech)
 
-**Base Weapon** [Monk's Spade^]
+**Base Weapon** [Monk's Spade^](#monks-spade)
 
 These refined fusions of magic, advanced science, and masterful weaponsmithing are the signature tools for the guards of Starfall and the Palace of Fallen Stars.
 
