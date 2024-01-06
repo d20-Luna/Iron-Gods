@@ -93,3 +93,79 @@ Your companion is a Sorico, a constantly mud-caked rodent with spade-like claws 
 ### Casandalee
 
 While [*Pathfinder Lost Omens: Gods and Magic*](https://paizo.com/products/btq021wf?Pathfinder-Lost-Omens-Gods-Magic) offer Casandalee as a potential deity choice for clerics and champions, this adventure path is set before the Iron Goddess achieved divinity. Players hoping to choose her as a deity may consider [Brigh](http://2e.aonprd.com/Deities.aspx?ID=33) or [Irori](http://2e.aonprd.com/Deities.aspx?ID=10) as a replacement.
+
+## Class Options
+
+### Cyber-Soldier (Archetype)
+
+#### Cyber-Soldier Dedication
+
+**Level:** 4
+
+**Traits:** Uncommon, Archetype, Dedication
+
+**Prerequisites:** You possess a piece of cybertech
+
+Cyber-soldiers replace fallible flesh with precision-crafted machinery. Some seek to exceed the limitations of humanoid flesh, while others become cyber-soldiers through drastic repairs necessitated by horrific injuries.
+
+You or an ally installs a piece of cybertech (normally cyberart or a skillslot) into yourself, disregarding the Install DC. This piece of cybertech must have a level no greater than your Class level.
+
+Due to your dedication to cybertech, you become trained in Engineering Lore and Medicine. If you are already trained in one of these skills, you gain training in an additional skill of your choice.
+
+#### Cybernetic Combat
+
+**Level:** 6
+
+**Traits:** Archetype
+
+**Archetype:** Cyber-Soldier
+
+**Prerequisites:** Cyber-Soldier Dedication
+
+You treat your proficiency as one rank higher when using implanted weaponry or when used with a cybernetic arm and deal an additional 2 damage when meeting these conditions, or 4 additional damage if wielded with two cybernetic arms. This damage increases to 3 (or 6 with two cybernetic arms) if you're a master, and to 4 (or 8 with two cybernetic arms) if you're legendary.
+
+#### Improved Implantation
+
+**Level:** 8
+
+**Traits:** Archetype
+
+**Archetype:** Cyber-Soldier
+
+**Prerequisites:** Cyber-Soldier Dedication
+
+Your brain and body slots can accept one more piece of cybertech than normal. Additionally, your limit on implantation points increased by half your level.
+
+#### Perfect Implantation
+
+**Level:** 16
+ 
+**Traits:** Archetype
+
+**Archetype:** Cyber-Soldier
+
+**Prerequisites:** Improved Implantation
+
+Your body slot can accept two more pieces of cybertech than normal.
+
+#### Resilience
+
+**Level:** 18
+
+**Traits:** Archetype
+
+**Archetype:** Cyber-Soldier
+
+**Prerequisites:** Cyber-Soldier Dedication
+
+At the start of each day, you gain 5 temporary hit points for each piece of cybertech you have installed. Lost temporary hit points granted from this feat are recovered at a rate of 10 points per hour.
+
+### Iron Priest (Cleric Doctrine)
+
+### Numerian Scavenger (Rogue Racket)
+
+### Savage Technologist (Barbarian Instinct)
+
+### Way of the Techslinger (Gunslinger Way)
+
+### Technomancer (Archetype)
