@@ -15,4 +15,4 @@ Book Name                                                          | Levels  | C
 
 * [Traits (including new weapon groups and critical specializations)](/Traits/README.md) (Complete!)
 * [Technology Guide](/Technology%20Guide/README.md) (Complete, posting in progress)
-* [Player Options (including Backgrounds)](/Player%20Options/README.md) (Complete, not posted)
+* [Player Options (including Backgrounds)](/Player%20Options/README.md) (Complete!)
