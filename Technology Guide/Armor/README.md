@@ -147,18 +147,18 @@ The armor actually boosts land speed when worn, granting a +10 foot item bonus t
 The wearer of a suit of powered armor may activate the armor’s self-repair system with an Interact action. The armor consumes a single charge and repairs 2d6 points of damage. Only 1 charge can be consumed per turn for this effect.
 
 In addition, the following technological wonders are integrated into a suit of powered armor; each of these devices drains power from the suit’s charges as appropriate when they are activated and used.
-* [Camera^](Technology%20Guide/Gear/README.md#camera) in the helmet.
-* [Commset^](Technology%20Guide/Gear/README.md#commset) in the helmet.
-* [Fire extinguisher^](Technology%20Guide/Gear/README.md#fire-extinguisher) mounted on the left wrist.
-* [Flashlight^](Technology%20Guide/Gear/README.md#flashlight) mounted on the helmet.
+* [Camera^](/Technology%20Guide/Gear/README.md#camera) in the helmet.
+* [Commset^](/Technology%20Guide/Gear/README.md#commset) in the helmet.
+* [Fire extinguisher^](/Technology%20Guide/Gear/README.md#fire-extinguisher) mounted on the left wrist.
+* [Flashlight^](/Technology%20Guide/Gear/README.md#flashlight) mounted on the helmet.
 * Gloves that can function as [grippers^](/Technology%20Guide/Gear/README.md#grippers).
 * [Advanced laser pistol^](/Technology%20Guide/Weapons#laser-pistol-timeworn-commercial-tactical-advanced) mounted on the right forearm that leaves the hand free.
 * [Magboots^](/Technology%20Guide/Gear/README.md#magboots).
 * Three [medlances^](/Technology%20Guide/Gear/README.md#medlance). Each medlance can be loaded with a single potion or pharmaceutical; activating an integrated medlance is a free action.
 * [Power receiver^](/Technology%20Guide/Gear/README.md#power-receiver).
-* [Prismatic force field^](Technology%20Guide/Gear/README.md#force-field) located on hips; activating this force field is a free action.
-* [Radiation detector^](Technology%20Guide/Gear/README.md#radiation-detector) on the right wrist.
-* Custom [veemods^](Technology%20Guide/Gear/README.md#veemod) in the visor grant a +5 item bonus on Perception checks, low light vision, darkvision up to 120 feet, and all-around vision.
+* [Prismatic force field^](/Technology%20Guide/Gear/README.md#force-field) located on hips; activating this force field is a free action.
+* [Radiation detector^](/Technology%20Guide/Gear/README.md#radiation-detector) on the right wrist.
+* Custom [veemods^](/Technology%20Guide/Gear/README.md#veemod) in the visor grant a +5 item bonus on Perception checks, low light vision, darkvision up to 120 feet, and all-around vision.
 
 Rumors persist of variant forms of powered armor, including suits sized for giants or that can function as vehicles for multiple creatures.
 
