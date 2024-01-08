@@ -106,15 +106,27 @@ Short for “hazardous environment,” an HEV suit provides protection from radi
 
 While powered, the suit provides immunity to inhaled poisons and diseases, and provides resistance 10 against all forms of energy except for sonic damage. An HEV suit completely protects against low radiation, and reduces the effects of medium radiation to low radiation, but it offers no protection against high or severe radiation. The suit’s self-repairing polymer resin fabric automatically seals secondary punctures or tears created by physical attacks to the wearer and damage dealt specifically against the suit. It repairs damage to itself at the rate of 2d6 points of damage per charge consumed. While repairing damage in this manner, the suit’s other protective functions listed above are any taken offline. An HEV suit has hardness 2 and 30 hit points.
  
-## Nanite Ablative Armor [STILL UPDATING]
+## Nanite Ablative Armor
+
+**Level** 11; **Price** 575 gp; **AC Bonus** +4; **Max Dex** +4; **Check Penalty** -2; **Speed Penalty** -5 feet
+
+**Strength** +2; **Bulk** 2; **Traits** Comfort, [Tech^](/Traits/README.md#tech)
+
+**Capacity** 20 charges; **Usage** 1/hour; **Upgrades** 3
 
 This suit of armor consists of several layers of scaly mesh over a thick, clothlike polymer weave. When activated with a single Interact action, a suit of nanite ablative armor grants the wearer additional protection against nanites, through the use of imperceptible magnetic fields that repel the microscopic robots. An active suit of nanite ablative armor grants a +3 circumstance bonus to the wearer's AC and saving throws against creatures, items, and effects composed of or powered via nanites (such as via a nanite canister). This does not grant the bonuses against androids.
  
-## Panic Suit [STILL UPDATING]
+## Panic Suit
+
+**Level** 5; **Price** 120 gp; **AC Bonus** +2; **Max Dex** +2; **Check Penalty** -2; **Speed Penalty** -5 feet
+
+**Strength** +2; **Bulk** L; **Traits** Consumable, Expandable, [Tech^](/Traits/README.md#tech)
+
+**Capacity** 10 charges; **Usage** 1/hour; **Upgrades** —
 
 Before activation, a panic suit is a fist-sized plastic sphere. A panic suit has its own internal power source with 10 charges. It does not require batteries to function.
 
-Activate Interact; Charges 1; Effect The sphere envelopes the creature holding it in a full-body protective suit. While activated, it provides immunity to low radiation and resistance 5 against all forms of energy except sonic damage. Its air filters grant a +2 status bonus on saving throws against inhaled poisons and diseases. The panic suit uses an additional charge every hour while activated, and can be deactivated with an Interact action.
+**Activate** [one action] Interact; **Charges** 1; **Effect** The sphere envelopes the creature holding it in a full-body protective suit. While activated, it provides immunity to low radiation and resistance 5 against all forms of energy except sonic damage. Its air filters grant a +2 status bonus on saving throws against inhaled poisons and diseases. The panic suit uses an additional charge every hour while activated, and can be deactivated with an Interact action.
 
 A panic suit is a single-use item. When its charges run out or its wearer deactivates it, it falls apart into useless fragments.
  
