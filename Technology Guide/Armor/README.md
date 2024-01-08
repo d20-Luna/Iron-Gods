@@ -151,3 +151,23 @@ A spacesuit looks like a bulky, quilted suit of full plate, with a glass paned h
 A hard light shield appears as a bulky wristband that provides no bonuses to AC while not activated.
 
 Activate Raise a Shield; Charges 1; Effect A disk of force is generated from the wristband, granting you a +1 circumstance bonus to AC but doesn't require a free hand to use. While active you may use the Shield Block reaction, after which the shield deactivates immediately. Unlike a normal Shield Block, you can use the hard light shield's reaction against the magic missile spell.
+
+# Armor Upgrades
+
+## Automated Self-Repairer [STILL UPDATING]
+
+## Descent Thrusters [STILL UPDATING]
+
+## Infrared Sensors [STILL UPDATING]
+
+## Leapers [STILL UPDATING]
+
+## Light Projector [STILL UPDATING]
+
+## Pet Carrier [STILL UPDATING]
+
+## Radiation Buffer [STILL UPDATING]
+
+## Reactive Reinforcement [STILL UPDATING]
+
+## Tensile Reinforcement [STILL UPDATING]
