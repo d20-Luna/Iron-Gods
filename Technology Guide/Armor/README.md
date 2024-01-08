@@ -56,29 +56,53 @@ A heavy weapon harness provides its wearer with additional stability and support
 
 This padded jumpsuit is made of resilient polymers interwoven with superconducting thread. It provides modest protection from conventional and energy weapons. The wearer gains the item's AC bonus to their Fortitude and Reflex saving throws against effects that deal acid, cold, and electricity damage. In addition, the inssuit provides resistance 5 against acid, cold, and electricity.
  
-## Neraplast Armor [STILL UPDATING]
+## Neraplast Armor
+
+**Level** 4; **Price** 100 gp; **AC Bonus** +1; **Max Dex +4; **Check Penalty** -1; **Speed Penalty** —
+
+**Strength** +0; **Bulk** 1; **Traits** Comfort, Flexible, [Tech^](/Traits/README.md#tech)
+
+**Capacity** 20 charges; **Usage** 1; **Upgrades** 2
 
 Neraplast armor is a lightweight, formfitting bodysuit features a variety of pockets, straps, and a built-in interface for automatically adjusting the various colors and patterns on its fabric.
 
-Activate Interact; Charges 1; Effect You change the colour of the neraplast armour to match your surroundings. You gain a +2 item bonus to Sneak and Hide as long as you're within the current terrain. Moving outside of the terrain requires you to recalibrate its colour again.
+**Activate** [one action] Interact; **Charges** 1; **Effect** You change the colour of the neraplast armour to match your surroundings. You gain a +2 item bonus to Sneak and Hide as long as you're within the current terrain. Moving outside of the terrain requires you to recalibrate its colour again.
 
-## Scatterlight Suit [STILL UPDATING]
+## Scatterlight Suit
+
+**Level** 8; **Price** 700 gp; **AC Bonus** +1; **Max Dex** +4; **Check Penalty** -1; **Speed Penalty** —
+
+**Strength** +0; **Bulk** 1; **Traits** Comfort, Flexible, [Tech^](/Traits/README.md#tech)
+
+**Capacity** 20 charges; **Usage** 1; **Upgrades** 2
 
 A scatterlight suit is a tight, form-fitting suit of highly reflective polymers and synthetic metal fibers. It’s designed to reflect beam weapon attacks, and provides only minimal protection against physical damage.
 
-Activate Interact; Charges 1; Duration 10 minutes; Effect The suit diffuses and blurs light reflected from its surface. The suit's wearer is considered concealed to beam and ray attacks and effects.
+**Activate** [one action] Interact; **Charges** 1; **Duration** 10 minutes; **Effect** The suit diffuses and blurs light reflected from its surface. The suit's wearer is considered concealed to beam and ray attacks and effects.
  
-## Smart Armor [STILL UPDATING]
+## Smart Armor
+
+**Level** 10; **Price** 1,000 gp; **AC Bonus** +4; **Max Dex** +4; **Check Penalty** -1; **Speed Penalty** —
+
+**Strength** +0; **Bulk** L; **Traits** Expandable, Noisy, [Tech^](/Traits/README.md#tech)
+
+**Capacity** 60 charges; **Usage** 1; **Upgrades** 3
 
 Before activation, a suit of smart armor resembles an intricate breastplate of adamantine scales.
 
-Activate Interact; Charges 1; Effect The smart armor quickly expands to cover the wearer’s legs and limbs, and a built-in magnetic generator hardens the armor into a rigid, plate-like form. When in this form, it gains the statistics of its extended form and expends an additional charge every 10 minutes. It can be collapsed back to breastplate form with a single Interact action, and automatically retracts when it loses power. In either form, smart armor provides resistance 2 to physical damage due to its adamantine construction.
+**Activate** [one action] Interact; **Charges** 1; **Effect** The smart armor quickly expands to cover the wearer’s legs and limbs, and a built-in magnetic generator hardens the armor into a rigid, plate-like form. When in this form, it gains the statistics of its extended form [it becomes Heavy Armor, its bonus to AC increases to +6, its Max Dex decreases to +0, its Check Penalty increases to -3, its Speed Penalty increases to -10 feet, its Strength Requirement increases to +4, its Bulk increases to 2, and it gains the Bulwark trait), and expends an additional charge every 10 minutes. It can be collapsed back to its compact form with a single Interact action, and automatically retracts when it loses power. In either form, smart armor provides resistance 2 to physical damage due to its adamantine construction.
  
 # Medium Armor
 
-## HEV Suit [STILL UPDATING]
+## HEV Suit
 
-Short for “hazardous environment,” an HEV suit provides protection from radiation, disease, poisonous gas, cold, heat, and similar environmental dangers. The suit needs a power supply to work and charges are consumed automatically each hour—while deactivated, none of the following abilities function at all.
+**Level** 15; **Price** 6,250 gp; **AC Bonus** +4; **Max Dex** 3; **Check Penalty** -2; **Speed Penalty** -5 feet
+
+**Strength** +3; **Bulk** 2; **Traits** Bulwark, [Tech^](/Traits/README.md#tech)
+
+**Capacity** 20 charges; **Usage** 1/hour; **Upgrades** 4
+
+Short for “hazardous environment,” an HEV suit provides protection from radiation, disease, poisonous gas, cold, heat, and similar environmental dangers. The suit needs a power supply to work and charges are consumed automatically each hour — while deactivated, none of the following abilities function at all.
 
 While powered, the suit provides immunity to inhaled poisons and diseases, and provides resistance 10 against all forms of energy except for sonic damage. An HEV suit completely protects against low radiation, and reduces the effects of medium radiation to low radiation, but it offers no protection against high or severe radiation. The suit’s self-repairing polymer resin fabric automatically seals secondary punctures or tears created by physical attacks to the wearer and damage dealt specifically against the suit. It repairs damage to itself at the rate of 2d6 points of damage per charge consumed. While repairing damage in this manner, the suit’s other protective functions listed above are any taken offline. An HEV suit has hardness 2 and 30 hit points.
  
