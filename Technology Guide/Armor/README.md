@@ -238,8 +238,8 @@ Reactive reinforcements are armor upgrades that protect the wearer from environm
 
 **Level** 5 (Standard), 11 (Advanced); **Price** 175 gp (Standard), 1,200 gp (Advanced); **Bulk** L
 
-**Armor Type** Light, Medium, Heavy; **Traits** [Tech^](/Traits/README.md#tech)
+**Armor Type** Light, Medium, Heavy, Shield; **Traits** [Tech^](/Traits/README.md#tech)
 
 **Capacity** 10 charges (Standard), 20 charges (Advanced); **Usage** 1; **Reload** 1
 
-Tensile Reinforcements are armor upgrades that fortify the armor from harm. Tensile reinforcements increase the upgraded armor's AC bonus by 1, as a [+1 potency](https://2e.aonprd.com/Equipment.aspx?ID=278) rune and increase the upgraded armor's hardness by 5. Advanced tensile reinforcements increase the upgraded armor's AC bonus by 2, as a [+2 potency](https://2e.aonprd.com/Equipment.aspx?ID=278) rune and increase the upgraded armor's hardness by 10. Tensile reinforcements consume a charge when the wearer is targeted by a Strike or effect that targets the wearer's Armor Class.
+Tensile Reinforcements are armor upgrades that fortify the armor or shield from harm. Tensile reinforcements increase the upgraded armor or shield's AC bonus by 1, as a [+1 potency](https://2e.aonprd.com/Equipment.aspx?ID=278) rune and increase the upgraded armor or shield's hardness by 5. Advanced tensile reinforcements increase the upgraded armor or shield's AC bonus by 2, as a [+2 potency](https://2e.aonprd.com/Equipment.aspx?ID=278) rune and increase the upgraded armor or shield's hardness by 10. Tensile reinforcements consume a charge when the wearer is targeted by a Strike or effect that targets the wearer's Armor Class (charges are consumed from an upgraded shield only if the shield is raised).
