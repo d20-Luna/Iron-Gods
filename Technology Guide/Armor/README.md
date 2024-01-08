@@ -6,7 +6,7 @@ All armor listed below is in the Tech Group.
 
 **Armor Specialization:** Armor in the Tech Group has the following Specialization effect.
 
-**Tech** The armor is so advanced that its designed to absorb some of the shock of electrical discharges. You gain resistance to electricity damage equal to 1 + the value of the armor’s resistance value for medium armor, or 2 + the value of the armor’s resistance value for heavy armor.
+**Tech** The armor is so advanced that its designed to absorb some of the shock of electrical discharges. You gain resistance to electricity damage equal to 1 + the value of the armor’s AC bonus for medium armor, or 2 + the value of the armor’s AC bonus for heavy armor.
 
 # Light Armor
 
@@ -200,6 +200,8 @@ A hard light shield appears as a bulky wristband that provides no bonuses to AC 
 
 # Armor Upgrades
 
+Armor upgrades function as high-tech runes. The runic effects they grant to their upgraded armors are high-tech in nature, not magical. Armor upgrades expend charges from their personal batteries when their effects would function, as detailed in their individual descriptions.
+
 ## Automated Self-Repairer [STILL UPDATING]
 
 ## Descent Thrusters [STILL UPDATING]
@@ -208,12 +210,36 @@ A hard light shield appears as a bulky wristband that provides no bonuses to AC 
 
 ## Leapers [STILL UPDATING]
 
-## Light Projector [STILL UPDATING]
+## Light Projector
+
+**Level** 1; **Price** 10 gp; **Bulk** L
+
+**Armor Type** Light, Medium, Heavy; **Traits** Light, [Tech^](/Traits/README.md#tech)
+
+**Capacity** 10 charges; **Usage** 1; **Reload** 1
+
+Light projectors are armor upgrades that integrate a [flashlight^](/Technology%20Guide/Gear/README.md#flashlight) into the armor's helmet or shoulder plating, so the wearer can keep their hands free. As a flashlight, a light projector consumes an additional charge every 8 hours while activated, and can be deactivated with an additional Interact action.
 
 ## Pet Carrier [STILL UPDATING]
 
 ## Radiation Buffer [STILL UPDATING]
 
-## Reactive Reinforcement [STILL UPDATING]
+## Reactive Reinforcement (Standard, Advanced)
 
-## Tensile Reinforcement [STILL UPDATING]
+**Level** 8 (Standard), 14 (Advanced); **Price** 375 gp (Standard), 3,650 gp (Advanced); **Bulk** L
+
+**Armor Type** Light, Medium, Heavy; **Traits** [Tech^](/Traits/README.md#tech)
+
+**Capacity** 10 charges (Standard), 20 charges (Advanced); **Usage** 1; **Reload** 1
+
+Reactive reinforcements are armor upgrades that protect the wearer from environmental hazards. Reactive reinforcements grant the wearer an item bonus of +1 to their Fortitude, Reflex, and Will saving throws, as a [resilient](https://2e.aonprd.com/Equipment.aspx?ID=279) rune. Advanced reactive reinforcements grant the wearer an item bonus of +2 to their Fortitude, Reflex, and Will saving throws, as a [greater resilient](https://2e.aonprd.com/Equipment.aspx?ID=279) rune. Reactive reinforcements consume a charge when the wearer makes a saving throw.
+
+## Tensile Reinforcement (Standard, Advanced)
+
+**Level** 5 (Standard), 11 (Advanced); **Price** 175 gp (Standard), 1,200 gp (Advanced); **Bulk** L
+
+**Armor Type** Light, Medium, Heavy; **Traits** [Tech^](/Traits/README.md#tech)
+
+**Capacity** 10 charges (Standard), 20 charges (Advanced); **Usage** 1; **Reload** 1
+
+Tensile Reinforcements are armor upgrades that fortify the armor from harm. Tensile reinforcements increase the upgraded armor's AC bonus by 1, as a [+1 potency](https://2e.aonprd.com/Equipment.aspx?ID=278) rune and increase the upgraded armor's hardness by 5. Advanced tensile reinforcements increase the upgraded armor's AC bonus by 2, as a [+2 potency](https://2e.aonprd.com/Equipment.aspx?ID=278) rune and increase the upgraded armor's hardness by 10. Tensile reinforcements consume a charge when the wearer is targeted by a Strike or effect that targets the wearer's Armor Class.
