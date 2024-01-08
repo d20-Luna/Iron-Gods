@@ -90,7 +90,7 @@ A scatterlight suit is a tight, form-fitting suit of highly reflective polymers 
 
 Before activation, a suit of smart armor resembles an intricate breastplate of adamantine scales.
 
-**Activate** [one action] Interact; **Charges** 1; **Effect** The smart armor quickly expands to cover the wearer’s legs and limbs, and a built-in magnetic generator hardens the armor into a rigid, plate-like form. When in this form, it gains the statistics of its extended form [it becomes Heavy Armor, its bonus to AC increases to +6, its Max Dex decreases to +0, its Check Penalty increases to -3, its Speed Penalty increases to -10 feet, its Strength Requirement increases to +4, its Bulk increases to 2, and it gains the Bulwark trait), and expends an additional charge every 10 minutes. It can be collapsed back to its compact form with a single Interact action, and automatically retracts when it loses power. In either form, smart armor provides resistance 2 to physical damage due to its adamantine construction.
+**Activate** [one action] Interact; **Charges** 1; **Effect** The smart armor quickly expands to cover the wearer’s legs and limbs, and a built-in magnetic generator hardens the armor into a rigid, plate-like form. When in this form, it gains the statistics of its extended form [it becomes Heavy Armor, its bonus to AC increases to +6, its Max Dex decreases to +0, its Check Penalty increases to -3, its Speed Penalty increases to -10 feet, its Strength Requirement increases to +4, its Bulk increases to 4, and it gains the Bulwark trait), and expends an additional charge every 10 minutes. It can be collapsed back to its compact form with a single Interact action, and automatically retracts when it loses power. In either form, smart armor provides resistance 2 to physical damage due to its adamantine construction.
  
 # Medium Armor
 
@@ -132,25 +132,71 @@ A panic suit is a single-use item. When its charges run out or its wearer deacti
  
 # Heavy Armor
 
-## Powered Armor [STILL UPDATING]
+## Powered Armor
 
-## Smart Armor [STILL UPDATING]
+**Level** 20; **Price** 80,000 gp; **AC Bonus** +10; **Max Dex** +4; **Check Penalty** -2; **Speed Penalty** +10 feet
+
+**Strength** +0; **Bulk** 5; **Traits** Adjusted Weapon Harness, Bulwark, [Tech^](/Traits/README.md#tech)
+
+**Capacity** 100 charges; **Usage** 1/hour; **Upgrades** —
+
+Powered armor represents the pinnacle of personal armor; a suit crafted of multiple skymetals and other materials designed to augment the wearer in numerous ways. A suit of powered armor consumes charges automatically at a rate of one charge per hour. When deactivated, a suit of powered armor locks up and the wearer must be removed from a deactivated with assistance over the course of 1 minute, as the wearer is fully locked within the armor.
+
+The armor actually boosts land speed when worn, granting a +10 foot item bonus to the wearer’s speed. While worn, powered armor also grants a +3 item bonus to Acrobatics and Athletics checks. Powered armor protects against energy and the environment as if it were a [spacesuit^](#spacesuit). Powered armor has hardness 20 and 300 hit points. Powered armor is fitted with numerous small booster jets that grant the wearer a fly speed of 60 feet in areas of no gravity and 20 feet in gravity.
+
+The wearer of a suit of powered armor may activate the armor’s self-repair system with an Interact action. The armor consumes a single charge and repairs 2d6 points of damage. Only 1 charge can be consumed per turn for this effect.
+
+In addition, the following technological wonders are integrated into a suit of powered armor; each of these devices drains power from the suit’s charges as appropriate when they are activated and used.
+* [Camera^](Technology%20Guide/Gear#camera) in the helmet.
+* [Commset^](Technology%20Guide/Gear#commset) in the helmet.
+* [Fire extinguisher^](Technology%20Guide/Gear#fire-extinguisher) mounted on the left wrist.
+* [Flashlight^](Technology%20Guide/Gear#flashlight) mounted on the helmet.
+* Gloves that can function as [grippers^](/Technology%20Guide/Gear#grippers).
+* [Advanced laser pistol^](/Technology%20Guide/Weapons#laser-pistol-timeworn-commercial-tactical-advanced) mounted on the right forearm that leaves the hand free.
+* [Magboots^](/Technology%20Guide/Gear#magboots).
+* Three [medlances^](/Technology%20Guide/Gear#medlance). Each medlance can be loaded with a single potion or pharmaceutical; activating an integrated medlance is a free action.
+* [Power receiver^](/Technology%20Guide/Gear#power-receiver).
+* [Prismatic force field^](Technology%20Guide/Gear#force-field) located on hips; activating this force field is a free action.
+* [Radiation detector^](Technology%20Guide/Gear#radiation-detector) on the right wrist.
+* Custom [veemods^](Technology%20Guide/Gear#veemod) in the visor grant a +5 item bonus on Perception checks, low light vision, darkvision up to 120 feet, and all-around vision.
+
+Rumors persist of variant forms of powered armor, including suits sized for giants or that can function as vehicles for multiple creatures.
+
+## Smart Armor
+
+**Level** 10; **Price** 1,000 gp; **AC Bonus** +6; **Max Dex** +0; **Check Penalty** -3; **Speed Penalty** -10 feet
+
+**Strength** +4; **Bulk** 2; **Traits** Bulwark, Expandable, Noisy, [Tech^](/Traits/README.md#tech)
+
+**Capacity** 60 charges; **Usage** 1; **Upgrades** 3
 
 Before activation, a suit of smart armor resembles an intricate breastplate of adamantine scales.
 
-Activate Interact; Charges 1; Effect The smart armor quickly expands to cover the wearer’s legs and limbs, and a built-in magnetic generator hardens the armor into a rigid, plate-like form. When in this form, it gains the statistics of its extended form and expends an additional charge every 10 minutes. It can be collapsed back to breastplate form with a single Interact action, and automatically retracts when it loses power. In either form, smart armor provides resistance 2 to physical damage due to its adamantine construction.
+**Activate** [one action] Interact; **Charges** 1; **Effect** The smart armor quickly expands to cover the wearer’s legs and limbs, and a built-in magnetic generator hardens the armor into a rigid, plate-like form. When in this form, it gains the statistics of its extended form [it becomes Heavy Armor, its bonus to AC increases to +6, its Max Dex decreases to +0, its Check Penalty increases to -3, its Speed Penalty increases to -10 feet, its Strength Requirement increases to +4, its Bulk increases to 4, and it gains the Bulwark trait), and expends an additional charge every 10 minutes. It can be collapsed back to its compact form with a single Interact action, and automatically retracts when it loses power. In either form, smart armor provides resistance 2 to physical damage due to its adamantine construction.
  
-## Spacesuit [STILL UPDATING]
+## Spacesuit
 
-A spacesuit looks like a bulky, quilted suit of full plate, with a glass paned helmet. A spacesuit consumed charges automatically at a rate of 1 charge each hour. While powered a spacesuit's wearer gains resistance 10 to all forms of energy damage except sonic and becomes immune to all inhaled poisons and diseases, all levels of radiation, and exposure to vacuums. Additionally it grants the wearer a fly speed of 20ft in areas of zero gravity.
+**Level** 16; **Price** 12,500 gp; **AC Bonus** +6; **Max Dex** +0; **Check Penalty** -3; **Speed Penalty** -10 feet
+
+**Strength** +3; **Bulk** 4; **Traits** Bulwark, [Tech^](/Traits/README.md#tech)
+
+**Capacity** 30 charges; **Usage** 1/hour; **Upgrades** 4
+
+A spacesuit looks like a bulky, quilted suit of full plate, with a glass paned helmet. A spacesuit consumes charges automatically at a rate of 1 charge each hour. While powered a spacesuit's wearer gains resistance 10 to all forms of energy damage except sonic and becomes immune to all inhaled poisons and diseases, all levels of radiation, and exposure to vacuums. Additionally it grants the wearer a fly speed of 20 feet in areas of zero gravity.
  
 # Shields
 
-## Hard Light Shield [STILL UPDATING]
+## Hard Light Shield
+
+**Level** 8; **Price** 500 gp; **AC Bonus** +1; **Speed Penalty** —
+
+**Bulk** L; **Hardness** 10; **Traits** Force, [Tech^](/Traits/README.md#tech)
+
+**Capacity** 20 charges; **Usage** 1; **Upgrades** 2
 
 A hard light shield appears as a bulky wristband that provides no bonuses to AC while not activated.
 
-Activate Raise a Shield; Charges 1; Effect A disk of force is generated from the wristband, granting you a +1 circumstance bonus to AC but doesn't require a free hand to use. While active you may use the Shield Block reaction, after which the shield deactivates immediately. Unlike a normal Shield Block, you can use the hard light shield's reaction against the magic missile spell.
+**Activate** [one action] Raise a Shield; **Charges** 1; **Effect** A disk of force is generated from the wristband, granting you a +1 circumstance bonus to AC but doesn't require a free hand to use. While active you may use the Shield Block reaction, after which the shield deactivates immediately. Unlike a normal Shield Block, you can use the hard light shield's reaction against the *[force barrage](https://2e.aonprd.com/Spells.aspx?ID=180)* spell.
 
 # Armor Upgrades
 
