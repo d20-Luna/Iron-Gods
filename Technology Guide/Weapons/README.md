@@ -298,13 +298,15 @@ This polearm is a two-sided weapon. One side is fitted with a broad, shovel-like
 
 When activated with an Interact action, a plasma blade’s heavy, ornate handle projects a quantum field that contains energized plasma in a 2- to 3-foot-long “blade.” Activating a plasma blade has a usage of 1, and the plasma blade automatically uses an additional charge every minute while activated (an activated plasma blade can be deactivated with an additional Interact action). Half the damage a plasma blade deals is electricity and the other half is fire. Thanks to its quantum containment, a plasma blade is treated as dealing force damage when used against an incorporeal target.
 
-## Stun Baton (Timeworn, Commercial, Tactical, Advanced) [STILL UPDATING]
+## Stun Baton (Timeworn, Commercial, Tactical, Advanced)
 
 **Level** 0 (Timeworn, Commercial), 2 (Tactical), 4 (Advanced); **Price** 10 gp (Timeworn), 20 gp (Commercial), 40 gp (Tactical), 110 gp (Advanced); **Damage** 1d6 B (Timeworn, Commercial, Tactical), 2d6 B (Advanced); **Bulk** L; **Hands** 1
 
 **Weapon Group** Club; **Traits** Agile, Incapacitation, Nonlethal, [Tech^](/Traits/README.md#tech), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
 
-*Still need to pull description from Pathbuilder to Import to Repository...*
+**Capacity** 10 charges; **Usage** -; **Reload** - (Timeworn), 1 (Commercial, Tactical, Advanced); **Upgrades** - (Timeworm), 1 (Commercial, Tactical), 2 (Advanced)
+
+This slender rod has an insulated grip and a conductive tip. All bludgeoning damage dealt by a stun baton is nonlethal. A stun baton can be activated with an Interact action by using a single charge, at which point it deals an additional 1d6 electricity damage which can be nonlethal or lethal (chosen when first activating the stun baton), though these effects are high-tech in nature, not magical. Additionally, while activated, creatures critically hit with the stun baton must make a Fortitude save against your Class DC against the weapon's stunning energy. On a failure, the target is stunned 1 for one round. On a critical failure, the target is stunned 2 for 1 round, and slowed 1 for 1 minute. The stun baton automatically Sustains the activation at the start of your turn using an additional charge, and can be deactivated with an additional Interact action.
  
 # Martial Ranged Weapons
 
