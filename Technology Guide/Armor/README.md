@@ -16,7 +16,7 @@ All armor listed below is in the Tech Group.
 
 **Strength** +1; **Bulk** 1; **Traits** Aquadynamic, Flexible, [Tech^](/Traits/README.md#tech)
 
-**Capacity** 20; **Usage** 1/hour; **Upgrades** 3
+**Capacity** 20 charges; **Usage** 1/hour; **Upgrades** 3
 
 This body-tight mesh of reinforced rubber and polymer is outfitted with scrubbers that draw and purify oxygen from the environment, even extracting oxygen from water as easily as air. A deep diving suit does not require activation to draw and purify oxygen; charges are expended automatically every hour.
 
@@ -24,21 +24,35 @@ The wearer of a deep diving suit treats the environmental damage from water pres
 
 A deep diving suit's hands and feet contain webbing, long fins, and flippers, which the wearer can extend (and retract) as an Interact action. While in this mode, the wearer of the suit gains a swim speed of 20 feet and a +3 item bonus on Athletics checks to Swim, but the armor check penalty of the suit doubles to –4 and the wearer takes a -10 foot penalty to their land speed.
  
-## Gravity Suit [STILL UPDATING]
+## Gravity Suit
+
+**Level** 14; **Price** 3,850 gp; **AC Bonus** +0; **Dex Cap** +8; **Check Penalty** —; **Speed Penalty** —
+
+**Strength** +0; **Bulk** L; **Traits** Comfort, Flexible, Force, [Tech^](/Traits.README.md#tech)
+
+**Capacity** 20 charges; **Usage** Varies; **Upgrades** 4
 
 A gravity suit consists of several black, flexible straps attached to a framework of delicate servos, thin plates, and small strips of black polymer plastic—this give it an appearance of being ineffective armor.
 
-Activate Interact; Charges 1; Effect The suit generates a field of gravitons around the wearer, granting a +5 armor bonus. The activated suit also grants a +3 item bonus to the wearer's Fortitude DC and Reflex DC against shove and trip attempts and a +3 item bonus on Reflex saves against Trample attempts, and slows any fall as if the wearer were under the effect of a feather fall spell. The suit uses an additional charge every hour while activated. It can be deactivated with another Interact action.
+**Activate** [one action] Interact; **Charges** 1; **Effect** The suit generates a field of gravitons around the wearer, increasing the armor's AC bonus to +5. The activated suit also grants a +3 item bonus to the wearer's Fortitude DC and Reflex DC against shove and trip attempts and a +3 item bonus on Reflex saves against Trample attempts, and slows any fall as if the wearer were under the effect of a *[gentle landing](https://2e.aonprd.com/Spells.aspx?ID=111)* spell. The suit uses an additional charge every hour while activated. It can be deactivated with another Interact action.
 
-Activate Interact; Charges 1; Effect The gravity suit begins repelling matter from below, granting its wearer a fly speed of 60 feet. The suit uses an additional charge every minute while activated. It can be deactivated with another Interact action.
+**Activate** [one action] Interact; **Charges** 1; **Effect** The gravity suit begins repelling matter from below, granting its wearer a fly speed of 60 feet. The suit uses an additional charge every minute while activated. It can be deactivated with another Interact action.
  
-## Heavy Weapon Harness [STILL UPDATING]
+## Heavy Weapon Harness
+
+**Level** 8; **Price** 500 gp; **AC Bonus** +1; **Dex Cap** +6; **Check Penalty** -1; **Speed Penalty** —
+
+**Strength** +1; **Bulk** L; **Traits** [Analog^](/Traits/README.md#analog), [Archaic^](/Traits/README.md#archaic), Noisy
 
 Known also as an “H-belt,” a heavy weapon harness is an elaborate network of plastic and metal struts and straps.
 
 A heavy weapon harness provides its wearer with additional stability and support, reducing the bulk of held weapons by 1 (minimum Light bulk).
  
-## Inssuit [STILL UPDATING]
+## Inssuit
+
+**Level** 11; **Price** 1,200 gp; **AC Bonus** +3; **Dex Cap** +6; **Check Penalty** —; **Speed Penalty** —
+
+**Strength** +0; **Bulk** L; **Traits** [Analog^](/Traits/README.md#analog), [Archaic^](/Traits/README.md#archaic), Comfort, Flexible
 
 This padded jumpsuit is made of resilient polymers interwoven with superconducting thread. It provides modest protection from conventional and energy weapons. The wearer gains the item's AC bonus to their Fortitude and Reflex saving throws against effects that deal acid, cold, and electricity damage. In addition, the inssuit provides resistance 5 against acid, cold, and electricity.
  
