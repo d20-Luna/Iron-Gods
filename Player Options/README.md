@@ -209,9 +209,13 @@ You know just where to strike robots to incapacitate and disable them. When you 
 Your conception was marked by the alien influence of Numeria. Either you were born from one of the forgewombs scattered throughout the wastelands, or you were infected by nanites, which now course through your blood.
 
 **Spell List** arcane
+
 **Bloodline Skills** Arcana, Crafting
+
 **Granted Spells** cantrip: *needle darts*, 1st: *[technomancy^](/Technology%20Guide/README.md#technomancy)*, 2nd: *[vomit swarm](https://2e.aonprd.com/Spells.aspx?ID=726)* (takes the appearance of a swarm of nanites), 3rd: *[discharge^](/Technology%20Guide/README.md#discharge)*, 4th: *[rebuke technology^](/Technology%20Guide/README.md#rebuke-technology)*, 5th: *[mantle of the melting heart](https://2e.aonprd.com/Spells.aspx?ID=1373)*, 6th: *[zero gravity](https://2e.aonprd.com/Spells.aspx?ID=1035)*, 7th: *[regenerate](https://2e.aonprd.com/Spells.aspx?ID=248)*, 8th: *[scintillating pattern](https://2e.aonprd.com/Spells.aspx?ID=267)*, 9th: *[magnetic dominion](https://2e.aonprd.com/Spells.aspx?ID=1372)*
+
 **Bloodline Spells** initial: *[nano strike^](#nano-strike)*, advanced: *[nanite resurgence^](#nanite-resurgence)*, greater: *[living swarm^](#living-swarm)*
+
 **Blood Magic** Nanites swarm around you or your target. Either a target takes 1 electricity damage per spell rank (if the spell already deals initial electricity damage, combine this with the spell’s initial damage before determining weaknesses and resistances), or you gain a +1 status bonus to AC for 1 round.
 
 ### Nano Strike
