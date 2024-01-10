@@ -2,6 +2,14 @@
 
 New traits will be indicated with a carat (^) and are linked to their explanation.
 
+## Table of Contents
+
+* [Mechanics Overview](#mechanics-overview)
+  * [Install Cybertech](#install-cybertech)
+  * [Remove Cybertech](#remove-cybertech)
+* [Cybertech List](#cybertech-list)
+  * [Skillslot](#skillslot)
+
 ## Mechanics Overview
 
 Cybertech is technology that must be implanted within a creature's body before it functions.
