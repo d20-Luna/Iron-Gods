@@ -305,4 +305,4 @@ You've studied the high-tech firearms of Numeria and have a definitive favorite.
 
 You're so confident in your favored firearm that it rarely malfunctions for you. When wielding your favored firearm with the Timeworn trait, you treat the firearm as if it does not have the timeworn trait, allowing you to ignore the Glitching condition and reload or recharge the firearm.
 
-### Technomancer (Archetype)
+### Technomancer (Archetype) [STILL UPDATING]
