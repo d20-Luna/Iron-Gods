@@ -2,6 +2,15 @@
 
 New traits will be indicated with a carat (^) and are linked to their explanation.
 
+## Table of Contents
+
+* [Simple Melee Weapons](#simple-melee-weapons)
+* [Simple Ranged Weapons](#simple-ranged-weapons)
+* [Martial Melee Weapons](#martial-melee-weapons)
+* [Martial Ranged Weapons](#martial-ranged-weapons)
+* [Weapon Upgrades](#weapon-upgrades)
+* [Special Technological Weaponry](#special-technological-weaponry)
+
 # Simple Melee Weapons
 
 ## Inferno Knife (Timeworn, Commercial, Tactical, Advanced)
