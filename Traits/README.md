@@ -2,6 +2,37 @@
 
 Links with a carat (^) designate new entries from this conversion, and will take you to their statblock in this conversion guide.
 
+## Table of Contents
+
+* [General Traits](#general-traits)
+  * [Tech](#tech)
+* [Equipment Traits](#equipment-traits)
+  * [Analog](#analog)
+  * [Archaic](#archaic)
+  * [Area](#area-burst-cone-line)
+  * [Automatic](#automatic)
+  * [Capacity](#capacity)
+  * [Graviton](#graviton)
+  * [Grenade](#grenade)
+  * [Module](#module)
+  * [Pharmaceutical](#pharmaceutical)
+  * [Signal](#signal)
+  * [Timeworn](#timeworn)
+  * [Tracking](#tracking)
+  * [Unwieldy](#unwieldy)
+  * [Usage](#usage)
+* [Critical Specialization Effects](#critical-specialization-effects)
+  * [Cryo](#cryo)
+  * [EMP](#emp)
+  * [Flame](#flame)
+  * [Gravity](#gravity)
+  * [Laser](#laser)
+  * [Mental](#mental)
+  * [Plasma](#plasma)
+  * [Projectile](#projectile)
+  * [Shock](#shock)
+  * [Sonic](#sonic)
+
 ## General Traits
 
 ### Tech
