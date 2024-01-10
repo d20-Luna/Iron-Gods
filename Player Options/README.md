@@ -2,6 +2,48 @@
 
 This attempts to convert the entries in the [Iron Gods Player's Guide](https://paizo.com/products/btpy98lf?Pathfinder-Adventure-Path-Iron-Gods-Players-Guide) into 2e. Traits are usually converted into backgrounds.
 
+## Table of Contents
+
+* [Backgrounds](#backgrounds)
+  * [Against the Technic League](#against-the-technic-league)
+  * [Torch Local](#torch-local)
+  * [Numerian Archaeologist](#numerian-archaeologist)
+  * [Robot Slayer](#robot-slayer)
+  * [Skymetal Smith](#skymetal-smith)
+  * [Stargazer](#stargazer)
+* [Animal Companions and Familiars](#animal-companions-and-familiars)
+  * [Petromin](#petromin)
+  * [Pilo](#pilo)
+  * [Sorico](#sorico)
+* [Religion](#religion)
+  * [Casandalee](#casandalee)
+* [Class Options](#class-options)
+  * [Cyber-Soldier Archetype](#cyber-soldier-archetype)
+    * [Cyber-Soldier Dedication](#cyber-soldier-dedication)
+    * [Cybernetic Combat](#cybernetic-combat)
+    * [Improved Implantation](#improved-implantation)
+    * [Perfect Implantation](#perfect-implantation)
+    * [Resilience](#resilience)
+  * [Iron Priest (Cleric Doctrine)](#iron-priest-cleric-doctrine)
+  * [Numerian Scavenger (Rogue Racket)](#numerian-scavenger-rogue-racket)
+    * [Lucky Glitch](#lucky-glitch)
+    * [Robot Slayer](#robot-slayer-1)
+  * [Nanite (Sorcerer Bloodline)](#nanite-sorcerer-bloodline)
+    * [Nano Strike](#nano-strike)
+    * [Nanite Resurgence](#nanite-resurgence)
+    * [Living Swarm](#living-swarm)
+  * [Savage Technologist (Barbarian Instinct)](#savage-technologist-barbarian-instinct)
+    * [Raging Shooter](#raging-shooter)
+    * [Shattering Shot](#shattering-shot)
+  * [Way of the Techslinger (Gunslinger Way)](#way-of-the-techslinger-gunslinger-way)
+    * [Coveted Charge](#coveted-charge)
+    * [Reliable](#reliable)
+    * [Overcharge](#overcharge)
+    * [Charge Recycling](#charge-recycling)
+    * [Technic Training](#technic-training)
+    * [True Techslinger](#true-techslinger)
+  * [Technomancer (Archetype)]
+
 ## Backgrounds
 
 ### Against the Technic League
