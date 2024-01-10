@@ -9,6 +9,16 @@ All pharmaceuticals have the following properties:
 
 New traits will be indicated with a carat (^) and are linked to their explanation.
 
+## Table of Contents
+
+* [Baseline](#baseline)
+* [Cardioamp](#cardioamp)
+* [Cureall](#cureall)
+* [Hemochem](#hemochem)
+* [Torpinol](#torpinol)
+* [Vive](#vive)
+* [Zortaphen](#zortaphen)
+
 ## Baseline
 
 **Level** 5; **Price** 150 gp
