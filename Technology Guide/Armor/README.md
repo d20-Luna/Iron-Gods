@@ -8,6 +8,37 @@ All armor listed below is in the Tech Group.
 
 **Tech** The armor is so advanced that its designed to absorb some of the shock of electrical discharges. You gain resistance to electricity damage equal to 1 + the value of the armor’s AC bonus for medium armor, or 2 + the value of the armor’s AC bonus for heavy armor.
 
+## Table of Contents
+
+* [Light Armor](#light-armor)
+  * [Deep Diving Suit](#deep-diving-suit)
+  * [Gravity Suit](#gravity-suit)
+  * [Heavy Weapon Harness](#heavy-weapon-harness)
+  * [Inssuit](#inssuit)
+  * [Neraplast Armor](#neraplast-armor)
+  * [Scatterlight Suit](#scatterlight-suit)
+  * [Smart Armor (Compact Form)](#smart-armor-compact-form)
+* [Medium Armor](#medium-armor)
+  * [HEV Suit](#hev-suit)
+  * [Nanite Ablative Armor](#nanite-ablative-armor)
+  * [Panic Suit](#panic-suit)
+* [Heavy-Armor](#heavy-armor)
+  * [Powered Armor](#powered-armor)
+  * [Smart Armor (Extended Form)](#smart-armor-extended-form)
+  * [Spacesuit](#spacesuit)
+* [Shields](#shields)
+  * [Hard Light Shield](#hard-light-shield)
+* [Armor Upgrades](#armor-upgrades)
+  * [Automated Self-Repairer](#automated-self-repairer-standard-advanced)
+  * [Descent Thrusters](#descent-thrusters)
+  * [Infrared Sensors](#infrared-sensors)
+  * [Leapers](#leapers-standard-advanced)
+  * [Light Projector](#light-projector)
+  * [Pet Carrier](#pet-carrier)
+  * [Radiation Buffer](#radiation-buffer-standard-advanced)
+  * [Reactive Reinforcement](#reactive-reinforcement-standard-advanced)
+  * [Tensile Reinforcement](#tensile-reinforcement-standard-advanced)
+
 # Light Armor
 
 ## Deep Diving Suit
@@ -80,7 +111,7 @@ A scatterlight suit is a tight, form-fitting suit of highly reflective polymers 
 
 **Activate** [one action] Interact; **Charges** 1; **Duration** 10 minutes; **Effect** The suit diffuses and blurs light reflected from its surface. The suit's wearer is considered concealed to beam and ray attacks and effects.
  
-## Smart Armor
+## Smart Armor (Compact Form)
 
 **Level** 10; **Price** 1,000 gp; **AC Bonus** +4; **Max Dex** +4; **Check Penalty** -1; **Speed Penalty** —
 
@@ -162,7 +193,7 @@ In addition, the following technological wonders are integrated into a suit of p
 
 Rumors persist of variant forms of powered armor, including suits sized for giants or that can function as vehicles for multiple creatures.
 
-## Smart Armor
+## Smart Armor (Extended Form)
 
 **Level** 10; **Price** 1,000 gp; **AC Bonus** +6; **Max Dex** +0; **Check Penalty** -3; **Speed Penalty** -10 feet
 
