@@ -2,6 +2,30 @@
 
 New traits will be indicated with a carat (^) and are linked to their explanation.
 
+## Table of Contents
+
+* [Access Card](#access-card)
+* [Battery](#battery)
+* [Chemalyzer](#chemalyzer)
+* [E-pick](#e-pick)
+* [Emergency Beacon](#emergency-beacon)
+* [Filter Mask](#filter-mask)
+* [Flashlight](#flashlight)
+* [Goo Tube](#goo-tube)
+* [Grenade](#grenade)
+* [Grippers](#grippers)
+* [Ion Tape](#ion-tape)
+* [Medlance](#medlance)
+* [Nanite Canister](#nanite-canister)
+* [Nanite Hypogun](#nanite-hypogun)
+* [Radiation Detector](#radiation-detector)
+* [Skillchip](#skillchip)
+* [Trauma Pack](#trauma-pack)
+* [Trauma Pack Plus](#trauma-pack-plus)
+* [Veemod](#veemod)
+* [Veemod Goggles](#veemod-goggles)
+* [Zipstick](#zipstick)
+
 ## Access Card
 
 **Traits** [Tech^](/Traits/README.md#tech)
