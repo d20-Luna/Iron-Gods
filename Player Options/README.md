@@ -280,7 +280,7 @@ While in swarm form, you gain the following damaging action:
 
 **Nanite Overload** [one action] Each enemy in your space takes 4d8 physical damage (whichever type would affect them more; basic Reflex save vs your Class or Spell DC). Any creature that fails its saving throw takes 3d6 persistent electricity damage.
 
-**Heightened (+2)** Increase your resistances and weaknesses each by 5, and increase the initial and persistent damage of your Nanite Overload by 1d8 and 1d6, respectively.
+**Heightened (+2)** Increase your resistances and weaknesses each by 5, and increase the initial and persistent damage of your Nanite Overload by 2d8 and 2d6, respectively.
 
 ### Savage Technologist (Barbarian Instinct)
 
