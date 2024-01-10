@@ -202,13 +202,45 @@ A hard light shield appears as a bulky wristband that provides no bonuses to AC 
 
 Armor upgrades function as high-tech runes. The runic effects they grant to their upgraded armors are high-tech in nature, not magical. Armor upgrades expend charges from their personal batteries when their effects would function, as detailed in their individual descriptions.
 
-## Automated Self-Repairer [STILL UPDATING]
+## Automated Self-Repairer (Standard, Advanced)
 
-## Descent Thrusters [STILL UPDATING]
+**Level** 2 (Standard), 8 (Advanced); **Price** 40 gp (Standard), 450 gp (Advanced); **Bulk** —
 
-## Infrared Sensors [STILL UPDATING]
+**Armor Type** Light, Medium, Heavy, Shield; **Traits** [Tech^](/Traits/README.md#tech)
 
-## Leapers [STILL UPDATING]
+**Capacity** 10 nanites (Standard), 20 nanites (Advanced); **Usage** 1/minute; **Reload** 1
+
+Automated self-repairers are armor upgrades that utilize specialized nanites to repair damaged armor and shields. Automated self-repairers activate automatically when their upgraded armor or shield is damaged, consume nanites at a rate of 1 charge every minute while activated, and deactivate automatically when the upgraded armor or shield is fully repaired or when they run out of nanites, whichever comes first. Automated self-repairers grant their upgraded armor or shield fast healing 5 while activated, while advanced automated self-repairers grant their upgraded armor or shield fast healing 10 while activated.
+
+## Descent Thrusters
+
+**Level** 3; **Price** 100 gp; **Bulk** L
+
+**Armor Type** Light, Medium, Heavy; **Traits** [Tech^](/Traits/README.md#tech)
+
+**Capacity** 10 charges; **Usage** 2/minute; **Reload** 1
+
+Descent thrusters are armor upgrades that integrate miniature jets into the pants or boots of the upgraded armor. You can activate a pair of descent thrusters as either an action when jumping down, or as a reaction while falling. Activated descent thrusters slow the wearer's fall speed to 60 feet per round, and allow the wearer to land safely, taking no damage from the fall. Descent thrusters consume an additional 2 charges every minute while activated, and can be deactivated with an additional Interact action.
+
+## Infrared Sensors
+
+**Level** 5; **Price** 150 gp; **Bulk** L
+
+**Armor Type** Light, Medium, Heavy; **Traits** [Tech^](/Traits/README.md#tech)
+
+**Capacity** 10 charges; **Usage** 1/10 minutes; **Reload** 1
+
+Infrared sensors are armor upgrades that integrate specialized sensors into the armor's helmet or facial coverings, granting the wearer darkvision. Infrared sensors consume an additional charge every 10 minutes while activated, and can be deactivated with an additional Interact action.
+
+## Leapers (Standard, Advanced)
+
+**Level** 7 (Standard), 14 (Advanced); **Price** 360 gp (Standard), 4,400 gp (Advanced); **Bulk** —
+
+**Armor Type** Light; **Traits** [Tech^](/Traits/README.md#tech)
+
+**Capacity** 10 charges (Standard), 20 charges (Advanced); **Usage** 1/8 hours; **Reload** 1
+
+Leapers are armor upgrades that fortify the wearer's leg muscles, granting increased speed and jumping ability. Leapers grant a +5-foot item bonus to the wearer's speed, a +2 item bonus to Athletics checks to High Jump and Long Jump, and a 10-foot increase to horizontal jumps and a 5-foot increase to vertical jumps. Advanced leapers grant a +10-foot item bonus to the wearer's speed, a +3 item bonus to Athletics checks to High Jump and Long Jump, and a 20-foot increase to horizontal jumps and a 10-foot increase to vertical jumps. Leapers consumes charges at a rate of one charge per 8 hours, and can be deactivated with an additional Interact action.
 
 ## Light Projector
 
@@ -216,13 +248,29 @@ Armor upgrades function as high-tech runes. The runic effects they grant to thei
 
 **Armor Type** Light, Medium, Heavy; **Traits** Light, [Tech^](/Traits/README.md#tech)
 
-**Capacity** 10 charges; **Usage** 1; **Reload** 1
+**Capacity** 10 charges; **Usage** 1/8 hours; **Reload** 1
 
 Light projectors are armor upgrades that integrate a [flashlight^](/Technology%20Guide/Gear/README.md#flashlight) into the armor's helmet or shoulder plating, so the wearer can keep their hands free. As a flashlight, a light projector consumes an additional charge every 8 hours while activated, and can be deactivated with an additional Interact action.
 
-## Pet Carrier [STILL UPDATING]
+## Pet Carrier
 
-## Radiation Buffer [STILL UPDATING]
+**Level** 1; **Price** 15 gp; **Bulk** L
+
+**Armor Type** Medium, Heavy; **Traits** [Tech^](/Traits/README.md#tech)
+
+**Capacity** 10 charges; **Usage** 1/8 hours; **Reload** 1
+
+Pet carriers are armor upgrades that provides space for a Tiny creatures to take refuge in your armor (such as a familiar or a pet). You can open or close a pet carrier as an Interact action. A creature of appropriate size can enter or exit a pet carrier by using 5 feet of movement to do so. While inside the pet carrier, a creature benefits from gre4ater cover and your armor’s environmental protections, but it can’t take any physical actions other than to leave an open carrier. A pet carrier consumes charges automatically at a rate of 1 charge per 8 hours.
+
+## Radiation Buffer (Standard, Advanced)
+
+**Level** 8 (Standard), 12 (Advanced); **Price** 450 gp (Standard), 1,850 gp (Advanced); **Bulk** L
+
+**Armor Type** Light, Medium, Heavy; **Traits** [Tech^](/Traits/README.md#tech)
+
+**Capacity** 10 charges (Standard), 20 charges (Advanced); **Usage** 1; **Reload** 1
+
+Radiation buffers are armor upgrades that protect the wearer from areas of radiation. Radiation buffers grant the wearer immunity to low radiation, and a +1 circumstance bonus to their Fortitude saves against radiation. Advanced radiation buffers grant the wearer immunity to low and medium radiation, and a +2 circumstance bonus to their Fortitude saves against radiation. Radiation buffers consume a charge when the wearer enters or begins their turn in an area of radiation.
 
 ## Reactive Reinforcement (Standard, Advanced)
 
