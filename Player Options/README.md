@@ -204,6 +204,80 @@ Your skill with ancient technological artifacts shows through in times of need. 
 
 You know just where to strike robots to incapacitate and disable them. When you deal the additional damage from your sneak attack against a creature with the Robot trait, you ignore the creature's hardness (if any).
 
+### Nanite (Sorcerer Bloodline)
+
+Your conception was marked by the alien influence of Numeria. Either you were born from one of the forgewombs scattered throughout the wastelands, or you were infected by nanites, which now course through your blood.
+
+**Spell List** arcane
+**Bloodline Skills** Arcana, Crafting
+**Granted Spells** cantrip: *needle darts*, 1st: *[technomancy^](/Technology%20Guide/README.md#technomancy)*, 2nd: *[vomit swarm](https://2e.aonprd.com/Spells.aspx?ID=726)* (takes the appearance of a swarm of nanites), 3rd: *[discharge^](/Technology%20Guide/README.md#discharge)*, 4th: *[rebuke technology^](/Technology%20Guide/README.md#rebuke-technology)*, 5th: *[mantle of the melting heart](https://2e.aonprd.com/Spells.aspx?ID=1373)*, 6th: *[zero gravity](https://2e.aonprd.com/Spells.aspx?ID=1035)*, 7th: *[regenerate](https://2e.aonprd.com/Spells.aspx?ID=248)*, 8th: *[scintillating pattern](https://2e.aonprd.com/Spells.aspx?ID=267)*, 9th: *[magnetic dominion](https://2e.aonprd.com/Spells.aspx?ID=1372)*
+**Bloodline Spells** initial: *[nano strike^](#nano-strike)*, advanced: *[nanite resurgence^](#nanite-resurgence)*, greater: *[living swarm^](#living-swarm)*
+**Blood Magic** Nanites swarm around you or your target. Either a target takes 1 electricity damage per spell rank (if the spell already deals initial electricity damage, combine this with the spell’s initial damage before determining weaknesses and resistances), or you gain a +1 status bonus to AC for 1 round.
+
+### Nano Strike
+
+**Focus Rank** 1
+
+**Traits** Concentrate, Sorcerer
+
+**Bloodline** Nanite
+
+**Cast** two actions
+
+**Area** 30-foot line
+
+**Defense** Reflex
+
+You fling a lash of nanites, dealing 1d4 physical damage (whichever type would affect the target more). Each creature in the area must attempt a Reflex save.
+
+**Critical Success** The creature is unaffected.
+
+**Success** The creature takes half damage and is dazzled for 1 round.
+
+**Failure** The creature takes full damage and is dazzled for 3 rounds.
+
+**Critical Failure** The creature takes double damage and is dazzled for 1 minute.
+
+**Heightened (+1)** Increase the damage by 1d4.
+
+### Nanite Resurgence
+
+**Focus Rank** 3
+
+**Traits** Concentrate, Sorcerer
+
+**Bloodline** Nanite
+
+**Cast** two actions
+
+**Area** 10-foot emanation
+
+**Duration** sustained up to 1 minute
+
+You encircle yourself with a cloak of defensive nanites. Each creature that hits you with an unarmed attack, Grapples you, or otherwise touches you takes 3 electricity damage. When you Cast the Spell and the first time you sustain it each round, each creature in the area takes 3d6 electricity damage (basic Reflex save), and you are granted that many temporary hit points.
+
+**Heightened (+1)** The damage caused by touching you increases by 1, and the electricity damage when you Cast the Spell or sustain it increases by 1d6.
+
+### Living Swarm
+
+**Focus Rank** 5
+
+**Traits** Concentrate, Sorcerer
+
+**Bloodline** Nanite
+
+**Cast** two actions
+
+**Duration** 5 minutes
+
+You discorporate into a swarm of Tiny nanites. While in swarm form, you have the swarm trait and you gain resistance 5 to slashing and piercing damage and weakness 5 to area and splash damage. You can fit into spaces only a few inches wide, moving your constituent creatures through the gap. You don’t gain the swarm mind ability, so you are still affected normally by mental effects. As a swarm, you can’t speak, cast spells, use manipulate actions requiring your hands, activate your magic items, or make any of your Strikes with your normal body. You can Dismiss the Spell.
+
+While in swarm form, you gain the following damaging action:
+
+**Nanite Overload** [one action] Each enemy in your space takes 4d8 physical damage (whichever type would affect them more; basic Reflex save vs your Class or Spell DC). Any creature that fails its saving throw takes 3d6 persistent electricity damage.
+
+**Heightened (+2)** Increase your resistances and weaknesses each by 5, and increase the initial and persistent damage of your Nanite Overload by 1d8 and 1d6, respectively.
+
 ### Savage Technologist (Barbarian Instinct)
 
 Savage technologists exhort Kellids to rise up against the depredations of the Technic League. But rather than rejecting technology, they wield the League’s own weapons against it.
