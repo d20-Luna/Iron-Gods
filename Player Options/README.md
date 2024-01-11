@@ -35,6 +35,10 @@ This attempts to convert the entries in the [Iron Gods Player's Guide](https://p
   * [Savage Technologist (Barbarian Instinct)](#savage-technologist-barbarian-instinct)
     * [Raging Shooter](#raging-shooter)
     * [Shattering Shot](#shattering-shot)
+  * [Signal in the Drift (Witch Patron)](#signal-in-the-drift-witch-patron)
+    * [Lesson of Divine Programming](#lesson-of-divine-programming)
+      * [Effortless Hacking](#effortless-hacking)
+    * [Familiar of Mechanical Ascension](#familiar-of-mechanical-ascension)
   * [Way of the Techslinger (Gunslinger Way)](#way-of-the-techslinger-gunslinger-way)
     * [Coveted Charge](#coveted-charge)
     * [Reliable](#reliable)
@@ -357,6 +361,8 @@ While raging, you gain access to the critical specialization effects for ranged 
 **Requirements:** You're wielding a loaded firearm and are wearing or holding an alchemical bomb or a grenade.
 
 You fling a bomb or grenade into the air and then shoot it with your gun before it falls, raining destruction down over a wide area. If necessary, you Interact to draw the explosive and regrip your weapon. You throw your explosive to the corner of a square within your firearm's first range increment and shoot it with your firearm. All creatures in a 15-foot burst of the bomb take the bomb's normal damage with a basic Reflex save against your class DC. They don't take any splash or persistent damage the bomb would deal normally.
+
+### Signal in the Drift (Witch Patron)
 
 ### Way of the Techslinger (Gunslinger Way)
 
