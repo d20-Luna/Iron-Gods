@@ -364,6 +364,32 @@ You fling a bomb or grenade into the air and then shoot it with your gun before 
 
 ### Signal in the Drift (Witch Patron)
 
+When your patron made first contact with you, it spoke in a sequence of binary code. You've since deciphered the meaning behind the numbers and connected to the metaphysical code underlying all reality, allowing you brief insights into a proto-plane known as The Drift. While this plane is centuries from being accessed by the varying species in the universe, you are able to tap into its mysteries to affect technology.
+
+**Spell List** arcane; **Patron Skill** Arcana
+
+### Lesson of Divine Programming
+
+Your patron taught you that there is always a weakness in technology's defenses and how to infiltrate them. You gain the *[effortless hacking](#effortless-hacking)* hex cantrip, and your familiar learns *[technomancy^](/Technology%20Guide/README.md#technomancy)*.
+
+### Effortless Hacking
+
+**Rank** 1
+
+**Traits** Uncommon, Cantrip, Concentrate, Hex, Witch
+
+**Patron** Signal in the Drift
+
+**Range** 30 feet; **Targets** 1 creature or item with the [tech^](/Traits/README.md#tech) trait
+
+**Defense** Will; **Duration** sustained up to 1 minute
+
+Your patron's access to the universal code manifests in spectacular glitching. The target becomes glitching 1 if it fails a Will save (or glitching 2 on a critical failure). If the target is an unattended item, it treats the result as a failure automatically. If the target is an attended item, the wielder must make the save. This condition value can't be reduced below 1 while the spell is active and you can see the target.
+
+### Familiar of Mechanical Ascension
+
+Your familiar is metallic in fur or feather, and its eyes seem to glow with an electrical spark. When you Cast or Sustain a hex, and your familiar is adjacent to an ally wielding or wearing an item with the [tech^](/Traits/README.md#tech) trait that is powered by [batteries^](/Technology%20Guide/Gear#battery), it regains a number of temporary charges equal to its usage, even if the item has the [timeworn^](#Traits/README.md#timeworn) trait. Any unused temporary charges from this ability are lost at the start of your next turn.
+
 ### Way of the Techslinger (Gunslinger Way)
 
 Techslingers spurn unreliable gunpowder weapons in favor of high-tech armaments. They learn to master the quirks of timeworn technology and methods of keeping weapons charged in a primitive world.
