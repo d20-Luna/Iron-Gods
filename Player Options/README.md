@@ -380,6 +380,8 @@ Your patron taught you that there is always a weakness in technology's defenses 
 
 **Patron** Signal in the Drift
 
+**Actions** one action
+
 **Range** 30 feet; **Targets** 1 creature or item with the [tech^](/Traits/README.md#tech) trait
 
 **Defense** Will; **Duration** sustained up to 1 minute
