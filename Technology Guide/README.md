@@ -32,6 +32,7 @@ To see an overview of the traits that were added, please click [here](/Traits/RE
   * [Detect Radiation](#detect-radiation)
   * [Discharge](#discharge)
   * [Irradiate](#irradiate)
+  * [Memory of Function](#memory-of-function)
   * [Rebuke Technology](#rebuke-technology)
   * [Recharge](#recharge)
   * [Remove Radioactivity](#remove-radioactivity)
@@ -187,6 +188,24 @@ While the DC for the saving throw is based on the spellcaster, the DC for recove
 **Heightened (7th)** The area of the spell increases to a 30-foot burst, with the central 10-foot burst affecting creatures that fail the saving throw as if they entered an area of high intensity radiation - becoming drained 3 and afflicted with stage 3 of Radiation Poisoning, and the next 10 feet as medium intensity radiation, and the last 10 feet as low intensity radiation.
 
 **Heightened (9th)** The area of the spell increases to a 40-foot burst, with the central 10-foot burst affecting creatures that fail the saving throw as if they entered an area of severe intensity radiation - becoming drained 4 and afflicted with stage 5 of Radiation Poisoning, and the next 10 feet as high intensity radiation, and the next 10 feet as medium intensity radiation, and the last 10 feet as low intensity radiation.
+
+### Memory of Function
+
+**Rank** 7
+
+**Traits** Concentration, Manipulation
+
+**Traditions** arcane, occult
+
+**Cast** one action
+
+**Range** touch; **Targets** one object or creature with the construct trait touched
+
+You restore a broken object or damaged construct to a functional state, as if it were new and intact. Any pieces missing from the object or construct remain missing. Significant missing pieces may prevent proper functioning. If the object uses charges, the object becomes fully charged. A timeworn object becomes fully charged, but doesn’t lose the timeworn trait (this spell is one of the few ways a timeworn item can be recharged). For 1 hour after this spell is cast on a timeworn object, that object is treated as if it does not have the glitching condition. Other consumables such as ammunition are not restored.
+
+When this spell is cast upon a damaged construct, all damage dealt to that construct is restored. When this spell is cast upon a destroyed construct, it is restored to full functionality and full hit points, provided no significant portion of the destroyed construct (such as an entire limb) is missing. Constructs brought back in this fashion regain their memories up to the moment of their destruction and have no particular inclination to serve the caster.
+
+If you attempt to cast this spell on an object or a construct that has been destroyed for more than 100 years, the spell fails.
 
 ### Rebuke Technology
 
