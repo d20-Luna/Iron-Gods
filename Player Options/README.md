@@ -114,6 +114,22 @@ Three new alien animals (Petromin, Pilo, Sorico) are introduced in Chapter 1, wi
 
 ### Marax
 
+Your companion is a Marax, a bipedal predator with bony growths, scythe-like claws, and a spiked tail.
+
+* **Size** Large
+* **Melee** (1 action) jaws, **Damage** 1d8 piercing
+* **Melee** (1 action) tail barbs, **Damage** 1d6 piercing
+* **Str** +3, **Dex** +3, **Con** +2, **Int** -4, **Wis** +1, **Cha** +0
+* **Hit Points** 8
+* **Skill** Stealth
+* **Senses** low-light vision, scent (imprecise, 30 feet)
+* **Speed** 35 feet
+* **Special** The marax's tail barbs attack deals an additional 1d4 poison damage or 2d4 poison damage if the marax is a specialized companion.
+* **Support Benefit** Your marax mauls your enemies with its scything claws when you create an opening. Until the start of your next turn, each time you hit a creature in the marax’s reach with a Strike, the creature takes 1d8 slashing damage from the marax. If your marax is nimble or savage, the slashing damage increases to 2d8.
+* **Advanced Maneuver** Primal Pounce
+
+**Primal Pounch** [one action] (Flourish) The marax Strides and then Strikes. If it was undetected at the start of its Primal Pounce, it remains undetected until after the attack.
+
 ### Petromin
 
 Petromin are unfortunately too small to count as animal companions, but can be chosen as a familiar.
