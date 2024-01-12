@@ -5,9 +5,6 @@ This attempts to convert the entries in the [Iron Gods Player's Guide](https://p
 ## Table of Contents
 
 * [Ancestries](#ancestries)
-  * [Kasatha](#kasatha)
-  * [Lashunta](#lashunta)
-  * [Ryphorian (Triaxian)](#ryphorian-triaxian)
 * [Backgrounds](#backgrounds)
   * [Against the Technic League](#against-the-technic-league)
   * [Torch Local](#torch-local)
