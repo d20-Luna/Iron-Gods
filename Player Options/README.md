@@ -26,14 +26,14 @@ This attempts to convert the entries in the [Iron Gods Player's Guide](https://p
     * [Improved Implantation](#improved-implantation)
     * [Perfect Implantation](#perfect-implantation)
     * [Resilience](#resilience)
-  * [Galvanic Saboteur (Archetype)]
-  * [Gearbreaker (Barbarian Feat)]
+  * Galvanic Saboteur (Archetype)
+  * Gearbreaker (Barbarian Feat)
   * [Iron Priest (Cleric Doctrine)](#iron-priest-cleric-doctrine)
   * [Nanite (Sorcerer Bloodline)](#nanite-sorcerer-bloodline)
     * [Nano Strike](#nano-strike)
     * [Nanite Resurgence](#nanite-resurgence)
     * [Living Swarm](#living-swarm)
-  * [Numerian Liberator (Archetype)]
+  * Numerian Liberator (Archetype)
   * [Numerian Scavenger (Rogue Racket)](#numerian-scavenger-rogue-racket)
     * [Lucky Glitch](#lucky-glitch)
     * [Robot Slayer](#robot-slayer-1)
@@ -44,7 +44,7 @@ This attempts to convert the entries in the [Iron Gods Player's Guide](https://p
     * [Lesson of Divine Programming](#lesson-of-divine-programming)
       * [Effortless Hacking](#effortless-hacking)
     * [Familiar of Mechanical Ascension](#familiar-of-mechanical-ascension)
-  * [Technomancer (Archetype)]
+  * Technomancer (Archetype)
   * [Way of the Techslinger (Gunslinger Way)](#way-of-the-techslinger-gunslinger-way)
     * [Coveted Charge](#coveted-charge)
     * [Reliable](#reliable)
