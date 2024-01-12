@@ -55,7 +55,7 @@ This attempts to convert the entries in the [Iron Gods Player's Guide](https://p
 
 ## Ancestries
 
-See the [Ancestries](/Ancestries/README.md) page for details on the Kasatha, Lashunta, and Ryphorian.
+See the [Ancestries](Ancestries/README.md) page for details on the Kasatha, Lashunta, and Ryphorian.
 
 ## Backgrounds
 
