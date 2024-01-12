@@ -4,6 +4,10 @@ This attempts to convert the entries in the [Iron Gods Player's Guide](https://p
 
 ## Table of Contents
 
+* [Ancestries](#ancestries)
+  * [Kasatha](#kasatha)
+  * [Lashunta](#lashunta)
+  * [Ryphorian (Triaxian)](#ryphorian-triaxian)
 * [Backgrounds](#backgrounds)
   * [Against the Technic League](#against-the-technic-league)
   * [Torch Local](#torch-local)
@@ -12,6 +16,7 @@ This attempts to convert the entries in the [Iron Gods Player's Guide](https://p
   * [Skymetal Smith](#skymetal-smith)
   * [Stargazer](#stargazer)
 * [Animal Companions and Familiars](#animal-companions-and-familiars)
+  * [Marax](#marax)
   * [Petromin](#petromin)
   * [Pilo](#pilo)
   * [Sorico](#sorico)
@@ -24,14 +29,17 @@ This attempts to convert the entries in the [Iron Gods Player's Guide](https://p
     * [Improved Implantation](#improved-implantation)
     * [Perfect Implantation](#perfect-implantation)
     * [Resilience](#resilience)
+  * [Galvanic Saboteur (Archetype)](#galvanic-saboteur-archetype)
+  * [Gearbreaker (Barbarian Feat)](#gearbreaker-barbarian-feat)
   * [Iron Priest (Cleric Doctrine)](#iron-priest-cleric-doctrine)
-  * [Numerian Scavenger (Rogue Racket)](#numerian-scavenger-rogue-racket)
-    * [Lucky Glitch](#lucky-glitch)
-    * [Robot Slayer](#robot-slayer-1)
   * [Nanite (Sorcerer Bloodline)](#nanite-sorcerer-bloodline)
     * [Nano Strike](#nano-strike)
     * [Nanite Resurgence](#nanite-resurgence)
     * [Living Swarm](#living-swarm)
+  * [Numerian Liberator (Archetype)](#numerian-liberator-archetype)
+  * [Numerian Scavenger (Rogue Racket)](#numerian-scavenger-rogue-racket)
+    * [Lucky Glitch](#lucky-glitch)
+    * [Robot Slayer](#robot-slayer-1)
   * [Savage Technologist (Barbarian Instinct)](#savage-technologist-barbarian-instinct)
     * [Raging Shooter](#raging-shooter)
     * [Shattering Shot](#shattering-shot)
@@ -39,6 +47,7 @@ This attempts to convert the entries in the [Iron Gods Player's Guide](https://p
     * [Lesson of Divine Programming](#lesson-of-divine-programming)
       * [Effortless Hacking](#effortless-hacking)
     * [Familiar of Mechanical Ascension](#familiar-of-mechanical-ascension)
+  * [Technomancer (Archetype)]
   * [Way of the Techslinger (Gunslinger Way)](#way-of-the-techslinger-gunslinger-way)
     * [Coveted Charge](#coveted-charge)
     * [Reliable](#reliable)
@@ -46,7 +55,14 @@ This attempts to convert the entries in the [Iron Gods Player's Guide](https://p
     * [Charge Recycling](#charge-recycling)
     * [Technic Training](#technic-training)
     * [True Techslinger](#true-techslinger)
-  * [Technomancer (Archetype)]
+
+## Ancestries
+
+### Kasatha
+
+### Lashunta
+
+### Ryphorian (Triaxian)
 
 ## Backgrounds
 
@@ -94,7 +110,9 @@ The concept of life on other planets far beyond Golarion has always fascinated y
 
 ## Animal Companions and Familiars
 
-Three new alien animals are introduced in [*Pathfinder Adventure Path #85: Fires of Creation (Iron Gods 1 of 6) (PFRPG)*](https://paizo.com/products/btpy95br).
+Three new alien animals (Petromin, Pilo, Sorico) are introduced in Chapter 1, with a fourth introduced in Chapter 6 (Marax). These animals may be chosen as companions with GM permission.
+
+### Marax
 
 ### Petromin
 
@@ -206,6 +224,10 @@ Your body slot can accept two more pieces of cybertech than normal.
 
 At the start of each day, you gain 5 temporary hit points for each piece of cybertech you have installed. Lost temporary hit points granted from this feat are recovered at a rate of 10 points per hour.
 
+### Galvanic Saboteur (Archetype)
+
+### Gearbreaker (Barbarian Feat)
+
 ### Iron Priest (Cleric Doctrine)
 
 You preach messages from beyond the stars and have sway over technological creatures.
@@ -221,34 +243,6 @@ You preach messages from beyond the stars and have sway over technological creat
 **Fifth Doctrine (15th)** Your proficiency rank for Fortitude saves increases to master. When you roll a success at a Fortitude save, you get a critical success instead.
 
 **Sixth Doctrine (19th)** Your proficiency ranks for the spell attack modifier and spell DC statistics increase to master.
-
-### Numerian Scavenger (Rogue Racket)
-
-You live for the discovery of new technological wonders scraped from the depths of the strange ruins, metal caverns, and outlandish junkyards of Numeria. You are well-versed in all the ways that technology can be used to protect sites, as well as the ways in which it can malfunction.
-
-If you successfully identify a Construct using Recall Knowledge, that creature is flat-footed against and takes 2 additional precision damage from your attacks until the start of your next turn; if you critically succeed, it's flat-footed against and takes 2 additional precision damage from your attacks for 1 minute.
-
-You're trained in Crafting and Engineering Lore. You can choose Intelligence as your key ability score.
-
-### Lucky Glitch
-
-**Level:** 2
-
-**Traits:** Rogue
-
-**Prerequisites:** Numerian Scavenger Racket
-
-Your skill with ancient technological artifacts shows through in times of need. Once per hour, you can activate a Timeworn technological item as if it did not possess the Timeworn trait.
-
-### Robot Slayer
-
-**Level:** 10
-
-**Traits:** Rogue
-
-**Prerequisites:** Numerian Scavenger Racket
-
-You know just where to strike robots to incapacitate and disable them. When you deal the additional damage from your sneak attack against a creature with the Robot trait, you ignore the creature's hardness (if any).
 
 ### Nanite (Sorcerer Bloodline)
 
@@ -328,6 +322,36 @@ While in swarm form, you gain the following damaging action:
 
 **Heightened (+2)** Increase your resistances and weaknesses each by 5, and increase the initial and persistent damage of your Nanite Overload by 2d8 and 2d6, respectively.
 
+### Numerian Liberator (Archetype)
+
+### Numerian Scavenger (Rogue Racket)
+
+You live for the discovery of new technological wonders scraped from the depths of the strange ruins, metal caverns, and outlandish junkyards of Numeria. You are well-versed in all the ways that technology can be used to protect sites, as well as the ways in which it can malfunction.
+
+If you successfully identify a Construct using Recall Knowledge, that creature is flat-footed against and takes 2 additional precision damage from your attacks until the start of your next turn; if you critically succeed, it's flat-footed against and takes 2 additional precision damage from your attacks for 1 minute.
+
+You're trained in Crafting and Engineering Lore. You can choose Intelligence as your key ability score.
+
+### Lucky Glitch
+
+**Level:** 2
+
+**Traits:** Rogue
+
+**Prerequisites:** Numerian Scavenger Racket
+
+Your skill with ancient technological artifacts shows through in times of need. Once per hour, you can activate a Timeworn technological item as if it did not possess the Timeworn trait.
+
+### Robot Slayer
+
+**Level:** 10
+
+**Traits:** Rogue
+
+**Prerequisites:** Numerian Scavenger Racket
+
+You know just where to strike robots to incapacitate and disable them. When you deal the additional damage from your sneak attack against a creature with the Robot trait, you ignore the creature's hardness (if any).
+
 ### Savage Technologist (Barbarian Instinct)
 
 Savage technologists exhort Kellids to rise up against the depredations of the Technic League. But rather than rejecting technology, they wield the League’s own weapons against it.
@@ -391,6 +415,8 @@ Your patron's access to the universal code manifests in spectacular glitching. T
 ### Familiar of Mechanical Ascension
 
 Your familiar is metallic in fur or feather, and its eyes seem to glow with an electrical spark. When you Cast or Sustain a hex, and your familiar is adjacent to an ally wielding or wearing an item with the [tech^](/Traits/README.md#tech) trait that is powered by [batteries^](/Technology%20Guide/Gear#battery), it regains a number of temporary charges equal to its usage, even if the item has the [timeworn^](#Traits/README.md#timeworn) trait. Any unused temporary charges from this ability are lost at the start of your next turn.
+
+### Technomancer (Archetype) [STILL UPDATING]
 
 ### Way of the Techslinger (Gunslinger Way)
 
@@ -458,5 +484,3 @@ You've studied the high-tech firearms of Numeria and have a definitive favorite.
 **Prerequisite:** Technic Training
 
 You're so confident in your favored firearm that it rarely malfunctions for you. When wielding your favored firearm with the Timeworn trait, you treat the firearm as if it does not have the timeworn trait, allowing you to ignore the Glitching condition and reload or recharge the firearm.
-
-### Technomancer (Archetype) [STILL UPDATING]
