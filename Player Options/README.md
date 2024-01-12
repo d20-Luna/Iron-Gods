@@ -103,7 +103,7 @@ The concept of life on other planets far beyond Golarion has always fascinated y
 
 ## Animal Companions and Familiars
 
-Three new alien animals (Petromin, Pilo, Sorico) are introduced in Chapter 1, with a fourth introduced in Chapter 6 (Marax). These animals may be chosen as companions with GM permission.
+Three new alien animals (Petromin, Pilo, Sorico) are introduced in Chapter 1, with a fourth introduced later (Marax). These animals may be chosen as companions with GM permission.
 
 ### Marax
 
