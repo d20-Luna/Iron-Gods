@@ -58,11 +58,7 @@ This attempts to convert the entries in the [Iron Gods Player's Guide](https://p
 
 ## Ancestries
 
-### Kasatha
-
-### Lashunta
-
-### Ryphorian (Triaxian)
+See the [Ancestries](/Ancestries/README.md) page for details on the Kasatha, Lashunta, and Ryphorian.
 
 ## Backgrounds
 
@@ -432,7 +428,7 @@ Your patron's access to the universal code manifests in spectacular glitching. T
 
 Your familiar is metallic in fur or feather, and its eyes seem to glow with an electrical spark. When you Cast or Sustain a hex, and your familiar is adjacent to an ally wielding or wearing an item with the [tech^](/Traits/README.md#tech) trait that is powered by [batteries^](/Technology%20Guide/Gear#battery), it regains a number of temporary charges equal to its usage, even if the item has the [timeworn^](#Traits/README.md#timeworn) trait. Any unused temporary charges from this ability are lost at the start of your next turn.
 
-### Technomancer (Archetype) [STILL UPDATING]
+### Technomancer (Archetype)
 
 ### Way of the Techslinger (Gunslinger Way)
 
