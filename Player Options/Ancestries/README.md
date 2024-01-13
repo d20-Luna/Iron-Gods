@@ -8,7 +8,7 @@ This attempts to convert the entries in [People of the Stars](https://paizo.com/
 * [Lashunta](#lashunta)
 * [Ryphorian (Triaxian)](#ryphorian)
 
-## KASATHA
+## Kasatha
 
 **Traits** Rare, Humanoid, Kasatha
 
