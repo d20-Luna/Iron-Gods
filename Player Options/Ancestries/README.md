@@ -172,69 +172,89 @@ Medium
 
 **Traits** Rare, Humanoid, Ryphorian
 
-*???*
+*Ryphorians are trimorphic humanoids with variant physical characteristics depending on the season of their birth.*
 
-???
+Magic allows some ryphorians to transcend the seasonal cycle, though old stereotypes surrounding summerborn and winterborn individuals persist, as does the mystery surrounding the rare transitional ryphorians born between winter and summer. Ryphorians evolved on their home world, Triaxus, but a few have managed to make their way to Golarion via the "elf gates" of the planet Castrovel. Their Skyfire Legionnaires soars among the stars, and many ryphorians still become rangers or fighters alongside their bonded dragonkin partners.
 
 ### YOU MIGHT...
 
-???
+* Seek connections with your companions constantly.
+* Favor weaponry that is easiest to wield while mounted.
+* Modify your appearance to instil a sense of originality in yourself.
 
 ### OTHERS PROBABLY...
 
-???
+* Find you a bit too clingy for their liking.
+* Question you constantly about the mystical bonds your people have with dragonkin.
+* Assume you have a romantic connection towards your bonded mount, be it dragon or otherwise.
 
 ### PHYSICAL DESCRIPTION
 
-???
+Due to the generations-long seasons on Triaxus, ryphorian biology differs depending on the season in which they're born. They're separated into three categories: winterborns, summerborns, and transitionals, who often appear as a combination of the two primary forms. Ryphorians have long, pointed ears with feathered edges that give them exceptionally good hearing and particularly large canine teeth that can protrude from their mouths like fangs when they smile. In general, ryphorians have long arms and legs that struggle to retain noticeable muscle mass, though despite their lithe appearances, the harsh environment of their home planet means most have developed sturdy forms and overflowing stamina.
+
+Winterborns have pale skin, narrow eyes to protect from snow blindness, and their skin is covered in a light fur to help protect against subzero temperatures. Winterborn ryphorians have no difficulty growing full heads of long hair even into old age, though winterborn hair color is almost always a shade of blonde, silver, or white. It's trendy for winterborns to dye their hair with bright fashion colors as a show of originality.
+
+Summerborns have hairless bodies, dark skin tones, and wide, dark eyes to protect them from the harsh and constant rays of the sun. Many summerborns favor colorful and intricate tattoos, sometimes completely covering their skin.
+
+Transitional ryphorians often display a combination of summerborn and winterborn traits, such as brown skin and patches of fur. Transitionals also have unusual characteristics, markings, and fur coloration; these features are a deformity to some and rare beauty to others.
 
 ### SOCIETY
 
-???
+With the political structure of the Allied Territories being so varied, ryphorian faiths and political views can be difficult to follow, and the societal structure can greatly differ from place to place. Nevertheless, some cultural norms exist among an overwhelming majority of ryphorian settlements.
+
+Ryphorians tend to prefer communal living spaces. With the cultural acceptance of the ryphorian-dragonkin bond, bonded partners often live together alongside one another's domestic and romantic partners, children, and immediate family. Most housing in the Allied Territories is built to accommodate these large and complex family lives. Ryphorians who aren't bonded or lack steady romantic partners often live with several roommates, or alongside extended family, in apartments or houses with numerous bedrooms. Many ryphorians from the Allied Territories feel comfortable in groups and experience anxiety when forced to be alone for long periods of time.
+
+Of the very few Ryphorians on Golarion, they tend to live amongst elves and gnomes, as these are the ancestries that are able to be found on the Ryphorians' home world of Triaxus.
 
 ### BELIEFS
 
-???
+Ryphorians tend to honor familial and friendly connections, and their faiths align with this well. Ryphorians on Golarion interested in religion usually worship Apsu, Erastil, or Shelyn, deities that encompass wyrmkin, family, and community. Other popular deities include Dahak and Gozreh.
 
 ### ADVENTURERS
 
-???
+Ryphorians tend to adventure with and fight best from a mounted position, and thus many adventuring ryphorians on Golarion become druids, rangers, or fighters. Those that do not find themselves with a bonded partner tap into the seasonal abilities of their heritage, becoming kineticists, oracles, or sorcerers. Others still lead by example, becoming champions or swashbucklers.
 
 ### NAMES
+The Ryphorian language shares many similarities with the Draconic language, sharing phonemes, root words, and even idioms. With this influence, ryphorian names tend toward containing a lot of the same harsh sounds found in Draconic ones but with less syllables. Most ryphorian names are no more than three syllables long, making it easier to remember and distinguish many names within friend and family groups.
 
-???
+Ryphorian last names can be inherited from parents but are more often gifted to children by a close friend within their parents' circle. They follow the same trends as ryphorian first names and are often repurposed first names passed onto a member of the extended family. Being offered the chance to gift a last name to a friend's child is considered a high honor and proof of an extremely close friendship. 
+
 
 ***Sample Names***
-???
+Atioka, Chezhek, Emex, Jaxek, Kaxani, Raysel, Renn, Syzon, Tyrax, Xalke, and Ziratyk.
 
 ## RYPHORIAN MECHANICS
 
 ### HIT POINTS
-???
+8
 
 ### SIZE
 Medium
 
 ### SPEED
-???
+25 feet
 
 ### ABILITY BOOSTS
-???
+Strength
+
+Constitution
+
+Free
 
 ### ABILITY FLAW(S)
-???
+Wisdom
 
 ### LANGUAGES
-???
+Common
 
-### ???
+Ryphorian
 
-???
+Additional languages equal to your Intelligence modifier (if it's positive). Choose from Draconic, Elvish, Gnomish, and any other languages to which you have access (such as the languages prevalent in your region).
 
-### ???
+### KEEN SENSES
 
-???
+Ryphorians’ distinctive ears help them hear precisely, granting a +1 circumstance bonus to Perception checks.
 
-### ???
+### LOW-LIGHT VISION
 
-???
+You can see in dim light as though it were bright light, so you ignore the concealed condition due to dim light.
