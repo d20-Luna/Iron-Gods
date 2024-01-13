@@ -109,7 +109,7 @@ Neraplast armor is a lightweight, formfitting bodysuit features a variety of poc
 
 A scatterlight suit is a tight, form-fitting suit of highly reflective polymers and synthetic metal fibers. It’s designed to reflect beam weapon attacks, and provides only minimal protection against physical damage.
 
-**Activate** [one action] Interact; **Charges** 1; **Duration** 10 minutes; **Effect** The suit diffuses and blurs light reflected from its surface. The suit's wearer is considered concealed to beam and ray attacks and effects.
+**Activate** [one action] Interact; **Charges** 1; **Effect** The suit diffuses and blurs light reflected from its surface. The suit's wearer is considered concealed to beam and ray attacks and effects. The suit expends an additional charge every hour, and can be deactivated with an additional Interact action.
  
 ## Smart Armor (Compact Form)
 
