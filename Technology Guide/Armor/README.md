@@ -89,7 +89,7 @@ This padded jumpsuit is made of resilient polymers interwoven with superconducti
  
 ## Neraplast Armor
 
-**Level** 4; **Price** 100 gp; **AC Bonus** +1; **Max Dex +4; **Check Penalty** -1; **Speed Penalty** —
+**Level** 4; **Price** 100 gp; **AC Bonus** +1; **Max Dex +4**; **Check Penalty** -1; **Speed Penalty** —
 
 **Strength** +0; **Bulk** 1; **Traits** Comfort, Flexible, [Tech^](/Traits/README.md#tech)
 
