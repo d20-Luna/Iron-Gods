@@ -6,18 +6,24 @@ New traits will be indicated with a carat (^) and are linked to their explanatio
 
 * [Access Card](#access-card)
 * [Battery](#battery)
+* [Camera](#camera)
 * [Chemalyzer](#chemalyzer)
+* [Commset](#commset)
 * [E-pick](#e-pick)
 * [Emergency Beacon](#emergency-beacon)
 * [Filter Mask](#filter-mask)
+* [Fire Extinguisher](#fire-extinguisher)
 * [Flashlight](#flashlight)
+* [Force Field](#force-field)
 * [Goo Tube](#goo-tube)
 * [Grenade](#grenade)
 * [Grippers](#grippers)
 * [Ion Tape](#ion-tape)
+* [Magboots](#magboots)
 * [Medlance](#medlance)
 * [Nanite Canister](#nanite-canister)
 * [Nanite Hypogun](#nanite-hypogun)
+* [Power Receiver](#power-receiver)
 * [Radiation Detector](#radiation-detector)
 * [Skillchip](#skillchip)
 * [Trauma Pack](#trauma-pack)
@@ -44,6 +50,8 @@ Access cards must be encoded to specific locks before they can function. Often, 
 
 A battery contains 10 charges when full. When recharging a battery at a generator, roll a DC 4 flat check. On a failure, the battery is destroyed and becomes a useless silverdisk.
 
+## Camera
+
 ## Chemalyzer
 
 **Traits** [Rare](https://2e.aonprd.com/Traits.aspx?ID=137), [Tech^](/Traits/README.md#tech)
@@ -57,6 +65,8 @@ A chemalyzer is a handheld unit with an extendable wand tipped with a sampling n
 A chemalyzer's power is provided by a [battery^](#battery). A fully charged battery has 10 charges. A charge is expended whenever the device is activated, as detailed below in its "Charges" entry.
 
 **Activate** [one action] Interact; **Charges** 1; **Effect** You dip the sampling nozzle into an alchemical or pharmaceutical item, gaining a +2 item bonus to your [Identify Alchemy](https://2e.aonprd.com/Actions.aspx?ID=44) and [Identify Pharmaceutical^](/Technology%20Guide/README.md#identify-pharmaceutical) checks. It cannot aid in the identification of magical effects or substances (like potions) but it does work on Alchemical Elixirs. A chemalyzer cannot be used in lieu of [Alchemist's tools](https://2e.aonprd.com/Equipment.aspx?ID=2).
+
+## Commset
 
 ## E-pick
 
@@ -105,6 +115,8 @@ A filter mask's power is provided by a [battery^](#battery). A fully charged bat
 
 **Activate** [one action] Interact; **Charges** 1; **Effect** The creature wearing the mask becomes immune to all inhaled poisons and diseases. The mask consumes an additional charge every hour that it is activated, and can be deactivated with another Interact action.
 
+## Fire Extinguisher
+
 ## Flashlight
 
 **Traits** [Light](https://2e.aonprd.com/Traits.aspx?ID=100), [Tech^](/Traits/README.md#tech)
@@ -118,6 +130,8 @@ This metal cylinder has a glass pane at the end and a switch on the side. This N
 A flashlight's power is provided by a [battery^](#battery). A fully charged battery has 10 charges. A charge is expended whenever the device is activated, as detailed below in its "Charges" entry.
 
 **Activate** [one action] Interact; **Charges** 1; **Effect** The flashlight emits bright light in a 60 foot cone and dim light in the next 60 feet when activated. A flashlight has no effect in areas of magical darkness. The flashlight uses an additional charge every eight hours while activated. It can be deactivated with another Interact action.
+
+## Force Field
 
 ## Goo Tube
 
@@ -178,6 +192,8 @@ Grippers can also be wielded in combat as an improvised weapon, dealing 1d6 blud
 
 A roll of ion tape fits in the palm of a hand and comes in a wide range of colors. A single roll contains 50 feet of tape. A single strip of tape is easy to cut through or tear. When wrapped around an object, it has a weak adhesive that keeps it in place. When ion tape is exposed to an electrical charge of any power (including a jolt from a [zipstick](/Technology%20Guide/Gear#zipstick)), the tape bonds together into a single mass of plastic-like material. When used to bind a creature, a few strips of activated ion tape require a successful DC 28 Escape check to break. A second jolt from an electrical source causes the tape to revert to its weaker ribbon condition, at which point it can be torn free easily. A strip of ion tape can hold about 5 pounds of weight normally, but when activated via a jolt, a single hardened strip can support up to 300 pounds of weight. The uses for ion tape are many; it can be used to construct basic objects (such as a ladder), patch holes, bind prisoners, and so on.
 
+## Magboots
+
 ## Medlance
 
 **Traits** Uncommon, Injection, [Tech^](/Traits/README.md#tech)
@@ -222,6 +238,8 @@ Color Grade | Level | Cost      | Primary | Secondary
 ------------|-------|-----------|---------|-----------
 Brown       | 2     | 30 gp     | 1d8+1   | +2 to saving throws against poison & disease for the next 8 hours
 Black       | 5     | 180 gp    | 2d8+3   | Casts *[restoration](http://2e.aonprd.com/Spells.aspx?ID=258)*
+
+## Power Receiver
 
 ## Radiation Detector
 
