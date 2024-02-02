@@ -72,9 +72,15 @@ A chemalyzer's power is provided by a [battery^](#battery). A fully charged batt
 
 **Traits** Rare, [Signal^](/Traits/README.md#signal), [Tech^](/Traits/README.md#tech)
 
-**Level** 12; **Price** 2,000 gp; **Hands** 1; **Bulk** L; **Capacity** 10; **Power Use** 1 charge/hour
+**Level** 12; **Price** 2,000 gp
+
+**Hands** held in 1 hand; **Bulk** L
+
+**Capacity** 10; **Power Use** 1 charge/hour
 
 ***STILL UPDATING***
+
+A commset's power is provided by a [battery^](#battery). A fully charged battery has 10 charges. A charge is expended whenever the device is activated, as detailed below in its "Charges" entry.
 
 When a message is broadcast on a commset, all other active commsets tuned to the same frequency within 1 mile will play the broadcasted message. Activating or deactivating a commset is a single interact action, and the commset uses 1 charge of power for each hour it remains active. Inactive commsets will not receive, play or broadcast messages.
 
