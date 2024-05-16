@@ -4,7 +4,7 @@ New traits will be indicated with a carat (^) and are linked to their explanatio
 
 ## Gas Grenade
 
-**Traits** Uncommon, Bomb, Consumable, [Grenade^](/Traits/README.md#grenade), Poison, [Technology^](/Traits/README.md#technology)
+**Traits** Uncommon, Bomb, Consumable, [Grenade^](/Traits/README.md#grenade), Poison, [Tech^](/Traits/README.md#tech)
 
 **Level** 3; **Price** 10 gp; **Hands** 1; **Bulk** L; **Craft DC** 20
 
