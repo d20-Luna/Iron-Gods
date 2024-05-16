@@ -68,24 +68,6 @@ A chemalyzer's power is provided by a [battery^](#battery). A fully charged batt
 
 **Activate** [one action] Interact; **Charges** 1; **Effect** You dip the sampling nozzle into an alchemical or pharmaceutical item, gaining a +2 item bonus to your [Identify Alchemy](https://2e.aonprd.com/Actions.aspx?ID=44) and [Identify Pharmaceutical^](/Technology%20Guide/README.md#identify-pharmaceutical) checks. It cannot aid in the identification of magical effects or substances (like potions) but it does work on Alchemical Elixirs. A chemalyzer cannot be used in lieu of [Alchemist's tools](https://2e.aonprd.com/Equipment.aspx?ID=2).
 
-## Commset
-
-**Traits** Rare, [Signal^](/Traits/README.md#signal), [Tech^](/Traits/README.md#tech)
-
-**Level** 12; **Price** 2,000 gp
-
-**Hands** held in 1 hand; **Bulk** L
-
-**Capacity** 10; **Power Use** 1 charge/hour
-
-***STILL UPDATING***
-
-A commset's power is provided by a [battery^](#battery). A fully charged battery has 10 charges. A charge is expended whenever the device is activated, as detailed below in its "Charges" entry.
-
-When a message is broadcast on a commset, all other active commsets tuned to the same frequency within 1 mile will play the broadcasted message. Activating or deactivating a commset is a single interact action, and the commset uses 1 charge of power for each hour it remains active. Inactive commsets will not receive, play or broadcast messages.
-
-Broadcasting a message on a commset records video and audio footage of the creature doing so.
-
 ## E-pick
 
 **Traits** [Tech^](/Traits/README.md#tech)
@@ -133,20 +115,6 @@ A filter mask's power is provided by a [battery^](#battery). A fully charged bat
 
 **Activate** [one action] Interact; **Charges** 1; **Effect** The creature wearing the mask becomes immune to all inhaled poisons and diseases. The mask consumes an additional charge every hour that it is activated, and can be deactivated with another Interact action.
 
-## Fire Extinguisher
-
-**Traits** Consumable, Gadget
-
-**Level** 6; **Price** 400 gp
-
-**Usage** held in 2 hands; **Bulk** 1
-
-***STILL UPDATING***
-
-**Activate** (2 actions) Interact; **Effect** You create 15 foot cone of misty vapor that extinguishes all nonmagical fires within its area of effect. For each continuous magical fire effect in the cone, make a counteract check at a +11 modifier. If it succeeds the effect is suppressed for 1 minute before it automatically reignites. A creature affected by persistent fire damage within the cone of effect may make a DC 10 flat check to end their condition immediately.
-
-**Activate** (2 actions) Ready; **Effect** You ready the fire extinguisher to put out any potential sources of instantaneous fire such as a [*fireball*](https://2e.aonprd.com/Spells.aspx?ID=119). If the source of fire is within a 15-foot cone of you, you may use your reaction to make a counteract check at a +11 modifier to counter the effect entirely.
-
 ## Flashlight
 
 **Traits** [Light](https://2e.aonprd.com/Traits.aspx?ID=100), [Tech^](/Traits/README.md#tech)
@@ -160,10 +128,6 @@ This metal cylinder has a glass pane at the end and a switch on the side. This N
 A flashlight's power is provided by a [battery^](#battery). A fully charged battery has 10 charges. A charge is expended whenever the device is activated, as detailed below in its "Charges" entry.
 
 **Activate** [one action] Interact; **Charges** 1; **Effect** The flashlight emits bright light in a 60 foot cone and dim light in the next 60 feet when activated. A flashlight has no effect in areas of magical darkness. The flashlight uses an additional charge every eight hours while activated. It can be deactivated with another Interact action.
-
-## Force Field
-
-***STILL UPDATING***
 
 ## Goo Tube
 
@@ -217,16 +181,6 @@ Grippers can also be wielded in combat as an improvised weapon, dealing 1d6 blud
 
 A roll of ion tape fits in the palm of a hand and comes in a wide range of colors. A single roll contains 50 feet of tape. A single strip of tape is easy to cut through or tear. When wrapped around an object, it has a weak adhesive that keeps it in place. When ion tape is exposed to an electrical charge of any power (including a jolt from a [zipstick](/Technology%20Guide/Gear#zipstick)), the tape bonds together into a single mass of plastic-like material. When used to bind a creature, a few strips of activated ion tape require a successful DC 28 Escape check to break. A second jolt from an electrical source causes the tape to revert to its weaker ribbon condition, at which point it can be torn free easily. A strip of ion tape can hold about 5 pounds of weight normally, but when activated via a jolt, a single hardened strip can support up to 300 pounds of weight. The uses for ion tape are many; it can be used to construct basic objects (such as a ladder), patch holes, bind prisoners, and so on.
 
-## Magboots
-
-**Level** 4; **Price** 100 gp
-
-**Usage** worn shoes; **Bulk** 1
-
-***STILL UPDATING***
-
-**Activate** (Free) Envision; **Power Use** 1 charge/hour; **Effect** You gain a climb speed equal to your land speed like [*spider climb*](https://2e.aonprd.com/Spells.aspx?ID=299) but only on metal surfaces.
-
 ## Medlance
 
 **Traits** Uncommon, Injection, [Tech^](/Traits/README.md#tech)
@@ -271,10 +225,6 @@ Color Grade | Level | Cost      | Primary | Secondary
 ------------|-------|-----------|---------|-----------
 Brown       | 2     | 30 gp     | 1d8+1   | +2 to saving throws against poison & disease for the next 8 hours
 Black       | 5     | 180 gp    | 2d8+3   | Casts *[restoration](http://2e.aonprd.com/Spells.aspx?ID=258)*
-
-## Power Receiver
-
-***STILL UPDATING***
 
 ## Radiation Detector
 
