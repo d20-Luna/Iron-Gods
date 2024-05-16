@@ -193,16 +193,9 @@ Here is a list of the various kinds of grenades and their effects.
 
 Grenade                   | Level | Price  | Save DC       | Extra Traits      | Effect
 --------------------------|-------|--------|---------------|-------------------|---------------------
-Arc Grenade               | 5     | 25 gp  | basic Ref 20  | Electricity       | 5d6 electricity damage
 Bang Grenade (light gray) | 3     | 15 gp  | Fort 23       | Auditory          | On a failure, creatures are deafened until the end of their next turn. On a critical failure, creature is deafened for 1 minute and stunned 1
-Concussion Grenade        | 5     | 25 gp  | basic Ref 20  |                   | 5d6 bludgeoning damage
-EMP Grenade               | 4     | 20 gp  | basic Ref 20  | Electricity       | 5d6 electricity damage to robots and tech with charges. Half to androids and cyborgs. No damage to other creatures
 Flash Grenade (white)     | 1     | 5 gp   | Fort 20       | Light, Visual     | Creatures are blinded for 1 round and dazzled for 1 minute. Creatures blinded this way can spend 1 interact action rubbing their eyes to end the blinded condition
-Flechette Grenade         | 5     | 25 gp  | basic Ref 20  |                   | 5d6 piercing damage
-Fragmentation Grenade     | 5     | 25 gp  | basic Ref 20  |                   | 5d6 slashing damage
-Inferno Grenade           | 5     | 25 gp  | basic Ref 20  | Fire              | 5d6 fire damage
 Soft Grenade (pink)       | 5     | 25 gp  | basic Ref 22  | Nonlethal         | 5d6 bludgeoning damage. This effect has the nonlethal trait
-Zero Grenade              | 5     | 25 gp  | basic Ref 20  | Cold              | 5d6 cold damage
 
 ## Grippers
 
