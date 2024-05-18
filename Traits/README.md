@@ -7,15 +7,20 @@ Links with a carat (^) designate new entries from this conversion, and will take
 * [General Traits](#general-traits)
   * [Tech](#tech)
 * [Equipment Traits](#equipment-traits)
+  * [Aeon](#aeon)
   * [Analog](#analog)
+  * [Arc](#arc)
   * [Archaic](#archaic)
   * [Area](#area-burst-cone-line)
   * [Automatic](#automatic)
   * [Capacity](#capacity)
+  * [Caster](#caster)
+  * [Critical](#critical)
   * [Graviton](#graviton)
   * [Grenade](#grenade)
   * [Module](#module)
   * [Pharmaceutical](#pharmaceutical)
+  * [Powered](#powered)
   * [Signal](#signal)
   * [Timeworn](#timeworn)
   * [Tracking](#tracking)
@@ -37,23 +42,31 @@ Links with a carat (^) designate new entries from this conversion, and will take
 
 ### Tech
 
-Items with the Tech trait are considered technological items and use the [Identify Technology^](/Technology%20Guide/README.md#identify-technology) action to identify.
+Items with the tech trait are considered technological items and use the [Identify Technology^](/Technology%20Guide/README.md#identify-technology) action to identify.
 
-Weapons with the Tech trait incorporate electronics, computer systems, and power sources. Sometimes the weapons use such little energy that they can rely on integrated power sources (such as melee weapons that don’t have a capacity), while others drain batteries with attacks. Weapon runes (as found in Pathfinder) don’t function on these weapons.
+Weapons with the tech trait incorporate electronics, computer systems, and power sources. Sometimes the weapons use such little energy that they can rely on integrated power sources (such as melee weapons that don’t have a capacity), while others drain batteries with attacks. Weapon runes (as found in Pathfinder) don’t function on these weapons.
 
-Creatures with the Tech trait are powered by or constructed through technological means, and are affected by effects that specifically target technology such as *[rebuke technology^](/Technology%20Guide/README.md#rebuke-technology)*. Most Robots have the Tech trait, but Androids do not.
+Creatures with the tech trait are powered by or constructed through technological means, and are affected by effects that specifically target technology such as *[rebuke technology^](/Technology%20Guide/README.md#rebuke-technology)*. Most Robots have the tech trait, but Androids do not.
 
-Hazards or other devices with the Tech trait impose a -5 penalty on all Disable a Device checks against it if the creature making the check does not use an [e-pick^](Gear/README.md#e-pick) charge in the attempt.
+Hazards or other devices with the tech trait impose a -5 penalty on all Disable a Device checks against it if the creature making the check does not use an [e-pick^](Gear/README.md#e-pick) charge in the attempt.
 
 ## Equipment Traits
 
+### Aeon
+
+You can fit one aeon stone or spell gem into this weapon as a single action with the interact trait. While you possess the weapon with an aeon stone in it, you gain all the benefits of the aeon stone as if it were orbiting your head. While the weapon has a spell gem attached, you gain a number of bonus battery charges equal to the spell gem’s item level × 5. These charges regenerate during your daily preparations. In addition, you can use the spell gem while wielding the weapon, though using the gem in this manner still destroys it.
+
 ### Analog
 
-This weapon eschews advanced electronics, computers systems, and electric power sources, but was manufactured and calibrated using advanced technology. This weapon is immune to abilities that target technology. Weapon runes (as found in Pathfinder) don’t function on this weapon unless this weapon also has the archaic trait. While this use of the word “analog” is not technically correct when referring to technology, use of the term in this way has become common throughout the Pact Worlds.
+This weapon eschews advanced electronics, computers systems, and electric power sources, but was manufactured and calibrated using advanced technology. This weapon is immune to abilities that target technology. Weapon runes (as found in Pathfinder) don’t function on this weapon unless this weapon also has the archaic trait.
 
 ### Archaic
 
 This weapon is crafted using traditional methods and materials but is not suitable for striking tech armor. All weapons from Pathfinder Second Edition have the archaic trait. Weapon runes (as found in Pathfinder) function normally with archaic weapons.
+
+### Arc
+
+The attack arcs to the closest enemy creature within 10 feet of the initial target. If the secondary target’s AC is lower than your attack roll result, you deal electricity damage to that creature equal to 1 per weapon damage die.
 
 ### Area (burst, cone, line)
 
@@ -70,6 +83,14 @@ In addition to a normal Strike, you can fire this weapon using the Automatic Fir
 ### Capacity
 
 Most weapons take batteries or have magazines to allow for multiple shots. The capacity of a weapon indicates how much ammunition it can hold. Charges represent battery-powered weapons and the highest capacity battery it can hold. Many flame weapons instead utilize petrol, which is sold in tanks and otherwise functions as batteries. Most projectile weapons use magazines, which can hold a maximum number of cartridges. Depending on the weapon, cartridges could be bolts, darts, flechettes, rounds, or other ammunition. Most projectile weapons use rounds, while most injection weapons use darts. Cartridges are purchased individually, at a cost of 10 cartridges per gold. Note that this is separate from than the capacity trait presented on page 150 of Pathfinder Guns & Gears.
+
+### Caster
+
+This weapon can be powered by casting a spell (including a cantrip) with two or more actions. If you do, resolve the spell normally. Once the spell is cast, if it had the acid, cold, fire, electricity, spirit, sonic, vitality, or void trait, the weapon deals damage of that type instead of its usual damage until the end of your next turn or until you cast another spell. If the spell deals more than one type of damage, choose one when you fire the weapon. If the weapon has the aeon trait and a spell gem installed, you can use one of the previously listed traits if the spell of the spell gem slotted in the weapon has that trait, and this does not require you to cast the spell and is a constant effect.
+
+### Critical
+
+This weapon uses the critical weapon specialization of the listed weapon type rather than its own.
 
 ### Graviton
 
@@ -88,6 +109,10 @@ Items with the Module trait usually need to be slotted in another item before th
 ### Pharmaceutical
 
 A Pharmaceutical is typically an alchemical consumable that is activated by either ingesting them, or having them injected into a creature with the use of a [medlance^](/Technology%20Guide/Gear/README.md#medlance). To identify a pharmaceutical, use the [Identify Pharmaceutical^](/Technology%20Guide/README.md#identify-pharmaceutical) action.
+
+### Powered
+
+This melee weapon uses a battery. You can activate or deactivate a powered weapon with an Interact action or as part of drawing or stowing it. This weapon comes with a commercial battery installed and uses 1 charge per day (rather than 1 charge per attack). If you try to attack with a powered weapon that’s out of charges or is deactivated, it functions as an improvised weapon.
 
 ### Signal
 
