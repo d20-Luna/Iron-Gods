@@ -120,7 +120,7 @@ These hardened bone blades are the favored weapons of those who call the alien p
 
 **Level** 0 (Timeworn, Commercial), 2 (Tactical), 4 (Advanced); **Price** 9 gp (Timeworn), 19 gp (Commercial), 38 gp (Tactical), 103 gp (Advanced); **Damage** 1d6 E (Timeworn, Commercial, Tactical), 2d6 E (Advanced); **Bulk** 1; **Hands** 1; **Range** 40 feet
 
-**Weapon Group** [Shock^](/Traits/README.md#shock); **Traits** [Tech^](/Traits/README.md#tech), [Timeworn^](/Traits/README.md#timeworn) (Timeworn), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
+**Weapon Group** [Shock^](/Traits/README.md#shock); **Traits** [Arc^](/Traits/README.md#arc), [Tech^](/Traits/README.md#tech), [Timeworn^](/Traits/README.md#timeworn) (Timeworn), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
 
 **Capacity** 10 charges; **Usage** 1; **Reload** - (Timeworn), 1 (Commercial, Tactical, Advanced); **Upgrades** - (Timeworn), 1 (Commercial, Tactical), 2 (Advanced)
 
@@ -130,7 +130,7 @@ Arc pistols fire deadly, stunning blasts of electricity at ranged targets. They 
 
 **Level** 4 (Timeworn, Commercial), 6 (Tactical), 8 (Advanced); **Price** 55 gp (Timeworn), 110 gp (Commercial), 220 gp (Tactical), 460 gp (Advanced); **Damage** 1d10 E (Timeworn, Commercial, Tactical), 2d10 E (Advanced); **Bulk** 2; **Hands** 2; **Range** 100 feet
 
-**Weapon Group** [Shock^](/Traits/README.md#shock); **Traits** [Automatic^](/Traits/README.md#automatic), [Tech^](/Traits/README.md#tech), [Timeworn^](/Traits/README.md#timeworn) (Timeworn), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
+**Weapon Group** [Shock^](/Traits/README.md#shock); **Traits** [Arc^](/Traits/README.md#arc), [Automatic^](/Traits/README.md#automatic), [Tech^](/Traits/README.md#tech), [Timeworn^](/Traits/README.md#timeworn) (Timeworn), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
 
 **Capacity** 20 charges; **Usage** 1; **Reload** - (Timeworn), 1 (Commercial, Tactical, Advanced); **Upgrades** - (Timeworn), 1 (Commercial, Tactical), 2 (Advanced)
 
@@ -356,11 +356,11 @@ This polearm is a two-sided weapon. One side is fitted with a broad, shovel-like
 
 **Level** 6 (Tactical), 8 (Advanced); **Price** 300 gp (Tactical), 500 gp (Advanced); **Damage** 1d10 E and F (Tactical), 2d10 E and F (Advanced); **Bulk** L; **Hands** 1
 
-**Weapon Group** Sword; **Traits** Agile, Concealable, Fatal d12, Finesse, Razing, [Tech^](/Traits/README.md#tech), [Tracking +1^](/Traits/README.md#tracking)
+**Weapon Group** Sword; **Traits** Agile, Concealable, Fatal d12, Finesse, [Powered^](/Traits/README.md#powered), Razing, [Tech^](/Traits/README.md#tech), [Tracking +1^](/Traits/README.md#tracking)
 
 **Capacity** 10 charges; **Usage** -; **Reload** 1; **Upgrades** 1 (Tactical), 2 (Advanced)
 
-When activated with an Interact action, a plasma blade’s heavy, ornate handle projects a quantum field that contains energized plasma in a 2- to 3-foot-long “blade.” Activating a plasma blade has a usage of 1, and the plasma blade automatically uses an additional charge every minute while activated (an activated plasma blade can be deactivated with an additional Interact action). Half the damage a plasma blade deals is electricity and the other half is fire. Thanks to its quantum containment, a plasma blade is treated as dealing force damage when used against an incorporeal target.
+When activated with an Interact action, a plasma blade’s heavy, ornate handle projects a quantum field that contains energized plasma in a 2- to 3-foot-long “blade.” Half the damage a plasma blade deals is electricity and the other half is fire. Thanks to its quantum containment, a plasma blade is treated as dealing force damage when used against an incorporeal target.
 
 ## Stun Baton (Timeworn, Commercial, Tactical, Advanced)
 
@@ -398,7 +398,7 @@ A plasmathrower is a devastating weapon that fires blasts of superheated, electr
 
 **Level** 0 (Timeworn), 2 (Tactical), 4 (Advanced); **Price** 12 gp (Timeworn), 50 gp (Tactical), 106 gp (Advanced); **Damage** 1d8 E (Timeworn, Tactical), 2d8 E (Advanced); **Bulk** 3; **Hands** 2; **Range** 40 feet
 
-**Weapon Group** [Shock^](/Traits/README.md#shock); **Traits** [Automatic^](/Traits/README.md#automatic), [Tech^](/Traits/README.md#tech), [Timeworn^](/Traits/README.md#timeworn) (Timeworn), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
+**Weapon Group** [Shock^](/Traits/README.md#shock); **Traits** [Arc^](/Traits/README.md#arc), [Automatic^](/Traits/README.md#automatic), [Tech^](/Traits/README.md#tech), [Timeworn^](/Traits/README.md#timeworn) (Timeworn), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
 
 **Capacity** 20 charges; **Usage** 1; **Reload** - (Timeworn), 1 (Tactical, Advanced); **Upgrades** - (Timeworn), 1 (Tactical), 2 (Advanced)
 
