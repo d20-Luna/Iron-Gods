@@ -111,6 +111,7 @@ A powerful, synthetic blend of numbing agents.
 Zortaphen is a powerful anesthetic. A creature that takes a dose of zortaphen must succeed at a DC 19 Fortitude saving throw or become unconscious for 1 hour; the unconsciousness takes effect 1d6 rounds after the failed save. A creature under the effects of zortaphen is numbed as well, making it immune to pain effects while sleeping. Damage inflicted on someone put to sleep with zortaphen does not cause the sleeper to awaken. Awakening someone early requires a successful DC 21 Medicine (Expert) check and an Interact action.
 
 Zortaphen can be dangerous if too much is taken at once. A skilled character can use a successful DC 19 Medicine check to keep someone under the effects of zortaphen unconscious indefinitely by injecting a new dose every hour. On a failed Medicine check or if a second dose is administered without attempting a Medicine check, a victim already under the effects of zortaphen must succeed at a Fortitude saving throw, with the DC increasing by 2 for each additional dose administers before the first expires.
-    * **Success** The zortaphen does not affect the target.
-    * **Failure** The target becomes drained 1 for 24 hours (or has its drained condition increase by 1 stage and the duration increased to 24 hours).
-    * **Critical Failure** The target becomes drained 2 for 24 hours (or has its drained condition increase by 2 stages and has its duration increased to 24 hours).
+
+* **Success** The zortaphen does not affect the target.
+* **Failure** The target becomes drained 1 for 24 hours (or has its drained condition increase by 1 stage and the duration increased to 24 hours).
+* **Critical Failure** The target becomes drained 2 for 24 hours (or has its drained condition increase by 2 stages and has its duration increased to 24 hours).
