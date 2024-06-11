@@ -18,6 +18,6 @@ Upon detonation, the green grenade emits a 20-foot emananation of gas that persi
 
 **Level** 3; **Price** 10 gp; **Usage** held in 1 hand; **Bulk** -
 
-**Activate** (1 action) Interact;
+This pink, gel-like substance dulls pain, promotes rapid healing, and induces a euphoric sensation in the user. Regular use causes hideous scarring around the applied area.
 
 **Saving Throw** DC 20 Fortitude; **Maximum Duration** 1 hour; **Stage 1** regain 1d8 Hit Points, immune to bleed and anytime you gain the frightened condition, reduce its value by 1 (1 minute); **Stage 2** stupefied 1 (1 hour)
