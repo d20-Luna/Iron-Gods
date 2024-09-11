@@ -9,6 +9,7 @@
   * [Stellar Nomad](#stellar-nomad)
   * [Tempering](#tempering)
 * [Ancestry Feats](#ancestry-feats)
+  * [1st-Level](#1st-level)
 
 ## Kasatha Heritages
 
@@ -26,3 +27,23 @@ You choose to travel abroad, leaving your birthplace to embark on a journey thro
 
 ### Tempering
 You are undergoing your Tempering, a coming-of-age ritual in which a kasatha rejects the formal traditions of their family and experiences other customs and traditions. You may be one of the Untempered, a kasatha who chooses to continue their Tempering beyond the traditional yearlong period. You become trained in Society and gain the Streetwise feat. 
+
+## Ancestry Feats
+
+### 1st Level
+
+**Calm Before The Storm**
+***Traits*** Kasatha
+You maintain a calm demeanor even when facing mortal peril. At the end of your turn, reduce your frightened condition by 2 instead of 1.
+
+**Crew Member** [reaction]
+***Traits*** Kasatha
+***Trigger*** An ally within 30 feet attempts to Aid and rolls a failure.
+You are always able to help in a pinch. Attempt a skill check or attack roll of the same type attempted by your ally and replace the result of the failed Aid with your result, even if you did not prepare to help.
+
+**Kasatha Lore**
+***Traits*** Kasatha
+You become trained in Diplomacy and Society. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice.
+
+You also gain the Additional Lore general feat for Kasatha Lore.
+
