@@ -47,3 +47,18 @@ You become trained in Diplomacy and Society. If you would automatically become t
 
 You also gain the Additional Lore general feat for Kasatha Lore.
 
+**Kasathan Weapon Familiarity**
+***Traits*** Kasatha
+Your people have instilled in you a respect for melee combat, and you've trained to wield a few more elegant examples in battle. You gain access to all uncommon weapons with the kasatha trait. You have familiarity with weapons with the kasatha trait plus the dueling sword, plasma sword, shock truncheon, and singing spear-for the purposes of proficiency, you treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons.
+
+At 5th level, whenever you get a critical hit with one of these weapons, you get its critical specialization effect.
+
+**Loping Stride**
+***Traits*** Kasatha
+You have endured difficult land journeys and move with an impressive pace. You Speed increases by 5 feet.
+
+**Natural Grace** [free action]
+***Traits*** Kasatha, Fortune
+***Frequency*** once per day
+***Trigger*** You fail an Acrobatics check or Reflex saving throw
+You have almost supernatural control of your movements, which can sometimes save you in dangerous situations. You can reroll the triggering skill check or saving throw, using the second result even if it's worse.
