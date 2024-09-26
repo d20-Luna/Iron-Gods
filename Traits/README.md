@@ -13,38 +13,45 @@ Links with a carat (^) designate new entries from this conversion, and will take
   * [Archaic](#archaic)
   * [Area](#area-burst-cone-line)
   * [Automatic](#automatic)
-  * [Capacity](#capacity)
+  * [Boost](#boost)
+  * [Breakdown](#breakdown)
   * [Caster](#caster)
   * [Critical](#critical)
   * [Graviton](#graviton)
   * [Grenade](#grenade)
+  * [Kickback](#kickback)
   * [Module](#module)
-  * [Pharmaceutical](#pharmaceutical)
   * [Powered](#powered)
+  * [Professional](#professional)
+  * [Ranged Shove](#ranged-shove)
   * [Signal](#signal)
-  * [Timeworn](#timeworn)
+  * [Thought](#thought)
   * [Tracking](#tracking)
   * [Unwieldy](#unwieldy)
   * [Usage](#usage)
 * [Critical Specialization Effects](#critical-specialization-effects)
+  * [Corrosive](#corrosive)
   * [Cryo](#cryo)
   * [EMP](#emp)
   * [Flame](#flame)
   * [Gravity](#gravity)
+  * [Grenade](#grenade)
   * [Laser](#laser)
   * [Mental](#mental)
+  * [Missile](#missile)
   * [Plasma](#plasma)
+  * [Poison](#poison)
   * [Projectile](#projectile)
+  * [Shield](#shield)
   * [Shock](#shock)
+  * [Sniper](#sniper)
   * [Sonic](#sonic)
 
 ## General Traits
 
 ### Tech
 
-Items with the tech trait are considered technological items and use the [Identify Technology^](/Technology%20Guide/README.md#identify-technology) action to identify.
-
-Weapons with the tech trait incorporate electronics, computer systems, and power sources. Sometimes the weapons use such little energy that they can rely on integrated power sources (such as melee weapons that don’t have a capacity), while others drain batteries with attacks. Weapon runes (as found in Pathfinder) don’t function on these weapons.
+Weapons with the tech trait incorporate electronics, computer systems, and power sources. Sometimes the weapons use such little energy that they can rely on integrated power sources (such as melee weapons that don’t have a magazine), while others drain batteries with attacks. Weapon runes (as found in Pathfinder) don’t function on these weapons.
 
 Creatures with the tech trait are powered by or constructed through technological means, and are affected by effects that specifically target technology such as *[rebuke technology^](/Technology%20Guide/README.md#rebuke-technology)*. Most Robots have the tech trait, but Androids do not.
 
