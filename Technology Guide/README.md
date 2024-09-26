@@ -1,6 +1,6 @@
 # Technology Guide
 
-This section attempts to convert all the supplementary material to the Iron Gods adventure path that still need to be included to actually run it within 2e. Most of it will be entries from the *[Technology Guide](https://paizo.com/products/btpy98i0?Pathfinder-Campaign-Setting-Technology-Guide)* but some may be homebrewed extras to help with the conversion.
+This section attempts to convert all the supplementary material to the Iron Gods adventure path that still need to be included to actually run it within 2e. Most of it will be entries from the *[Technology Guide](https://paizo.com/products/btpy98i0?Pathfinder-Campaign-Setting-Technology-Guide)* or the *[Starfinder Second Edition Playtest](https://paizo.com/products/btq02ez4)*, but some may be homebrewed extras to help with the conversion.
 
 Please note that there will be **MAJOR SWEEPING CHANGES** to many items.
 
@@ -45,7 +45,7 @@ To see an overview of the traits that were added, please click [here](/Traits/RE
 
 ## Silverdisks
 
-Silverdisks are [batteries^](Gear/README.md#battery) that no longer function. They are often used as a secondary currency in Numeria.
+Silverdisks are [batteries] that no longer function. They are often used as a secondary currency in Numeria.
 
 One silverdisk is worth 1 gp.
 
@@ -57,7 +57,7 @@ One silverdisk is worth 1 gp.
 
 You can identify the nature of a technological item with 10 minutes of testing. If your attempt is interrupted in any way, you must start over. Attempt a Engineering Lore check. You may instead make Crafting check at a -5 penalty.
 
-If you have a [zipstick^](Gear/README.md#zipstick) on hand you can expend a use to gain a +2 item bonus to your check.
+If you have a [zipstick] on hand you can expend a use to gain a +2 item bonus to your check.
 
 The DC of the item being identified is the same as its listed Craft DC.
 
@@ -80,18 +80,6 @@ The DC of the item being identified is the same as its listed Craft DC.
 * **Critical Failure** You misidentify the item as another item of the GM's choice.
 
 ## New Feats
-
-### Craft Cybernetics
-
-**Level:** 9
-
-**Traits:** Rare, General, Skill
-
-**Prerequisites:** master in Medicine, expert in Engineering Lore
-
-You can use the Craft activity to create cybernetic items, though many have additional requirements. Selecting this feat immediately gives you the formula of 1 [cybertech^](Cybertech/) item.
-
-You also gain access to the [Install Cybertech^](Cybertech/README.md#install-cybertech) and [Remove Cybertech^](Cybertech/README.md#remove-cybertech) activities.
 
 ### Scavenger's Luck
 
