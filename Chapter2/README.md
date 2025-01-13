@@ -4,17 +4,47 @@ New traits will be indicated with a carat (^) and are linked to their explanatio
 
 ## Gas Grenade
 
-**Traits** Uncommon, Bomb, Consumable, [Grenade^](/Traits/README.md#grenade), Poison, [Tech^](/Traits/README.md#tech)
+**Level** 0+
 
-**Level** 3; **Price** 10 gp; **Usage** held in 1 hand; **Bulk** L;
+**Traits** Consumable, [Grenade^](/Traits/README.md#grenade), Poison, [Tech^](/Traits/README.md#tech)
 
-A gas grenade functions like any other [Grenade^](/Technology%20Guide/Gear/README.md#grenade). 
+**Usage** held in 1 hand; **Bulk** L
 
-Upon detonation, the green grenade emits a 20-foot emananation of gas that persists for 5 rounds where it falls. Creatures that enter or start their turn within this area must succeed at a DC 23 Fortitude save or become sickened 1. Creatures inside the emanation cannot reduce their sickened condition, and those that succeeded on the initial save are not immune.
+**Activate** [one-action] Area Fire
+
+A gas grenade unleashes a thin cloud of toxic fumes that requires creatures in the radius to make a Fortitude save. Creatures inside the radius cannot reduce their sickened condition, and those that succeeded on the initial save are not immune. The gas lasts for 1 minute or until dissipated by a strong wind or similar effect.
+
+**Type** commercial; **Level** 0; **Price** 10 credits
+
+The radius is 5 feet and on a failure the creature is sickened 1.
+
+**Type** tactical; **Level** 2; **Price** 80 credits; **Critical** sickened 2
+
+The radius is 10 feet and on a failure the creature is sickened 1.
+
+**Type** advanced; **Level** 4; **Price** 120 credits; **Critical** sickened 3
+
+The radius is 10 feet and on a failure the creature is sickened 1.
+
+**Type** superior; **Level** 10; **Price** 1500 credits; **Critical** sickened 3
+
+The radius is 15 feet and on a failure the creature is sickened 2.
+
+**Type** elite; **Level** 12; **Price** 3000 credits; **Critical** sickened 4
+
+The radius is 15 feet and on a failure the creature is sickened 2.
+
+**Type** ultimate; **Level** 16; **Price** 13000 credits; **Critical** sickened 4
+
+The radius is 20 feet and on a failure the creature is sickened 3.
+
+**Type** paragon; **Level** 19; **Price** 50000 credits; **Critical** sickened 5
+
+The radius is 20 feet and on a failure the creature is sickened 3.
 
 ## Soothe
 
-**Traits** Alchemical, Consumable, Contact, Drug, [Pharmaceutical^](/Traits/README.md#pharmaceutical), Poison
+**Traits** Consumable, Contact, Drug, Poison
 
 **Level** 3; **Price** 10 gp; **Usage** held in 1 hand; **Bulk** -
 
