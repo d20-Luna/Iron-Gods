@@ -16,13 +16,27 @@ New traits will be indicated with a carat (^) and are linked to their explanatio
 
 ## Martial Melee Weapons
 
-## Advanced Melee Weapons
+**Monk's Spade:** 
 
 ## Simple Ranged Weapons
 
-## Martial Ranged Weapons
+**Dart Gun:** Dart guns fire condensed needles of nanites at ranged targets. Dart guns possess small resevoirs above their handles into which a single dose of a pharmaceutical, drug, poison, or even a potion can be poured as an Interact action. The next dart fired from the dart gun delivers that liquid into the target immediately upon a hit.
 
-## Advanced Ranged Weapons
+**EMP Pistol:** EMP pistols contain a number of electromagnetically-charged spikes protruding from their barrels. An EMP pistol emits a beam of electromagnetic energy that only deals full damage to creatures with the tech trait. An EMP pistol can harm androids, automatons, and creatures with cybernetic implants, but they take half damage from a hit.
+
+**EMP Rifle:** EMP rifles contain a series of electromagnetically-charges spikes within their barrels. An EMP rifle emits a beam of electromagnetic energy that only deals full damage to creatures with the tech trait, and half damage to androids, automatons, and creatures with cybernetic implants.
+
+**Gravity Pistol:** Gravity pistols use forked prongs protruding from their barrels to fire specialized beams of gravitons to batter and reposition foes.
+
+**Gravity Rifle:** Gravity rifles use multiple forked prongs protruding from their barrels to fire powerful, specialized beams of gravitons to batter and reposition foes.
+
+**Id Rifle:** This sleek, low-caliber rifle is made of a burnished skymetal. An id rifle fires tiny barbs of nanites that target the nervous system and possesses a microphone in its stock. A creature damaged by an id rifle must make a Will save against your Class DC. On a failure, the target is stupefied 1. On a critical failure, the target is stupefied 3. If the target is already stupefied, their stupefied value increases by the same amount. Additionally, as a command action that has a usage of 1, you can attempt to affect all creatures within 50 feet that have been damaged by your id rifle within the past 24 hours with a non-magical *suggestion* effect, using your Class DC.
+
+**Inferno Pistol:** An inferno pistol is a less refined variant of the longer-range laser pistol, which generates a blob of molten nanites to burn its targets.
+
+**Mindburner:** Mindburners have dishlike devices at the end of their barrels, where a small wisp of smoke pools before releasing a beam of white light. On a successful hit, the target must make a Will save against your Class DC. On a failure, the target is stupefied 1 for 1 round. On a critical failure, the target is stupefied 2 for 1 round, and stupefied 1 for 1 minute.
+
+**Mindrender:** Mindrenders emit a carrier waves of light which transmit masses of nanites into the body of their targets. On a successful Strike, the target must make a Fortitude save against your Class DC as its mind and body are wracked by the nanites. On a critical hit, the target takes a -2 penalty on its save against the nanites. On a critical success, the target is unaffected by the nanites and is immune to the mindrender for 1 hour. On a success, the target takes half damage and is sickened 1 and is immune to the mindrender for 1 hour. On a failure, the target takes full damage and is stunned 1 and sickened 2. On a critical failure, the target takes double damage and is stunned 2, slowed 1, and sickened 3.
 
 # Melee Weapons
 
@@ -34,13 +48,23 @@ New traits will be indicated with a carat (^) and are linked to their explanatio
 | Lumenstaff | 0 | 5 | 1d6 B | 1 | 1 | - | Club | Light, two-hand 1d10
 | Spined Blade | 0 | 5 | 1d6 P | L | 1 | - | Sword | Backstabber, deadly d10, finesse
 
+# Martial Melee Weapons
+| Weapon (Commercial) | Item Level | Price | Damage | Bulk | Hands | Upgrades | Group | Weapon Traits |
+| :---- | :---: | :---: | :-----: | :---: | :---: | :---: | :----------: | :-------------------------|
+| Monk's Spade | 0 | 5 | 1d6 S | 1 | 2 | - | Spear | Disarm, finesse, versatile B or P |
+
 ## Simple Ranged Weapons
 | Weapon (Commercial) | Item Level | Price | Damage | Range | Reload | Bulk | Hands | Magazine | Expend | Upgrades | Group | Weapon Traits |
 | :---- | :---: | :---: | :-----: | :-----: | :---: | :---: | :---: | :----------: | :---: | :---: | :----------: | :-------------------------|
- 
-# Martial Melee Weapons
- 
-# Martial Ranged Weapons
+| Dart Gun | 0 | 15 | 1d4 P | 30 ft. | 1 | L | 1 | 10 charges | 1 | 1 | Projectile | Concealable, tech
+| EMP Pistol | 0 | 15 | 1d8 E | 40 ft. | 1 | 1 | 1 | 10 charges | 2 | 1 | Shock | Tech
+| EMP Rifle | 0 | 45 | 1d12 E | 60 ft. | 1 | 2 | 2 | 10 charges | 2 | 1 | Shock | Tech
+| Gravity Pistol | 0 | 25 | 1d6 Fo | 30 ft. | 1 | 1 | 1 | 10 charges | 2 | 1 | Gravity | Graviton, tech
+| Gravity Rifle | 0 | 60 | 1d8 Fo | 50 ft. | 1 | 2 | 2 | 10 charges | 2 | 1 | Gravity | Graviton, tech
+| Id Rifle | 0 | 65 | 1d4 P | 70 ft. | 1 | 2 | 2 | 10 charges | 2 | 1 | Projectile | Incapacitation, tech
+| Inferno Pistol | 0 | 20 | 1d6 F | 30 ft. | 1 | L | 1 | 10 charges | 1 | 1 | Flame | Tech
+| Mindburner | 0 | 50 | 1d4 M | 30 ft. | 1 | 1 | 1 | 10 charges | 2 | 1 | Mental | Incapacitation, nonlethal, tech
+| Mindrender | 0 | 70 | 1d8 M | 40 ft. | 1 | 1 | 1 | 10 charges | 2 | 1 | Mental | Incapacitation, tech
 
 # Weapon Upgrades
 
@@ -73,6 +97,16 @@ A death ray's power is provided by a [nanite canister^](/Technology%20Guide/Gear
 **Activate** [one action] Interact; **Effect** You turn the dial on the death ray, selecting the number of charges you wish to use when activating its secondary activation.
 
 **Activate** [one action] Interact; **Frequency** once per turn; **Charges** 1+; **Effect** You fire the death ray at a creature within 200 feet, projecting a stream of specialized nanites through the beam into the body of the target. Make a ranged Strike, treating the death ray as an Advanced Firearm. On a success, the target must make a DC 20 Fortitude save or be affected by a 9th-rank *disintegrate* effect. You can expend additional charges, up to a maximum of 10. For each additional charge spent beyond the first, the Fortitude save increases by 2, to a maximum of a DC of 38. A death ray does not affect non-living creatures (such as constructs or undead), nor can it penetrate a force field.
+
+## Flare Gun (Timeworn, Commercial, Tactical, Advanced)
+
+**Level** 0 (Timeworn, Commercial, Tactical), 2 (Advanced); **Price** 1 gp (Timeworn), 2 gp (Commercial), 4 gp (Tactical), 30 gp (Advanced); **Damage** 1d6 F (Timeworn, Commercial, Tactical), 2d6 F (Advanced); **Bulk** 1; **Hands** 1; **Range** 120 feet
+
+**Weapon Group** [Flame^](/Traits/README.md#flame); **Traits** [Area^](/Traits/README.md#area-burst-cone-line) (burst 5 ft.), [Analog^](/Traits/README.md#analog), [Timeworn^](/Traits/README.md#timeworn) (Timeworn), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
+
+**Capacity** -; **Usage** 1; **Reload** -; **Upgrades** -
+
+A flare gun looks like a wide-barreled pistol, and although it can be used in combat, the item’s primary use is to send signals. A flare gun and its ammunition (a small, rocket-propelled magnesium charge) are completely self-contained and disposable—once fired, a flare gun is useless. The flare detonates once it hits a target or reaches its maximum range of 600 feet, bursting into a sphere of fire that illuminates a 120-foot-radius area for 1 minute as it drifts slowly back to the ground. Any creatures within 20 feet of the flare must succeed at a DC 15 Fortitude saving throw each round or be dazzled by the intense light for as long as they remain in the area. Creatures adjacent to a lit flare are also blinded for 1d4 rounds on a failed save.
  
 ## Monowhip
 
