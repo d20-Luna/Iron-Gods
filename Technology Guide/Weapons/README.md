@@ -2,129 +2,41 @@
 
 New traits will be indicated with a carat (^) and are linked to their explanation.
 
-## Table of Contents
+# Weapon Descriptions
 
-* [Simple Melee Weapons](#simple-melee-weapons)
-  * [Inferno Knife](#inferno-knife)
-  * [Laser Torch](#laser-torch)
-  * [Lumenstaff](#lumenstaff)
-  * [Neural Inhibitor](#neural-inhibitor)
-  * [Spined Blade](#spined-blade)
-* [Simple Ranged Weapons](#simple-ranged-weapons)
-  * [Arc Pistol](#arc-pistol)
-  * [Arc Rifle](#arc-rifle)
-  * [Autograpnel](#autograpnel)
-  * [Dart Gun](#dart-gun)
-  * [EMP Pistol](#emp-pistol)
-  * [EMP Rifle](#emp-rifle)
-  * [Flare Gun](#flare-gun)
-  * [Gravity Pistol](#gravity-pistol)
-  * [Gravity Rifle](#gravity-rifle)
-  * [Id Rifle](#id-rifle)
-  * [Inferno Pistol](#inferno-pistol)
-  * [Laser Pistol](#laser-pistol)
-  * [Laser Rifle](#laser-rifle)
-  * [Mindburner](#mindburner)
-  * [Mindrender](#mindrender)
-  * [Sonic Pistol](#sonic-pistol)
-  * [Sonic Rifle](#sonic-rifle)
-  * [Stun Gun](#stun-gun)
-  * [Zero Pistol](#zero-pistol)
-  * [Zero Rifle](#zero-rifle)
-* [Martial Melee Weapons](#martial-melee-weapons)
-  * 
-  * [Monk's Spade](#monks-spade)
-  * [Plasma Blade](#plasma-blade)
-  * 
-* [Martial Ranged Weapons](#martial-ranged-weapons)
-  * 
-* [Weapon Upgrades](#weapon-upgrades)
-  * 
-* [Special Technological Weaponry](#special-technological-weaponry)
-  * [Atom Gun](#atom-gun)
-  * [Death Ray](#death-ray)
-  * [Monowhip](#monowhip)
-  * [Nuclear Resonator](#nuclear-resonator)
-  * [Null Blade](#null-blade)
-  * [Rail Gun](#rail-gun)
-  * [Rocket Launcher](#rocket-launcher)
-  * [Starfall Spade](#starfall-spade)
-  * [Vortex Gun](#vortex-gun)
-  * [X-Laser](#x-laser)
+## Simple Melee Weapons
 
-# Simple Melee Weapons
+**Inferno Knife:** This military-grade blade has a line of material running through the center of the blade that can be briefly ignited.
 
-## Inferno Knife
+**Laser Torch:** This handheld tool looks like a blunt-tipped laser pistol. It is intended to cut through objects with great speed. When used against unattended objects or structures, the laser torch is able to ignore 10 points of Hardness unless the target is particularly fire-resistant.
 
-**Level** 0; **Price** 15 gp; **Damage** 1d4 P; **Bulk** L; **Hands** 1;
+**Lumenstaff:** This staff has a hollowed-out tip that contains a biolumenescent algae. On a successful Strike, the algae within the lumenstaff illuminates, releasing light as a torch for 1 round. Additionally, Strikes made with a lumenstaff do not take a penalty when made underwater.
 
-**Weapon Group** [Knife](https://2e.aonprd.com/WeaponGroups.aspx?ID=9), **Traits** [Agile](https://2e.aonprd.com/Traits.aspx?ID=170), [Critical^ (Flame)] (/Traits/README.md#critical), [Finesse](https://2e.aonprd.com/Traits.aspx?ID=179), [Powered^] (/Traits/README.md#powered), [Tech^](/Traits/README.md#tech), [Versatile S](https://2e.aonprd.com/Traits.aspx?ID=200)
+**Spined Blade:** These hardened bone blades are the favored weapons of those who call the alien planet Kasath their home. When poison is applied to a spined blade, the DC of the poison is increased by 2.
 
-This military-grade blade has a line of material running through the center of the blade that can be briefly ignited.
+## Martial Melee Weapons
 
-## Laser Torch
+## Advanced Melee Weapons
 
-**Level** 0; **Price** 20 gp; **Damage** 1d8 Fire; **Bulk** L; **Hands** 1;
+## Simple Ranged Weapons
 
-**Weapon Group** [Laser^](/Traits/README.md#laser), **Traits** [Critical^ (Flame)](/Traits/README.md#flame), [Finesse](https://2e.aonprd.com/Traits.aspx?ID=179), [Razing](https://2e.aonprd.com/Traits.aspx?ID=488), [Tech^](/Traits/README.md#tech)
+## Martial Ranged Weapons
 
-This handheld tool looks like a blunt-tipped laser pistol. It is intended to cut through objects with great speed. When used against unattended objects or structures, the laser torch is able to ignore 10 points of Hardness unless the target is particularly fire-resistant.
+## Advanced Ranged Weapons
 
-## Lumenstaff
+# Melee Weapons
 
-**Level** 0; **Price** 5 gp; **Damage** 1d6 B; **Bulk** 1; **Hands** 1
+## Simple Melee Weapons
+| Weapon (Commercial) | Item Level | Price | Damage | Bulk | Hands | Upgrades | Group | Weapon Traits |
+| :---- | :---: | :---: | :-----: | :---: | :---: | :---: | :----------: | :-------------------------|
+| Inferno Knife | 0 | 15 | 1d4 P | L | 1 | 1 | Knife | Agile, critical (flame), finesse, powered, tech, versatile S |
+| Laser Torch | 0 | 20 | 1d8 F | L | 1 | 1 | Laser | Critical (flame), finesse, razing, tech |
+| Lumenstaff | 0 | 5 | 1d6 B | 1 | 1 | - | Club | Light, two-hand 1d10
+| Spined Blade | 0 | 5 | 1d6 P | L | 1 | - | Sword | Backstabber, deadly d10, finesse
 
-**Weapon Group** [Club](https://2e.aonprd.com/WeaponGroups.aspx?ID=5); **Traits** [Light](https://2e.aonprd.com/Traits.aspx?ID=100), [Two-Hand 1d10](https://2e.aonprd.com/Traits.aspx?ID=718&NoRedirect=1)
-
-This staff has a hollowed-out tip that contains a biolumenescent algae. On a successful Strike, the algae within the lumenstaff illuminates, releasing light as a torch for 1 round. Additionally, Strikes made with a lumenstaff do not take a penalty when made underwater.
-
-## Neural Inhibitor
-
-**Level** 0; **Price** 15 gp; **Damage** 1d6 B; **Bulk** L; **Hands** 1
-
-**Weapon Group** [Club](https://2e.aonprd.com/WeaponGroups.aspx?ID=5); **Traits** [Agile](https://2e.aonprd.com/Traits.aspx?ID=170), [Critical^(Mental)](/Traits/README.md#critical), [Finesse](https://2e.aonprd.com/Traits.aspx?ID=179), [Shove](https://2e.aonprd.com/Traits.aspx?ID=193), [Tech^](/Traits/README.md#tech)
-
-A neural inhibitor is a 2-foot truncheon with multiple bands of metal along the head.
-
-## Spined Blade
-
-**Level** 0; **Price** 5 gp; **Damage** 1d6 P; **Bulk** L; **Hands** 1
-
-**Weapon Group** [Sword](https://2e.aonprd.com/WeaponGroups.aspx?ID=15); **Traits** [Backstabber](https://2e.aonprd.com/Traits.aspx?ID=172), [Deadly d10](https://2e.aonprd.com/Traits.aspx?ID=174), [Finesse](https://2e.aonprd.com/Traits.aspx?ID=179)
-
-These hardened bone blades are the favored weapons of those who call the alien planet Kasath their home. When poison is applied to a spined blade, the DC of the poison is increased by 2.
-
-# Simple Ranged Weapons
-
-## Arc Pistol
-
-**Level** 0; **Price** 25 gp; **Damage** 1d4 E; **Bulk** 1; **Hands** 1; **Range** 30 feet
-
-**Weapon Group** [Shock^](/Traits/README.md#shock); **Traits** [Arc^](/Traits/README.md#arc), [Tech^](/Traits/README.md#tech)
-
-**Reload** 1; **Magazine** 10 charges; **Expend** 2; **Upgrades** 1
-
-Instead of traditional ammunition, this bulky pistol contains a capacitor that generates arcs of electricity. Its stock is crafted from polycarbon or other synthetic insulators, often tinted bright yellow and inscribed with the universal bolt symbol for high voltage.
-
-## Arc Rifle
-
-**Level** 0; **Price** 60 gp; **Damage** 1d6 E; **Bulk** 2; **Hands** 2; **Range** 50 feet
-
-**Weapon Group** [Shock^](/Traits/README.md#shock); **Traits** [Arc^](/Traits/README.md#arc), [Tech^](/Traits/README.md#tech)
-
-**Reload** 1; **Magazine** 10 charges; **Expend** 2; **Upgrades** 1
-
-This rifle’s oversized body contains a larger version of an arc pistol capacitor, with a short barrel and polycarbon stock designed to insulate the wielder from high voltage. The arc rifle’s larger capacitor allows it to produce a charge with enough power to subdue a rampaging renkroda.
-
-## Needler Pistol
-
-**Level** 0; **Price** 15 gp; **Damage** 1d4 Po; **Bulk** 1; **Hands** 1; 30 feet
-
-**Weapon Group** Dart; **Traits** [Analog^](/Traits/README.md#analog), [Injection](https://2e.aonprd.com/Traits.aspx?ID=407)
-
-**Reload** 1; **Magazine** 3 Projectiles; **Expend** 2; **Upgrades** 1
-
-This snub-nosed pistol shoots syringes instead of bullets, allowing the wielder to deliver a dose of medicine or poison from a safe distance. Early needler pistols were red and white peashooters marked with a deity’s holy symbol. Antiques and replicas remain on the market, but are curiosities compared to subtler modern designs.
+## Simple Ranged Weapons
+| Weapon (Commercial) | Item Level | Price | Damage | Range | Reload | Bulk | Hands | Magazine | Expend | Upgrades | Group | Weapon Traits |
+| :---- | :---: | :---: | :-----: | :-----: | :---: | :---: | :---: | :----------: | :---: | :---: | :----------: | :-------------------------|
  
 # Martial Melee Weapons
  
