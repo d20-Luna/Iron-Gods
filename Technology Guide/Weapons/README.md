@@ -16,7 +16,7 @@ New traits will be indicated with a carat (^) and are linked to their explanatio
 
 ## Martial Melee Weapons
 
-**Monk's Spade:** 
+**Monk's Spade:** This two-headed polearm is fitted with a broad, shovel-like sharpened blade on one end, and a crescent blade on the other. Its spade side is capable of slashing and bludgeoning motions, while its crescent side is built for slashing and piercing.
 
 ## Simple Ranged Weapons
 
@@ -51,7 +51,7 @@ New traits will be indicated with a carat (^) and are linked to their explanatio
 # Martial Melee Weapons
 | Weapon (Commercial) | Item Level | Price | Damage | Bulk | Hands | Upgrades | Group | Weapon Traits |
 | :---- | :---: | :---: | :-----: | :---: | :---: | :---: | :----------: | :-------------------------|
-| Monk's Spade | 0 | 5 | 1d6 S | 1 | 2 | - | Spear | Disarm, finesse, versatile B or P |
+| Monk's Spade | 0 | 5 | 1d6 S | 1 | 2 | - | Polearm | Disarm, finesse, monk, versatile B or P |
 
 ## Simple Ranged Weapons
 | Weapon (Commercial) | Item Level | Price | Damage | Range | Reload | Bulk | Hands | Magazine | Expend | Upgrades | Group | Weapon Traits |
