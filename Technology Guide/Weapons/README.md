@@ -98,15 +98,45 @@ A death ray's power is provided by a [nanite canister^](/Technology%20Guide/Gear
 
 **Activate** [one action] Interact; **Frequency** once per turn; **Charges** 1+; **Effect** You fire the death ray at a creature within 200 feet, projecting a stream of specialized nanites through the beam into the body of the target. Make a ranged Strike, treating the death ray as an Advanced Firearm. On a success, the target must make a DC 20 Fortitude save or be affected by a 9th-rank *disintegrate* effect. You can expend additional charges, up to a maximum of 10. For each additional charge spent beyond the first, the Fortitude save increases by 2, to a maximum of a DC of 38. A death ray does not affect non-living creatures (such as constructs or undead), nor can it penetrate a force field.
 
-## Flare Gun (Timeworn, Commercial, Tactical, Advanced)
+## Flare Gun
 
-**Level** 0 (Timeworn, Commercial, Tactical), 2 (Advanced); **Price** 1 gp (Timeworn), 2 gp (Commercial), 4 gp (Tactical), 30 gp (Advanced); **Damage** 1d6 F (Timeworn, Commercial, Tactical), 2d6 F (Advanced); **Bulk** 1; **Hands** 1; **Range** 120 feet
+**Level** 0+
 
-**Weapon Group** [Flame^](/Traits/README.md#flame); **Traits** [Area^](/Traits/README.md#area-burst-cone-line) (burst 5 ft.), [Analog^](/Traits/README.md#analog), [Timeworn^](/Traits/README.md#timeworn) (Timeworn), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
+**Traits** Consumable, Tech
 
-**Capacity** -; **Usage** 1; **Reload** -; **Upgrades** -
+**Usage** held in 1 hand; **Bulk** 1
 
-A flare gun looks like a wide-barreled pistol, and although it can be used in combat, the item’s primary use is to send signals. A flare gun and its ammunition (a small, rocket-propelled magnesium charge) are completely self-contained and disposable—once fired, a flare gun is useless. The flare detonates once it hits a target or reaches its maximum range of 600 feet, bursting into a sphere of fire that illuminates a 120-foot-radius area for 1 minute as it drifts slowly back to the ground. Any creatures within 20 feet of the flare must succeed at a DC 15 Fortitude saving throw each round or be dazzled by the intense light for as long as they remain in the area. Creatures adjacent to a lit flare are also blinded for 1d4 rounds on a failed save.
+**Activate** [one-action] Area Fire
+
+A flare gun looks like a wide-barreled pistol, and although it can be used in combat, the item’s primary use is to send signals. A flare gun and its ammunition (a small, rocket-propelled magnesium charge) are completely self-contained and disposable—once fired, a flare gun is useless. Treat the flare gun as a Simple Firearm that deals fire damage, is in the [Flame] Weapon Group, with a range of 120 feet, and the [Area] (burst), [Analog], and [Tech] traits. The flare detonates once it hits a target or reaches its maximum range of 600 feet, bursting into a sphere of fire that illuminates a 120-foot-radius area for 1 minute as it drifts slowly back to the ground. Any creatures within 20 feet of the flare must succeed at a Fortitude saving throw against your Class DC each round or be dazzled by the intense light for as long as they remain in the area. Creatures adjacent to a lit flare are also blinded for 1d4 rounds on a failed save.
+
+**Type** commercial; **Level** 0; **Price** 10 credits
+
+The radius is 5 feet and deals 1d6 fire damage.
+
+**Type** tactical; **Level** 2; **Price** 80 credits
+
+The radius is 10 feet, deals 1d6 fire damage, and has the [Tracking] +1 trait.
+
+**Type** advanced; **Level** 4; **Price** 120 credits
+
+The radius is 10 feet, deals 2d6 fire damage, and has the [Tracking] +1 trait.
+
+**Type** superior; **Level** 10; **Price** 1500 credits
+
+The radius is 15 feet, deals 2d6 fire damage, and has the [Tracking] +2 trait.
+
+**Type** elite; **Level** 12; **Price** 3000 credits
+
+The radius is 15 feet, deals 3d6 fire damage, and has the [Tracking] +2 trait.
+
+**Type** ultimate; **Level** 16; **Price** 13000 credits
+
+The radius is 20 feet, deals 3d6 fire damage, and has the [Tracking] +3 trait.
+
+**Type** paragon; **Level** 19; **Price** 50000 credits
+
+The radius is 20 feet, deals 4d6 fire damage, and has the [Tracking] +3 trait.
  
 ## Monowhip
 
