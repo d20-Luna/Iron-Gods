@@ -139,27 +139,125 @@ A flashlight's power is provided by a [battery^](#battery). A fully charged batt
 
 The contents of a single goo tube can provide nourishment for a day for one Medium-size creature.
 
-## Grenade
+## Arc Grenade
 
-**Traits** [Uncommon](https://2e.aonprd.com/Traits.aspx?ID=159), [Bomb](https://2e.aonprd.com/Traits.aspx?ID=21), [Consumable](https://2e.aonprd.com/Traits.aspx?ID=36), [Grenade^](/Traits/README.md#grenade), [Tech^](/Traits/README.md#tech)
+**Level** 0+
+
+**Traits** Consumable, Electricity, [Grenade^](/Traits/README.md#grenade), [Tech^](/Traits/README.md#tech)
 
 **Usage** held in 1 hand; **Bulk** L
 
-Grenades are explosives that can be thrown anywhere within 60 feet, with an area of effect as a 20-foot burst. However it is similar to beads on a *[necklace of fireballs](http://2e.aonprd.com/Equipment.aspx?ID=449)* where if it is a particularly difficult situation the GM may ask you to make an attack roll (treat as a bomb: martial proficiency with a 20 foot range increment).
+**Activate** [one-action] Area Fire
 
-Grenades need to be armed before activating, and go off at the start of the user's next turn after being primed - regardless if it has been thrown or not. When a grenade goes off, targets in the area of effect usually have to make a basic Reflex save; the DC and effect depends on the grenade.
+These yellow grenades use a miniaturized arc generator to explode in a blast of electricity and deal electricity damage with a basic Reflex save.
 
-**Activate** [one action] Interact; **Effect** You arm the grenade. It will activate at the start of your next turn, whether you have thrown it or not.
+**Type** commercial; **Level** 0; **Price** 10 credits; **Critical** 1 persistent electricity damage
 
-**Activate** [one action] Interact (ranged); **Effect** You toss the grenade at any area within 60 feet. If this action is disrupted - such as by a critical hit from an [Reactive Strike](http://2e.aonprd.com/Actions.aspx?ID=8) - you drop the grenade on the ground directly beneath you.
+The burst radius is 5 feet, the electricity damage is 1d8.
 
-Here is a list of the various kinds of grenades and their effects.
+**Type** tactical; **Level** 2; **Price** 80 credits; **Critical** 1d4 persistent electricity damage
 
-Grenade                   | Level | Price  | Save DC       | Extra Traits      | Effect
---------------------------|-------|--------|---------------|-------------------|---------------------
-Bang Grenade (light gray) | 3     | 15 gp  | Fort 23       | Auditory          | On a failure, creatures are deafened until the end of their next turn. On a critical failure, creature is deafened for 1 minute and stunned 1
-Flash Grenade (white)     | 1     | 5 gp   | Fort 20       | Light, Visual     | Creatures are blinded for 1 round and dazzled for 1 minute. Creatures blinded this way can spend 1 interact action rubbing their eyes to end the blinded condition
-Soft Grenade (pink)       | 5     | 25 gp  | basic Ref 22  | Nonlethal         | 5d6 bludgeoning damage. This effect has the nonlethal trait
+The burst radius is 10 feet, the electricity damage is 1d8.
+
+**Type** advanced; **Level** 4; **Price** 120 credits; **Critical** 1d4 persistent electricity damage
+
+The burst radius is 10 feet, the electricity damage is 2d8.
+
+**Type** superior; **Level** 10; **Price** 1500 credits; **Critical** 1d6 persistent electricity damage
+
+The burst radius is 15 feet, the electricity damage is 2d8.
+
+**Type** elite; **Level** 12; **Price** 3000 credits; **Critical** 1d6 persistent electricity damage
+
+The burst radius is 15 feet, the electricity damage is 3d8.
+
+**Type** ultimate; **Level** 16; **Price** 13000 credits; **Critical** 1d8 persistent electricity damage
+
+The burst radius is 20 feet, the electricity damage is 3d8.
+
+**Type** paragon; **Level** 19; **Price** 50000 credits; **Critical** 1d8 persistent electricity damage
+
+The burst radius is 20 feet, the electricity damage is 4d8.
+
+## Bang Grenade
+
+**Level** 0+
+
+**Traits** Auditory, Consumable, [Grenade^](/Traits/README.md#grenade), [Tech^](/Traits/README.md#tech)
+
+**Usage** held in 1 hand; **Bulk** L
+
+**Activate** [one-action] Area Fire
+
+This light-gray grenade unleashes a burst of intense sound that requires creatures in the radius to make a Fortitude save.
+
+**Type** commercial; **Level** 0; **Price** 10 credits
+
+The radius is 5 feet and on a failure the creature is deafened for 1 round.
+
+**Type** tactical; **Level** 2; **Price** 80 credits; **Critical** stunned 1
+
+The radius is 10 feet and on a failure the creature is deafened for 1 round.
+
+**Type** advanced; **Level** 4; **Price** 120 credits; **Critical** stunned 1
+
+The radius is 10 feet and on a failure the creature is deafened for 3 rounds.
+
+**Type** superior; **Level** 10; **Price** 1500 credits; **Critical** stunned 1
+
+The radius is 15 feet and on a failure the creature is deafened for 3 round.
+
+**Type** elite; **Level** 12; **Price** 3000 credits; **Critical** stunned 2
+
+The radius is 15 feet and on a failure the creature is deafened for 1 minute.
+
+**Type** ultimate; **Level** 16; **Price** 13000 credits; **Critical** stunned 2
+
+The radius is 20 feet and on a failure the creature is deafened for 1 minute.
+
+**Type** paragon; **Level** 19; **Price** 50000 credits; **Critical** stunned 3
+
+The radius is 20 feet and on a failure the creature is deafened permanently.
+
+## Soft Grenade
+
+**Level** 0+
+
+**Traits** Consumable, [Grenade^](/Traits/README.md#grenade), Nonlethal, [Tech^](/Traits/README.md#tech)
+
+**Usage** held in 1 hand; **Bulk** L
+
+**Activate** [one-action] Area Fire
+
+These pink, crowd-control grenades explode in a cloud of rubber pellets and deal bludgeoning damage in a burst with a basic Reflex save.
+
+**Type** commercial; **Level** 0; **Price** 10 credits
+
+The burst radius is 5 feet, the bludgeoning damage is 1d10.
+
+**Type** tactical; **Level** 2; **Price** 80 credits
+
+The burst radius is 10 feet, the bludgeoning damage is 1d10.
+
+**Type** advanced; **Level** 4; **Price** 120 credits
+
+The burst radius is 10 feet, the bludgeoning damage is 2d10.
+
+**Type** superior; **Level** 10; **Price** 1500 credits
+
+The burst radius is 15 feet, the bludgeoning damage is 2d10.
+
+**Type** elite; **Level** 12; **Price** 3000 credits
+
+The burst radius is 15 feet, the bludgeoning damage is 3d10.
+
+**Type** ultimate; **Level** 16; **Price** 13000 credits
+
+The burst radius is 20 feet, the bludgeoning damage is 3d10.
+
+**Type** paragon; **Level** 19; **Price** 50000 credits
+
+The burst radius is 20 feet, the bludgeoning damage is 4d10.
 
 ## Grippers
 
